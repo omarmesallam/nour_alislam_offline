@@ -15,6 +15,9703 @@ class Assets {
   static const AssetGenImage rightArrow = AssetGenImage(
     'assets/icons/right_arrow.png',
   );
+  static const String surah = 'assets/surahdata/surah.json';
+  static const $AssetsAssetsGen assets = $AssetsAssetsGen();
+}
+
+class $AssetsAssetsGen {
+  const $AssetsAssetsGen();
+
+  final $AssetsBookGen book = const $AssetsBookGen();
+}
+
+class $AssetsBookGen {
+  const $AssetsBookGen();
+
+  final $AssetsPart1Gen part1 = const $AssetsPart1Gen();
+  final $AssetsPart2Gen part2 = const $AssetsPart2Gen();
+  final $AssetsPart3Gen part3 = const $AssetsPart3Gen();
+  final $AssetsPart4Gen part4 = const $AssetsPart4Gen();
+}
+
+class $AssetsPart1Gen {
+  const $AssetsPart1Gen();
+
+  final AssetGenImage k1001 = const AssetGenImage(
+    'assets/book/part1/K1-001.jpg',
+  );
+  final AssetGenImage k1002 = const AssetGenImage(
+    'assets/book/part1/K1-002.jpg',
+  );
+  final AssetGenImage k1003 = const AssetGenImage(
+    'assets/book/part1/K1-003.jpg',
+  );
+  final AssetGenImage k1004 = const AssetGenImage(
+    'assets/book/part1/K1-004.jpg',
+  );
+  final AssetGenImage k1005 = const AssetGenImage(
+    'assets/book/part1/K1-005.jpg',
+  );
+  final AssetGenImage k1006 = const AssetGenImage(
+    'assets/book/part1/K1-006.jpg',
+  );
+  final AssetGenImage k1007 = const AssetGenImage(
+    'assets/book/part1/K1-007.jpg',
+  );
+  final AssetGenImage k1008 = const AssetGenImage(
+    'assets/book/part1/K1-008.jpg',
+  );
+  final AssetGenImage k1009 = const AssetGenImage(
+    'assets/book/part1/K1-009.jpg',
+  );
+  final AssetGenImage k1010 = const AssetGenImage(
+    'assets/book/part1/K1-010.jpg',
+  );
+  final AssetGenImage k1011 = const AssetGenImage(
+    'assets/book/part1/K1-011.jpg',
+  );
+  final AssetGenImage k1012 = const AssetGenImage(
+    'assets/book/part1/K1-012.jpg',
+  );
+  final AssetGenImage k1013 = const AssetGenImage(
+    'assets/book/part1/K1-013.jpg',
+  );
+  final AssetGenImage k1014 = const AssetGenImage(
+    'assets/book/part1/K1-014.jpg',
+  );
+  final AssetGenImage k1015 = const AssetGenImage(
+    'assets/book/part1/K1-015.jpg',
+  );
+  final AssetGenImage k1016 = const AssetGenImage(
+    'assets/book/part1/K1-016.jpg',
+  );
+  final AssetGenImage k1017 = const AssetGenImage(
+    'assets/book/part1/K1-017.jpg',
+  );
+  final AssetGenImage k1018 = const AssetGenImage(
+    'assets/book/part1/K1-018.jpg',
+  );
+  final AssetGenImage k1019 = const AssetGenImage(
+    'assets/book/part1/K1-019.jpg',
+  );
+  final AssetGenImage k1020 = const AssetGenImage(
+    'assets/book/part1/K1-020.jpg',
+  );
+  final AssetGenImage k1021 = const AssetGenImage(
+    'assets/book/part1/K1-021.jpg',
+  );
+  final AssetGenImage k1022 = const AssetGenImage(
+    'assets/book/part1/K1-022.jpg',
+  );
+  final AssetGenImage k1023 = const AssetGenImage(
+    'assets/book/part1/K1-023.jpg',
+  );
+  final AssetGenImage k1024 = const AssetGenImage(
+    'assets/book/part1/K1-024.jpg',
+  );
+  final AssetGenImage k1025 = const AssetGenImage(
+    'assets/book/part1/K1-025.jpg',
+  );
+  final AssetGenImage k1026 = const AssetGenImage(
+    'assets/book/part1/K1-026.jpg',
+  );
+  final AssetGenImage k1027 = const AssetGenImage(
+    'assets/book/part1/K1-027.jpg',
+  );
+  final AssetGenImage k1028 = const AssetGenImage(
+    'assets/book/part1/K1-028.jpg',
+  );
+  final AssetGenImage k1029 = const AssetGenImage(
+    'assets/book/part1/K1-029.jpg',
+  );
+  final AssetGenImage k1030 = const AssetGenImage(
+    'assets/book/part1/K1-030.jpg',
+  );
+  final AssetGenImage k1031 = const AssetGenImage(
+    'assets/book/part1/K1-031.jpg',
+  );
+  final AssetGenImage k1032 = const AssetGenImage(
+    'assets/book/part1/K1-032.jpg',
+  );
+  final AssetGenImage k1033 = const AssetGenImage(
+    'assets/book/part1/K1-033.jpg',
+  );
+  final AssetGenImage k1034 = const AssetGenImage(
+    'assets/book/part1/K1-034.jpg',
+  );
+  final AssetGenImage k1035 = const AssetGenImage(
+    'assets/book/part1/K1-035.jpg',
+  );
+  final AssetGenImage k1036 = const AssetGenImage(
+    'assets/book/part1/K1-036.jpg',
+  );
+  final AssetGenImage k1037 = const AssetGenImage(
+    'assets/book/part1/K1-037.jpg',
+  );
+  final AssetGenImage k1038 = const AssetGenImage(
+    'assets/book/part1/K1-038.jpg',
+  );
+  final AssetGenImage k1039 = const AssetGenImage(
+    'assets/book/part1/K1-039.jpg',
+  );
+  final AssetGenImage k1040 = const AssetGenImage(
+    'assets/book/part1/K1-040.jpg',
+  );
+  final AssetGenImage k1041 = const AssetGenImage(
+    'assets/book/part1/K1-041.jpg',
+  );
+  final AssetGenImage k1042 = const AssetGenImage(
+    'assets/book/part1/K1-042.jpg',
+  );
+  final AssetGenImage k1043 = const AssetGenImage(
+    'assets/book/part1/K1-043.jpg',
+  );
+  final AssetGenImage k1044 = const AssetGenImage(
+    'assets/book/part1/K1-044.jpg',
+  );
+  final AssetGenImage k1045 = const AssetGenImage(
+    'assets/book/part1/K1-045.jpg',
+  );
+  final AssetGenImage k1046 = const AssetGenImage(
+    'assets/book/part1/K1-046.jpg',
+  );
+  final AssetGenImage k1047 = const AssetGenImage(
+    'assets/book/part1/K1-047.jpg',
+  );
+  final AssetGenImage k1048 = const AssetGenImage(
+    'assets/book/part1/K1-048.jpg',
+  );
+  final AssetGenImage k1049 = const AssetGenImage(
+    'assets/book/part1/K1-049.jpg',
+  );
+  final AssetGenImage k1050 = const AssetGenImage(
+    'assets/book/part1/K1-050.jpg',
+  );
+  final AssetGenImage k1051 = const AssetGenImage(
+    'assets/book/part1/K1-051.jpg',
+  );
+  final AssetGenImage k1052 = const AssetGenImage(
+    'assets/book/part1/K1-052.jpg',
+  );
+  final AssetGenImage k1053 = const AssetGenImage(
+    'assets/book/part1/K1-053.jpg',
+  );
+  final AssetGenImage k1054 = const AssetGenImage(
+    'assets/book/part1/K1-054.jpg',
+  );
+  final AssetGenImage k1055 = const AssetGenImage(
+    'assets/book/part1/K1-055.jpg',
+  );
+  final AssetGenImage k1056 = const AssetGenImage(
+    'assets/book/part1/K1-056.jpg',
+  );
+  final AssetGenImage k1057 = const AssetGenImage(
+    'assets/book/part1/K1-057.jpg',
+  );
+  final AssetGenImage k1058 = const AssetGenImage(
+    'assets/book/part1/K1-058.jpg',
+  );
+  final AssetGenImage k1059 = const AssetGenImage(
+    'assets/book/part1/K1-059.jpg',
+  );
+  final AssetGenImage k1060 = const AssetGenImage(
+    'assets/book/part1/K1-060.jpg',
+  );
+  final AssetGenImage k1061 = const AssetGenImage(
+    'assets/book/part1/K1-061.jpg',
+  );
+  final AssetGenImage k1062 = const AssetGenImage(
+    'assets/book/part1/K1-062.jpg',
+  );
+  final AssetGenImage k1063 = const AssetGenImage(
+    'assets/book/part1/K1-063.jpg',
+  );
+  final AssetGenImage k1064 = const AssetGenImage(
+    'assets/book/part1/K1-064.jpg',
+  );
+  final AssetGenImage k1065 = const AssetGenImage(
+    'assets/book/part1/K1-065.jpg',
+  );
+  final AssetGenImage k1066 = const AssetGenImage(
+    'assets/book/part1/K1-066.jpg',
+  );
+  final AssetGenImage k1067 = const AssetGenImage(
+    'assets/book/part1/K1-067.jpg',
+  );
+  final AssetGenImage k1068 = const AssetGenImage(
+    'assets/book/part1/K1-068.jpg',
+  );
+  final AssetGenImage k1069 = const AssetGenImage(
+    'assets/book/part1/K1-069.jpg',
+  );
+  final AssetGenImage k1070 = const AssetGenImage(
+    'assets/book/part1/K1-070.jpg',
+  );
+  final AssetGenImage k1071 = const AssetGenImage(
+    'assets/book/part1/K1-071.jpg',
+  );
+  final AssetGenImage k1072 = const AssetGenImage(
+    'assets/book/part1/K1-072.jpg',
+  );
+  final AssetGenImage k1073 = const AssetGenImage(
+    'assets/book/part1/K1-073.jpg',
+  );
+  final AssetGenImage k1074 = const AssetGenImage(
+    'assets/book/part1/K1-074.jpg',
+  );
+  final AssetGenImage k1075 = const AssetGenImage(
+    'assets/book/part1/K1-075.jpg',
+  );
+  final AssetGenImage k1076 = const AssetGenImage(
+    'assets/book/part1/K1-076.jpg',
+  );
+  final AssetGenImage k1077 = const AssetGenImage(
+    'assets/book/part1/K1-077.jpg',
+  );
+  final AssetGenImage k1078 = const AssetGenImage(
+    'assets/book/part1/K1-078.jpg',
+  );
+  final AssetGenImage k1079 = const AssetGenImage(
+    'assets/book/part1/K1-079.jpg',
+  );
+  final AssetGenImage k1080 = const AssetGenImage(
+    'assets/book/part1/K1-080.jpg',
+  );
+  final AssetGenImage k1081 = const AssetGenImage(
+    'assets/book/part1/K1-081.jpg',
+  );
+  final AssetGenImage k1082 = const AssetGenImage(
+    'assets/book/part1/K1-082.jpg',
+  );
+  final AssetGenImage k1083 = const AssetGenImage(
+    'assets/book/part1/K1-083.jpg',
+  );
+  final AssetGenImage k1084 = const AssetGenImage(
+    'assets/book/part1/K1-084.jpg',
+  );
+  final AssetGenImage k1085 = const AssetGenImage(
+    'assets/book/part1/K1-085.jpg',
+  );
+  final AssetGenImage k1086 = const AssetGenImage(
+    'assets/book/part1/K1-086.jpg',
+  );
+  final AssetGenImage k1087 = const AssetGenImage(
+    'assets/book/part1/K1-087.jpg',
+  );
+  final AssetGenImage k1088 = const AssetGenImage(
+    'assets/book/part1/K1-088.jpg',
+  );
+  final AssetGenImage k1089 = const AssetGenImage(
+    'assets/book/part1/K1-089.jpg',
+  );
+  final AssetGenImage k1090 = const AssetGenImage(
+    'assets/book/part1/K1-090.jpg',
+  );
+  final AssetGenImage k1091 = const AssetGenImage(
+    'assets/book/part1/K1-091.jpg',
+  );
+  final AssetGenImage k1092 = const AssetGenImage(
+    'assets/book/part1/K1-092.jpg',
+  );
+  final AssetGenImage k1093 = const AssetGenImage(
+    'assets/book/part1/K1-093.jpg',
+  );
+  final AssetGenImage k1094 = const AssetGenImage(
+    'assets/book/part1/K1-094.jpg',
+  );
+  final AssetGenImage k1095 = const AssetGenImage(
+    'assets/book/part1/K1-095.jpg',
+  );
+  final AssetGenImage k1096 = const AssetGenImage(
+    'assets/book/part1/K1-096.jpg',
+  );
+  final AssetGenImage k1097 = const AssetGenImage(
+    'assets/book/part1/K1-097.jpg',
+  );
+  final AssetGenImage k1098 = const AssetGenImage(
+    'assets/book/part1/K1-098.jpg',
+  );
+  final AssetGenImage k1099 = const AssetGenImage(
+    'assets/book/part1/K1-099.jpg',
+  );
+  final AssetGenImage k1100 = const AssetGenImage(
+    'assets/book/part1/K1-100.jpg',
+  );
+  final AssetGenImage k1101 = const AssetGenImage(
+    'assets/book/part1/K1-101.jpg',
+  );
+  final AssetGenImage k1102 = const AssetGenImage(
+    'assets/book/part1/K1-102.jpg',
+  );
+  final AssetGenImage k1103 = const AssetGenImage(
+    'assets/book/part1/K1-103.jpg',
+  );
+  final AssetGenImage k1104 = const AssetGenImage(
+    'assets/book/part1/K1-104.jpg',
+  );
+  final AssetGenImage k1105 = const AssetGenImage(
+    'assets/book/part1/K1-105.jpg',
+  );
+  final AssetGenImage k1106 = const AssetGenImage(
+    'assets/book/part1/K1-106.jpg',
+  );
+  final AssetGenImage k1107 = const AssetGenImage(
+    'assets/book/part1/K1-107.jpg',
+  );
+  final AssetGenImage k1108 = const AssetGenImage(
+    'assets/book/part1/K1-108.jpg',
+  );
+  final AssetGenImage k1109 = const AssetGenImage(
+    'assets/book/part1/K1-109.jpg',
+  );
+  final AssetGenImage k1110 = const AssetGenImage(
+    'assets/book/part1/K1-110.jpg',
+  );
+  final AssetGenImage k1111 = const AssetGenImage(
+    'assets/book/part1/K1-111.jpg',
+  );
+  final AssetGenImage k1112 = const AssetGenImage(
+    'assets/book/part1/K1-112.jpg',
+  );
+  final AssetGenImage k1113 = const AssetGenImage(
+    'assets/book/part1/K1-113.jpg',
+  );
+  final AssetGenImage k1114 = const AssetGenImage(
+    'assets/book/part1/K1-114.jpg',
+  );
+  final AssetGenImage k1115 = const AssetGenImage(
+    'assets/book/part1/K1-115.jpg',
+  );
+  final AssetGenImage k1116 = const AssetGenImage(
+    'assets/book/part1/K1-116.jpg',
+  );
+  final AssetGenImage k1117 = const AssetGenImage(
+    'assets/book/part1/K1-117.jpg',
+  );
+  final AssetGenImage k1118 = const AssetGenImage(
+    'assets/book/part1/K1-118.jpg',
+  );
+  final AssetGenImage k1119 = const AssetGenImage(
+    'assets/book/part1/K1-119.jpg',
+  );
+  final AssetGenImage k1120 = const AssetGenImage(
+    'assets/book/part1/K1-120.jpg',
+  );
+  final AssetGenImage k1121 = const AssetGenImage(
+    'assets/book/part1/K1-121.jpg',
+  );
+  final AssetGenImage k1122 = const AssetGenImage(
+    'assets/book/part1/K1-122.jpg',
+  );
+  final AssetGenImage k1123 = const AssetGenImage(
+    'assets/book/part1/K1-123.jpg',
+  );
+  final AssetGenImage k1124 = const AssetGenImage(
+    'assets/book/part1/K1-124.jpg',
+  );
+  final AssetGenImage k1125 = const AssetGenImage(
+    'assets/book/part1/K1-125.jpg',
+  );
+  final AssetGenImage k1126 = const AssetGenImage(
+    'assets/book/part1/K1-126.jpg',
+  );
+  final AssetGenImage k1127 = const AssetGenImage(
+    'assets/book/part1/K1-127.jpg',
+  );
+  final AssetGenImage k1128 = const AssetGenImage(
+    'assets/book/part1/K1-128.jpg',
+  );
+  final AssetGenImage k1129 = const AssetGenImage(
+    'assets/book/part1/K1-129.jpg',
+  );
+  final AssetGenImage k1130 = const AssetGenImage(
+    'assets/book/part1/K1-130.jpg',
+  );
+  final AssetGenImage k1131 = const AssetGenImage(
+    'assets/book/part1/K1-131.jpg',
+  );
+  final AssetGenImage k1132 = const AssetGenImage(
+    'assets/book/part1/K1-132.jpg',
+  );
+  final AssetGenImage k1133 = const AssetGenImage(
+    'assets/book/part1/K1-133.jpg',
+  );
+  final AssetGenImage k1134 = const AssetGenImage(
+    'assets/book/part1/K1-134.jpg',
+  );
+  final AssetGenImage k1135 = const AssetGenImage(
+    'assets/book/part1/K1-135.jpg',
+  );
+  final AssetGenImage k1136 = const AssetGenImage(
+    'assets/book/part1/K1-136.jpg',
+  );
+  final AssetGenImage k1137 = const AssetGenImage(
+    'assets/book/part1/K1-137.jpg',
+  );
+  final AssetGenImage k1138 = const AssetGenImage(
+    'assets/book/part1/K1-138.jpg',
+  );
+  final AssetGenImage k1139 = const AssetGenImage(
+    'assets/book/part1/K1-139.jpg',
+  );
+  final AssetGenImage k1140 = const AssetGenImage(
+    'assets/book/part1/K1-140.jpg',
+  );
+  final AssetGenImage k1141 = const AssetGenImage(
+    'assets/book/part1/K1-141.jpg',
+  );
+  final AssetGenImage k1142 = const AssetGenImage(
+    'assets/book/part1/K1-142.jpg',
+  );
+  final AssetGenImage k1143 = const AssetGenImage(
+    'assets/book/part1/K1-143.jpg',
+  );
+  final AssetGenImage k1144 = const AssetGenImage(
+    'assets/book/part1/K1-144.jpg',
+  );
+  final AssetGenImage k1145 = const AssetGenImage(
+    'assets/book/part1/K1-145.jpg',
+  );
+  final AssetGenImage k1146 = const AssetGenImage(
+    'assets/book/part1/K1-146.jpg',
+  );
+  final AssetGenImage k1147 = const AssetGenImage(
+    'assets/book/part1/K1-147.jpg',
+  );
+  final AssetGenImage k1148 = const AssetGenImage(
+    'assets/book/part1/K1-148.jpg',
+  );
+  final AssetGenImage k1149 = const AssetGenImage(
+    'assets/book/part1/K1-149.jpg',
+  );
+  final AssetGenImage k1150 = const AssetGenImage(
+    'assets/book/part1/K1-150.jpg',
+  );
+  final AssetGenImage k1151 = const AssetGenImage(
+    'assets/book/part1/K1-151.jpg',
+  );
+  final AssetGenImage k1152 = const AssetGenImage(
+    'assets/book/part1/K1-152.jpg',
+  );
+  final AssetGenImage k1153 = const AssetGenImage(
+    'assets/book/part1/K1-153.jpg',
+  );
+  final AssetGenImage k1154 = const AssetGenImage(
+    'assets/book/part1/K1-154.jpg',
+  );
+  final AssetGenImage k1155 = const AssetGenImage(
+    'assets/book/part1/K1-155.jpg',
+  );
+  final AssetGenImage k1156 = const AssetGenImage(
+    'assets/book/part1/K1-156.jpg',
+  );
+  final AssetGenImage k1157 = const AssetGenImage(
+    'assets/book/part1/K1-157.jpg',
+  );
+  final AssetGenImage k1158 = const AssetGenImage(
+    'assets/book/part1/K1-158.jpg',
+  );
+  final AssetGenImage k1159 = const AssetGenImage(
+    'assets/book/part1/K1-159.jpg',
+  );
+  final AssetGenImage k1160 = const AssetGenImage(
+    'assets/book/part1/K1-160.jpg',
+  );
+  final AssetGenImage k1161 = const AssetGenImage(
+    'assets/book/part1/K1-161.jpg',
+  );
+  final AssetGenImage k1162 = const AssetGenImage(
+    'assets/book/part1/K1-162.jpg',
+  );
+  final AssetGenImage k1163 = const AssetGenImage(
+    'assets/book/part1/K1-163.jpg',
+  );
+  final AssetGenImage k1164 = const AssetGenImage(
+    'assets/book/part1/K1-164.jpg',
+  );
+  final AssetGenImage k1165 = const AssetGenImage(
+    'assets/book/part1/K1-165.jpg',
+  );
+  final AssetGenImage k1166 = const AssetGenImage(
+    'assets/book/part1/K1-166.jpg',
+  );
+  final AssetGenImage k1167 = const AssetGenImage(
+    'assets/book/part1/K1-167.jpg',
+  );
+  final AssetGenImage k1168 = const AssetGenImage(
+    'assets/book/part1/K1-168.jpg',
+  );
+  final AssetGenImage k1169 = const AssetGenImage(
+    'assets/book/part1/K1-169.jpg',
+  );
+  final AssetGenImage k1170 = const AssetGenImage(
+    'assets/book/part1/K1-170.jpg',
+  );
+  final AssetGenImage k1171 = const AssetGenImage(
+    'assets/book/part1/K1-171.jpg',
+  );
+  final AssetGenImage k1172 = const AssetGenImage(
+    'assets/book/part1/K1-172.jpg',
+  );
+  final AssetGenImage k1173 = const AssetGenImage(
+    'assets/book/part1/K1-173.jpg',
+  );
+  final AssetGenImage k1174 = const AssetGenImage(
+    'assets/book/part1/K1-174.jpg',
+  );
+  final AssetGenImage k1175 = const AssetGenImage(
+    'assets/book/part1/K1-175.jpg',
+  );
+  final AssetGenImage k1176 = const AssetGenImage(
+    'assets/book/part1/K1-176.jpg',
+  );
+  final AssetGenImage k1177 = const AssetGenImage(
+    'assets/book/part1/K1-177.jpg',
+  );
+  final AssetGenImage k1178 = const AssetGenImage(
+    'assets/book/part1/K1-178.jpg',
+  );
+  final AssetGenImage k1179 = const AssetGenImage(
+    'assets/book/part1/K1-179.jpg',
+  );
+  final AssetGenImage k1180 = const AssetGenImage(
+    'assets/book/part1/K1-180.jpg',
+  );
+  final AssetGenImage k1181 = const AssetGenImage(
+    'assets/book/part1/K1-181.jpg',
+  );
+  final AssetGenImage k1182 = const AssetGenImage(
+    'assets/book/part1/K1-182.jpg',
+  );
+  final AssetGenImage k1183 = const AssetGenImage(
+    'assets/book/part1/K1-183.jpg',
+  );
+  final AssetGenImage k1184 = const AssetGenImage(
+    'assets/book/part1/K1-184.jpg',
+  );
+  final AssetGenImage k1185 = const AssetGenImage(
+    'assets/book/part1/K1-185.jpg',
+  );
+  final AssetGenImage k1186 = const AssetGenImage(
+    'assets/book/part1/K1-186.jpg',
+  );
+  final AssetGenImage k1187 = const AssetGenImage(
+    'assets/book/part1/K1-187.jpg',
+  );
+  final AssetGenImage k1188 = const AssetGenImage(
+    'assets/book/part1/K1-188.jpg',
+  );
+  final AssetGenImage k1189 = const AssetGenImage(
+    'assets/book/part1/K1-189.jpg',
+  );
+  final AssetGenImage k1190 = const AssetGenImage(
+    'assets/book/part1/K1-190.jpg',
+  );
+  final AssetGenImage k1191 = const AssetGenImage(
+    'assets/book/part1/K1-191.jpg',
+  );
+  final AssetGenImage k1192 = const AssetGenImage(
+    'assets/book/part1/K1-192.jpg',
+  );
+  final AssetGenImage k1193 = const AssetGenImage(
+    'assets/book/part1/K1-193.jpg',
+  );
+  final AssetGenImage k1194 = const AssetGenImage(
+    'assets/book/part1/K1-194.jpg',
+  );
+  final AssetGenImage k1195 = const AssetGenImage(
+    'assets/book/part1/K1-195.jpg',
+  );
+  final AssetGenImage k1196 = const AssetGenImage(
+    'assets/book/part1/K1-196.jpg',
+  );
+  final AssetGenImage k1197 = const AssetGenImage(
+    'assets/book/part1/K1-197.jpg',
+  );
+  final AssetGenImage k1198 = const AssetGenImage(
+    'assets/book/part1/K1-198.jpg',
+  );
+  final AssetGenImage k1199 = const AssetGenImage(
+    'assets/book/part1/K1-199.jpg',
+  );
+  final AssetGenImage k1200 = const AssetGenImage(
+    'assets/book/part1/K1-200.jpg',
+  );
+  final AssetGenImage k1201 = const AssetGenImage(
+    'assets/book/part1/K1-201.jpg',
+  );
+  final AssetGenImage k1202 = const AssetGenImage(
+    'assets/book/part1/K1-202.jpg',
+  );
+  final AssetGenImage k1203 = const AssetGenImage(
+    'assets/book/part1/K1-203.jpg',
+  );
+  final AssetGenImage k1204 = const AssetGenImage(
+    'assets/book/part1/K1-204.jpg',
+  );
+  final AssetGenImage k1205 = const AssetGenImage(
+    'assets/book/part1/K1-205.jpg',
+  );
+  final AssetGenImage k1206 = const AssetGenImage(
+    'assets/book/part1/K1-206.jpg',
+  );
+  final AssetGenImage k1207 = const AssetGenImage(
+    'assets/book/part1/K1-207.jpg',
+  );
+  final AssetGenImage k1208 = const AssetGenImage(
+    'assets/book/part1/K1-208.jpg',
+  );
+  final AssetGenImage k1209 = const AssetGenImage(
+    'assets/book/part1/K1-209.jpg',
+  );
+  final AssetGenImage k1210 = const AssetGenImage(
+    'assets/book/part1/K1-210.jpg',
+  );
+  final AssetGenImage k1211 = const AssetGenImage(
+    'assets/book/part1/K1-211.jpg',
+  );
+  final AssetGenImage k1212 = const AssetGenImage(
+    'assets/book/part1/K1-212.jpg',
+  );
+  final AssetGenImage k1213 = const AssetGenImage(
+    'assets/book/part1/K1-213.jpg',
+  );
+  final AssetGenImage k1214 = const AssetGenImage(
+    'assets/book/part1/K1-214.jpg',
+  );
+  final AssetGenImage k1215 = const AssetGenImage(
+    'assets/book/part1/K1-215.jpg',
+  );
+  final AssetGenImage k1216 = const AssetGenImage(
+    'assets/book/part1/K1-216.jpg',
+  );
+  final AssetGenImage k1217 = const AssetGenImage(
+    'assets/book/part1/K1-217.jpg',
+  );
+  final AssetGenImage k1218 = const AssetGenImage(
+    'assets/book/part1/K1-218.jpg',
+  );
+  final AssetGenImage k1219 = const AssetGenImage(
+    'assets/book/part1/K1-219.jpg',
+  );
+  final AssetGenImage k1220 = const AssetGenImage(
+    'assets/book/part1/K1-220.jpg',
+  );
+  final AssetGenImage k1221 = const AssetGenImage(
+    'assets/book/part1/K1-221.jpg',
+  );
+  final AssetGenImage k1222 = const AssetGenImage(
+    'assets/book/part1/K1-222.jpg',
+  );
+  final AssetGenImage k1223 = const AssetGenImage(
+    'assets/book/part1/K1-223.jpg',
+  );
+  final AssetGenImage k1224 = const AssetGenImage(
+    'assets/book/part1/K1-224.jpg',
+  );
+  final AssetGenImage k1225 = const AssetGenImage(
+    'assets/book/part1/K1-225.jpg',
+  );
+  final AssetGenImage k1226 = const AssetGenImage(
+    'assets/book/part1/K1-226.jpg',
+  );
+  final AssetGenImage k1227 = const AssetGenImage(
+    'assets/book/part1/K1-227.jpg',
+  );
+  final AssetGenImage k1228 = const AssetGenImage(
+    'assets/book/part1/K1-228.jpg',
+  );
+  final AssetGenImage k1229 = const AssetGenImage(
+    'assets/book/part1/K1-229.jpg',
+  );
+  final AssetGenImage k1230 = const AssetGenImage(
+    'assets/book/part1/K1-230.jpg',
+  );
+  final AssetGenImage k1231 = const AssetGenImage(
+    'assets/book/part1/K1-231.jpg',
+  );
+  final AssetGenImage k1232 = const AssetGenImage(
+    'assets/book/part1/K1-232.jpg',
+  );
+  final AssetGenImage k1233 = const AssetGenImage(
+    'assets/book/part1/K1-233.jpg',
+  );
+  final AssetGenImage k1234 = const AssetGenImage(
+    'assets/book/part1/K1-234.jpg',
+  );
+  final AssetGenImage k1235 = const AssetGenImage(
+    'assets/book/part1/K1-235.jpg',
+  );
+  final AssetGenImage k1236 = const AssetGenImage(
+    'assets/book/part1/K1-236.jpg',
+  );
+  final AssetGenImage k1237 = const AssetGenImage(
+    'assets/book/part1/K1-237.jpg',
+  );
+  final AssetGenImage k1238 = const AssetGenImage(
+    'assets/book/part1/K1-238.jpg',
+  );
+  final AssetGenImage k1239 = const AssetGenImage(
+    'assets/book/part1/K1-239.jpg',
+  );
+  final AssetGenImage k1240 = const AssetGenImage(
+    'assets/book/part1/K1-240.jpg',
+  );
+  final AssetGenImage k1241 = const AssetGenImage(
+    'assets/book/part1/K1-241.jpg',
+  );
+  final AssetGenImage k1242 = const AssetGenImage(
+    'assets/book/part1/K1-242.jpg',
+  );
+  final AssetGenImage k1243 = const AssetGenImage(
+    'assets/book/part1/K1-243.jpg',
+  );
+  final AssetGenImage k1244 = const AssetGenImage(
+    'assets/book/part1/K1-244.jpg',
+  );
+  final AssetGenImage k1245 = const AssetGenImage(
+    'assets/book/part1/K1-245.jpg',
+  );
+  final AssetGenImage k1246 = const AssetGenImage(
+    'assets/book/part1/K1-246.jpg',
+  );
+  final AssetGenImage k1247 = const AssetGenImage(
+    'assets/book/part1/K1-247.jpg',
+  );
+  final AssetGenImage k1248 = const AssetGenImage(
+    'assets/book/part1/K1-248.jpg',
+  );
+  final AssetGenImage k1249 = const AssetGenImage(
+    'assets/book/part1/K1-249.jpg',
+  );
+  final AssetGenImage k1250 = const AssetGenImage(
+    'assets/book/part1/K1-250.jpg',
+  );
+  final AssetGenImage k1251 = const AssetGenImage(
+    'assets/book/part1/K1-251.jpg',
+  );
+  final AssetGenImage k1252 = const AssetGenImage(
+    'assets/book/part1/K1-252.jpg',
+  );
+  final AssetGenImage k1253 = const AssetGenImage(
+    'assets/book/part1/K1-253.jpg',
+  );
+  final AssetGenImage k1254 = const AssetGenImage(
+    'assets/book/part1/K1-254.jpg',
+  );
+  final AssetGenImage k1255 = const AssetGenImage(
+    'assets/book/part1/K1-255.jpg',
+  );
+  final AssetGenImage k1256 = const AssetGenImage(
+    'assets/book/part1/K1-256.jpg',
+  );
+  final AssetGenImage k1257 = const AssetGenImage(
+    'assets/book/part1/K1-257.jpg',
+  );
+  final AssetGenImage k1258 = const AssetGenImage(
+    'assets/book/part1/K1-258.jpg',
+  );
+  final AssetGenImage k1259 = const AssetGenImage(
+    'assets/book/part1/K1-259.jpg',
+  );
+  final AssetGenImage k1260 = const AssetGenImage(
+    'assets/book/part1/K1-260.jpg',
+  );
+  final AssetGenImage k1261 = const AssetGenImage(
+    'assets/book/part1/K1-261.jpg',
+  );
+  final AssetGenImage k1262 = const AssetGenImage(
+    'assets/book/part1/K1-262.jpg',
+  );
+  final AssetGenImage k1263 = const AssetGenImage(
+    'assets/book/part1/K1-263.jpg',
+  );
+  final AssetGenImage k1264 = const AssetGenImage(
+    'assets/book/part1/K1-264.jpg',
+  );
+  final AssetGenImage k1265 = const AssetGenImage(
+    'assets/book/part1/K1-265.jpg',
+  );
+  final AssetGenImage k1266 = const AssetGenImage(
+    'assets/book/part1/K1-266.jpg',
+  );
+  final AssetGenImage k1267 = const AssetGenImage(
+    'assets/book/part1/K1-267.jpg',
+  );
+  final AssetGenImage k1268 = const AssetGenImage(
+    'assets/book/part1/K1-268.jpg',
+  );
+  final AssetGenImage k1269 = const AssetGenImage(
+    'assets/book/part1/K1-269.jpg',
+  );
+  final AssetGenImage k1270 = const AssetGenImage(
+    'assets/book/part1/K1-270.jpg',
+  );
+  final AssetGenImage k1271 = const AssetGenImage(
+    'assets/book/part1/K1-271.jpg',
+  );
+  final AssetGenImage k1272 = const AssetGenImage(
+    'assets/book/part1/K1-272.jpg',
+  );
+  final AssetGenImage k1273 = const AssetGenImage(
+    'assets/book/part1/K1-273.jpg',
+  );
+  final AssetGenImage k1274 = const AssetGenImage(
+    'assets/book/part1/K1-274.jpg',
+  );
+  final AssetGenImage k1275 = const AssetGenImage(
+    'assets/book/part1/K1-275.jpg',
+  );
+  final AssetGenImage k1276 = const AssetGenImage(
+    'assets/book/part1/K1-276.jpg',
+  );
+  final AssetGenImage k1277 = const AssetGenImage(
+    'assets/book/part1/K1-277.jpg',
+  );
+  final AssetGenImage k1278 = const AssetGenImage(
+    'assets/book/part1/K1-278.jpg',
+  );
+  final AssetGenImage k1279 = const AssetGenImage(
+    'assets/book/part1/K1-279.jpg',
+  );
+  final AssetGenImage k1280 = const AssetGenImage(
+    'assets/book/part1/K1-280.jpg',
+  );
+  final AssetGenImage k1281 = const AssetGenImage(
+    'assets/book/part1/K1-281.jpg',
+  );
+  final AssetGenImage k1282 = const AssetGenImage(
+    'assets/book/part1/K1-282.jpg',
+  );
+  final AssetGenImage k1283 = const AssetGenImage(
+    'assets/book/part1/K1-283.jpg',
+  );
+  final AssetGenImage k1284 = const AssetGenImage(
+    'assets/book/part1/K1-284.jpg',
+  );
+  final AssetGenImage k1285 = const AssetGenImage(
+    'assets/book/part1/K1-285.jpg',
+  );
+  final AssetGenImage k1286 = const AssetGenImage(
+    'assets/book/part1/K1-286.jpg',
+  );
+  final AssetGenImage k1287 = const AssetGenImage(
+    'assets/book/part1/K1-287.jpg',
+  );
+  final AssetGenImage k1288 = const AssetGenImage(
+    'assets/book/part1/K1-288.jpg',
+  );
+  final AssetGenImage k1289 = const AssetGenImage(
+    'assets/book/part1/K1-289.jpg',
+  );
+  final AssetGenImage k1290 = const AssetGenImage(
+    'assets/book/part1/K1-290.jpg',
+  );
+  final AssetGenImage k1291 = const AssetGenImage(
+    'assets/book/part1/K1-291.jpg',
+  );
+  final AssetGenImage k1292 = const AssetGenImage(
+    'assets/book/part1/K1-292.jpg',
+  );
+  final AssetGenImage k1293 = const AssetGenImage(
+    'assets/book/part1/K1-293.jpg',
+  );
+  final AssetGenImage k1294 = const AssetGenImage(
+    'assets/book/part1/K1-294.jpg',
+  );
+  final AssetGenImage k1295 = const AssetGenImage(
+    'assets/book/part1/K1-295.jpg',
+  );
+  final AssetGenImage k1296 = const AssetGenImage(
+    'assets/book/part1/K1-296.jpg',
+  );
+  final AssetGenImage k1297 = const AssetGenImage(
+    'assets/book/part1/K1-297.jpg',
+  );
+  final AssetGenImage k1298 = const AssetGenImage(
+    'assets/book/part1/K1-298.jpg',
+  );
+  final AssetGenImage k1299 = const AssetGenImage(
+    'assets/book/part1/K1-299.jpg',
+  );
+  final AssetGenImage k1300 = const AssetGenImage(
+    'assets/book/part1/K1-300.jpg',
+  );
+  final AssetGenImage k1301 = const AssetGenImage(
+    'assets/book/part1/K1-301.jpg',
+  );
+  final AssetGenImage k1302 = const AssetGenImage(
+    'assets/book/part1/K1-302.jpg',
+  );
+  final AssetGenImage k1303 = const AssetGenImage(
+    'assets/book/part1/K1-303.jpg',
+  );
+  final AssetGenImage k1304 = const AssetGenImage(
+    'assets/book/part1/K1-304.jpg',
+  );
+  final AssetGenImage k1305 = const AssetGenImage(
+    'assets/book/part1/K1-305.jpg',
+  );
+  final AssetGenImage k1306 = const AssetGenImage(
+    'assets/book/part1/K1-306.jpg',
+  );
+  final AssetGenImage k1307 = const AssetGenImage(
+    'assets/book/part1/K1-307.jpg',
+  );
+  final AssetGenImage k1308 = const AssetGenImage(
+    'assets/book/part1/K1-308.jpg',
+  );
+  final AssetGenImage k1309 = const AssetGenImage(
+    'assets/book/part1/K1-309.jpg',
+  );
+  final AssetGenImage k1310 = const AssetGenImage(
+    'assets/book/part1/K1-310.jpg',
+  );
+  final AssetGenImage k1311 = const AssetGenImage(
+    'assets/book/part1/K1-311.jpg',
+  );
+  final AssetGenImage k1312 = const AssetGenImage(
+    'assets/book/part1/K1-312.jpg',
+  );
+  final AssetGenImage k1313 = const AssetGenImage(
+    'assets/book/part1/K1-313.jpg',
+  );
+  final AssetGenImage k1314 = const AssetGenImage(
+    'assets/book/part1/K1-314.jpg',
+  );
+  final AssetGenImage k1315 = const AssetGenImage(
+    'assets/book/part1/K1-315.jpg',
+  );
+  final AssetGenImage k1316 = const AssetGenImage(
+    'assets/book/part1/K1-316.jpg',
+  );
+  final AssetGenImage k1317 = const AssetGenImage(
+    'assets/book/part1/K1-317.jpg',
+  );
+  final AssetGenImage k1318 = const AssetGenImage(
+    'assets/book/part1/K1-318.jpg',
+  );
+  final AssetGenImage k1319 = const AssetGenImage(
+    'assets/book/part1/K1-319.jpg',
+  );
+  final AssetGenImage k1320 = const AssetGenImage(
+    'assets/book/part1/K1-320.jpg',
+  );
+  final AssetGenImage k1321 = const AssetGenImage(
+    'assets/book/part1/K1-321.jpg',
+  );
+  final AssetGenImage k1322 = const AssetGenImage(
+    'assets/book/part1/K1-322.jpg',
+  );
+  final AssetGenImage k1323 = const AssetGenImage(
+    'assets/book/part1/K1-323.jpg',
+  );
+  final AssetGenImage k1324 = const AssetGenImage(
+    'assets/book/part1/K1-324.jpg',
+  );
+  final AssetGenImage k1325 = const AssetGenImage(
+    'assets/book/part1/K1-325.jpg',
+  );
+  final AssetGenImage k1326 = const AssetGenImage(
+    'assets/book/part1/K1-326.jpg',
+  );
+  final AssetGenImage k1327 = const AssetGenImage(
+    'assets/book/part1/K1-327.jpg',
+  );
+  final AssetGenImage k1328 = const AssetGenImage(
+    'assets/book/part1/K1-328.jpg',
+  );
+  final AssetGenImage k1329 = const AssetGenImage(
+    'assets/book/part1/K1-329.jpg',
+  );
+  final AssetGenImage k1330 = const AssetGenImage(
+    'assets/book/part1/K1-330.jpg',
+  );
+  final AssetGenImage k1331 = const AssetGenImage(
+    'assets/book/part1/K1-331.jpg',
+  );
+  final AssetGenImage k1332 = const AssetGenImage(
+    'assets/book/part1/K1-332.jpg',
+  );
+  final AssetGenImage k1333 = const AssetGenImage(
+    'assets/book/part1/K1-333.jpg',
+  );
+  final AssetGenImage k1334 = const AssetGenImage(
+    'assets/book/part1/K1-334.jpg',
+  );
+  final AssetGenImage k1335 = const AssetGenImage(
+    'assets/book/part1/K1-335.jpg',
+  );
+  final AssetGenImage k1336 = const AssetGenImage(
+    'assets/book/part1/K1-336.jpg',
+  );
+  final AssetGenImage k1337 = const AssetGenImage(
+    'assets/book/part1/K1-337.jpg',
+  );
+  final AssetGenImage k1338 = const AssetGenImage(
+    'assets/book/part1/K1-338.jpg',
+  );
+  final AssetGenImage k1339 = const AssetGenImage(
+    'assets/book/part1/K1-339.jpg',
+  );
+  final AssetGenImage k1340 = const AssetGenImage(
+    'assets/book/part1/K1-340.jpg',
+  );
+  final AssetGenImage k1341 = const AssetGenImage(
+    'assets/book/part1/K1-341.jpg',
+  );
+  final AssetGenImage k1342 = const AssetGenImage(
+    'assets/book/part1/K1-342.jpg',
+  );
+  final AssetGenImage k1343 = const AssetGenImage(
+    'assets/book/part1/K1-343.jpg',
+  );
+  final AssetGenImage k1344 = const AssetGenImage(
+    'assets/book/part1/K1-344.jpg',
+  );
+  final AssetGenImage k1345 = const AssetGenImage(
+    'assets/book/part1/K1-345.jpg',
+  );
+  final AssetGenImage k1346 = const AssetGenImage(
+    'assets/book/part1/K1-346.jpg',
+  );
+  final AssetGenImage k1347 = const AssetGenImage(
+    'assets/book/part1/K1-347.jpg',
+  );
+  final AssetGenImage k1348 = const AssetGenImage(
+    'assets/book/part1/K1-348.jpg',
+  );
+  final AssetGenImage k1349 = const AssetGenImage(
+    'assets/book/part1/K1-349.jpg',
+  );
+  final AssetGenImage k1350 = const AssetGenImage(
+    'assets/book/part1/K1-350.jpg',
+  );
+  final AssetGenImage k1351 = const AssetGenImage(
+    'assets/book/part1/K1-351.jpg',
+  );
+  final AssetGenImage k1352 = const AssetGenImage(
+    'assets/book/part1/K1-352.jpg',
+  );
+  final AssetGenImage k1353 = const AssetGenImage(
+    'assets/book/part1/K1-353.jpg',
+  );
+  final AssetGenImage k1354 = const AssetGenImage(
+    'assets/book/part1/K1-354.jpg',
+  );
+  final AssetGenImage k1355 = const AssetGenImage(
+    'assets/book/part1/K1-355.jpg',
+  );
+  final AssetGenImage k1356 = const AssetGenImage(
+    'assets/book/part1/K1-356.jpg',
+  );
+  final AssetGenImage k1357 = const AssetGenImage(
+    'assets/book/part1/K1-357.jpg',
+  );
+  final AssetGenImage k1358 = const AssetGenImage(
+    'assets/book/part1/K1-358.jpg',
+  );
+  final AssetGenImage k1359 = const AssetGenImage(
+    'assets/book/part1/K1-359.jpg',
+  );
+  final AssetGenImage k1360 = const AssetGenImage(
+    'assets/book/part1/K1-360.jpg',
+  );
+  final AssetGenImage k1361 = const AssetGenImage(
+    'assets/book/part1/K1-361.jpg',
+  );
+  final AssetGenImage k1362 = const AssetGenImage(
+    'assets/book/part1/K1-362.jpg',
+  );
+  final AssetGenImage k1363 = const AssetGenImage(
+    'assets/book/part1/K1-363.jpg',
+  );
+  final AssetGenImage k1364 = const AssetGenImage(
+    'assets/book/part1/K1-364.jpg',
+  );
+  final AssetGenImage k1365 = const AssetGenImage(
+    'assets/book/part1/K1-365.jpg',
+  );
+  final AssetGenImage k1366 = const AssetGenImage(
+    'assets/book/part1/K1-366.jpg',
+  );
+  final AssetGenImage k1367 = const AssetGenImage(
+    'assets/book/part1/K1-367.jpg',
+  );
+  final AssetGenImage k1368 = const AssetGenImage(
+    'assets/book/part1/K1-368.jpg',
+  );
+  final AssetGenImage k1369 = const AssetGenImage(
+    'assets/book/part1/K1-369.jpg',
+  );
+  final AssetGenImage k1370 = const AssetGenImage(
+    'assets/book/part1/K1-370.jpg',
+  );
+  final AssetGenImage k1371 = const AssetGenImage(
+    'assets/book/part1/K1-371.jpg',
+  );
+  final AssetGenImage k1372 = const AssetGenImage(
+    'assets/book/part1/K1-372.jpg',
+  );
+  final AssetGenImage k1373 = const AssetGenImage(
+    'assets/book/part1/K1-373.jpg',
+  );
+  final AssetGenImage k1374 = const AssetGenImage(
+    'assets/book/part1/K1-374.jpg',
+  );
+  final AssetGenImage k1375 = const AssetGenImage(
+    'assets/book/part1/K1-375.jpg',
+  );
+  final AssetGenImage k1376 = const AssetGenImage(
+    'assets/book/part1/K1-376.jpg',
+  );
+  final AssetGenImage k1377 = const AssetGenImage(
+    'assets/book/part1/K1-377.jpg',
+  );
+  final AssetGenImage k1378 = const AssetGenImage(
+    'assets/book/part1/K1-378.jpg',
+  );
+  final AssetGenImage k1379 = const AssetGenImage(
+    'assets/book/part1/K1-379.jpg',
+  );
+  final AssetGenImage k1380 = const AssetGenImage(
+    'assets/book/part1/K1-380.jpg',
+  );
+  final AssetGenImage k1381 = const AssetGenImage(
+    'assets/book/part1/K1-381.jpg',
+  );
+  final AssetGenImage k1382 = const AssetGenImage(
+    'assets/book/part1/K1-382.jpg',
+  );
+  final AssetGenImage k1383 = const AssetGenImage(
+    'assets/book/part1/K1-383.jpg',
+  );
+  final AssetGenImage k1384 = const AssetGenImage(
+    'assets/book/part1/K1-384.jpg',
+  );
+  final AssetGenImage k1385 = const AssetGenImage(
+    'assets/book/part1/K1-385.jpg',
+  );
+  final AssetGenImage k1386 = const AssetGenImage(
+    'assets/book/part1/K1-386.jpg',
+  );
+  final AssetGenImage k1387 = const AssetGenImage(
+    'assets/book/part1/K1-387.jpg',
+  );
+  final AssetGenImage k1388 = const AssetGenImage(
+    'assets/book/part1/K1-388.jpg',
+  );
+  final AssetGenImage k1389 = const AssetGenImage(
+    'assets/book/part1/K1-389.jpg',
+  );
+  final AssetGenImage k1390 = const AssetGenImage(
+    'assets/book/part1/K1-390.jpg',
+  );
+  final AssetGenImage k1391 = const AssetGenImage(
+    'assets/book/part1/K1-391.jpg',
+  );
+  final AssetGenImage k1392 = const AssetGenImage(
+    'assets/book/part1/K1-392.jpg',
+  );
+  final AssetGenImage k1393 = const AssetGenImage(
+    'assets/book/part1/K1-393.jpg',
+  );
+  final AssetGenImage k1394 = const AssetGenImage(
+    'assets/book/part1/K1-394.jpg',
+  );
+  final AssetGenImage k1395 = const AssetGenImage(
+    'assets/book/part1/K1-395.jpg',
+  );
+  final AssetGenImage k1396 = const AssetGenImage(
+    'assets/book/part1/K1-396.jpg',
+  );
+  final AssetGenImage k1397 = const AssetGenImage(
+    'assets/book/part1/K1-397.jpg',
+  );
+  final AssetGenImage k1398 = const AssetGenImage(
+    'assets/book/part1/K1-398.jpg',
+  );
+  final AssetGenImage k1399 = const AssetGenImage(
+    'assets/book/part1/K1-399.jpg',
+  );
+  final AssetGenImage k1400 = const AssetGenImage(
+    'assets/book/part1/K1-400.jpg',
+  );
+  final AssetGenImage k1401 = const AssetGenImage(
+    'assets/book/part1/K1-401.jpg',
+  );
+  final AssetGenImage k1402 = const AssetGenImage(
+    'assets/book/part1/K1-402.jpg',
+  );
+  final AssetGenImage k1403 = const AssetGenImage(
+    'assets/book/part1/K1-403.jpg',
+  );
+  final AssetGenImage k1404 = const AssetGenImage(
+    'assets/book/part1/K1-404.jpg',
+  );
+  final AssetGenImage k1405 = const AssetGenImage(
+    'assets/book/part1/K1-405.jpg',
+  );
+  final AssetGenImage k1406 = const AssetGenImage(
+    'assets/book/part1/K1-406.jpg',
+  );
+  final AssetGenImage k1407 = const AssetGenImage(
+    'assets/book/part1/K1-407.jpg',
+  );
+  final AssetGenImage k1408 = const AssetGenImage(
+    'assets/book/part1/K1-408.jpg',
+  );
+  final AssetGenImage k1409 = const AssetGenImage(
+    'assets/book/part1/K1-409.jpg',
+  );
+  final AssetGenImage k1410 = const AssetGenImage(
+    'assets/book/part1/K1-410.jpg',
+  );
+  final AssetGenImage k1411 = const AssetGenImage(
+    'assets/book/part1/K1-411.jpg',
+  );
+  final AssetGenImage k1412 = const AssetGenImage(
+    'assets/book/part1/K1-412.jpg',
+  );
+  final AssetGenImage k1413 = const AssetGenImage(
+    'assets/book/part1/K1-413.jpg',
+  );
+  final AssetGenImage k1414 = const AssetGenImage(
+    'assets/book/part1/K1-414.jpg',
+  );
+  final AssetGenImage k1415 = const AssetGenImage(
+    'assets/book/part1/K1-415.jpg',
+  );
+  final AssetGenImage k1416 = const AssetGenImage(
+    'assets/book/part1/K1-416.jpg',
+  );
+  final AssetGenImage k1417 = const AssetGenImage(
+    'assets/book/part1/K1-417.jpg',
+  );
+  final AssetGenImage k1418 = const AssetGenImage(
+    'assets/book/part1/K1-418.jpg',
+  );
+  final AssetGenImage k1419 = const AssetGenImage(
+    'assets/book/part1/K1-419.jpg',
+  );
+  final AssetGenImage k1420 = const AssetGenImage(
+    'assets/book/part1/K1-420.jpg',
+  );
+  final AssetGenImage k1421 = const AssetGenImage(
+    'assets/book/part1/K1-421.jpg',
+  );
+  final AssetGenImage k1422 = const AssetGenImage(
+    'assets/book/part1/K1-422.jpg',
+  );
+  final AssetGenImage k1423 = const AssetGenImage(
+    'assets/book/part1/K1-423.jpg',
+  );
+  final AssetGenImage k1424 = const AssetGenImage(
+    'assets/book/part1/K1-424.jpg',
+  );
+  final AssetGenImage k1425 = const AssetGenImage(
+    'assets/book/part1/K1-425.jpg',
+  );
+  final AssetGenImage k1426 = const AssetGenImage(
+    'assets/book/part1/K1-426.jpg',
+  );
+  final AssetGenImage k1427 = const AssetGenImage(
+    'assets/book/part1/K1-427.jpg',
+  );
+  final AssetGenImage k1428 = const AssetGenImage(
+    'assets/book/part1/K1-428.jpg',
+  );
+  final AssetGenImage k1429 = const AssetGenImage(
+    'assets/book/part1/K1-429.jpg',
+  );
+  final AssetGenImage k1430 = const AssetGenImage(
+    'assets/book/part1/K1-430.jpg',
+  );
+  final AssetGenImage k1431 = const AssetGenImage(
+    'assets/book/part1/K1-431.jpg',
+  );
+  final AssetGenImage k1432 = const AssetGenImage(
+    'assets/book/part1/K1-432.jpg',
+  );
+  final AssetGenImage k1433 = const AssetGenImage(
+    'assets/book/part1/K1-433.jpg',
+  );
+  final AssetGenImage k1434 = const AssetGenImage(
+    'assets/book/part1/K1-434.jpg',
+  );
+  final AssetGenImage k1435 = const AssetGenImage(
+    'assets/book/part1/K1-435.jpg',
+  );
+  final AssetGenImage k1436 = const AssetGenImage(
+    'assets/book/part1/K1-436.jpg',
+  );
+  final AssetGenImage k1437 = const AssetGenImage(
+    'assets/book/part1/K1-437.jpg',
+  );
+  final AssetGenImage k1438 = const AssetGenImage(
+    'assets/book/part1/K1-438.jpg',
+  );
+  final AssetGenImage k1439 = const AssetGenImage(
+    'assets/book/part1/K1-439.jpg',
+  );
+  final AssetGenImage k1440 = const AssetGenImage(
+    'assets/book/part1/K1-440.jpg',
+  );
+  final AssetGenImage k1441 = const AssetGenImage(
+    'assets/book/part1/K1-441.jpg',
+  );
+  final AssetGenImage k1442 = const AssetGenImage(
+    'assets/book/part1/K1-442.jpg',
+  );
+  final AssetGenImage k1443 = const AssetGenImage(
+    'assets/book/part1/K1-443.jpg',
+  );
+  final AssetGenImage k1444 = const AssetGenImage(
+    'assets/book/part1/K1-444.jpg',
+  );
+  final AssetGenImage k1445 = const AssetGenImage(
+    'assets/book/part1/K1-445.jpg',
+  );
+  final AssetGenImage k1446 = const AssetGenImage(
+    'assets/book/part1/K1-446.jpg',
+  );
+  final AssetGenImage k1447 = const AssetGenImage(
+    'assets/book/part1/K1-447.jpg',
+  );
+  final AssetGenImage k1448 = const AssetGenImage(
+    'assets/book/part1/K1-448.jpg',
+  );
+  final AssetGenImage k1449 = const AssetGenImage(
+    'assets/book/part1/K1-449.jpg',
+  );
+  final AssetGenImage k1450 = const AssetGenImage(
+    'assets/book/part1/K1-450.jpg',
+  );
+  final AssetGenImage k1451 = const AssetGenImage(
+    'assets/book/part1/K1-451.jpg',
+  );
+  final AssetGenImage k1452 = const AssetGenImage(
+    'assets/book/part1/K1-452.jpg',
+  );
+  final AssetGenImage k1453 = const AssetGenImage(
+    'assets/book/part1/K1-453.jpg',
+  );
+  final AssetGenImage k1454 = const AssetGenImage(
+    'assets/book/part1/K1-454.jpg',
+  );
+  final AssetGenImage k1455 = const AssetGenImage(
+    'assets/book/part1/K1-455.jpg',
+  );
+  final AssetGenImage k1456 = const AssetGenImage(
+    'assets/book/part1/K1-456.jpg',
+  );
+  final AssetGenImage k1457 = const AssetGenImage(
+    'assets/book/part1/K1-457.jpg',
+  );
+  final AssetGenImage k1458 = const AssetGenImage(
+    'assets/book/part1/K1-458.jpg',
+  );
+  final AssetGenImage k1459 = const AssetGenImage(
+    'assets/book/part1/K1-459.jpg',
+  );
+  final AssetGenImage k1460 = const AssetGenImage(
+    'assets/book/part1/K1-460.jpg',
+  );
+  final AssetGenImage k1461 = const AssetGenImage(
+    'assets/book/part1/K1-461.jpg',
+  );
+  final AssetGenImage k1462 = const AssetGenImage(
+    'assets/book/part1/K1-462.jpg',
+  );
+  final AssetGenImage k1463 = const AssetGenImage(
+    'assets/book/part1/K1-463.jpg',
+  );
+  final AssetGenImage k1464 = const AssetGenImage(
+    'assets/book/part1/K1-464.jpg',
+  );
+  final AssetGenImage k1465 = const AssetGenImage(
+    'assets/book/part1/K1-465.jpg',
+  );
+  final AssetGenImage k1466 = const AssetGenImage(
+    'assets/book/part1/K1-466.jpg',
+  );
+  final AssetGenImage k1467 = const AssetGenImage(
+    'assets/book/part1/K1-467.jpg',
+  );
+  final AssetGenImage k1468 = const AssetGenImage(
+    'assets/book/part1/K1-468.jpg',
+  );
+  final AssetGenImage k1469 = const AssetGenImage(
+    'assets/book/part1/K1-469.jpg',
+  );
+  final AssetGenImage k1470 = const AssetGenImage(
+    'assets/book/part1/K1-470.jpg',
+  );
+  final AssetGenImage k1471 = const AssetGenImage(
+    'assets/book/part1/K1-471.jpg',
+  );
+  final AssetGenImage k1472 = const AssetGenImage(
+    'assets/book/part1/K1-472.jpg',
+  );
+  final AssetGenImage k1473 = const AssetGenImage(
+    'assets/book/part1/K1-473.jpg',
+  );
+  final AssetGenImage k1474 = const AssetGenImage(
+    'assets/book/part1/K1-474.jpg',
+  );
+  final AssetGenImage k1475 = const AssetGenImage(
+    'assets/book/part1/K1-475.jpg',
+  );
+  final AssetGenImage k1476 = const AssetGenImage(
+    'assets/book/part1/K1-476.jpg',
+  );
+  final AssetGenImage k1477 = const AssetGenImage(
+    'assets/book/part1/K1-477.jpg',
+  );
+  final AssetGenImage k1478 = const AssetGenImage(
+    'assets/book/part1/K1-478.jpg',
+  );
+  final AssetGenImage k1479 = const AssetGenImage(
+    'assets/book/part1/K1-479.jpg',
+  );
+  final AssetGenImage k1480 = const AssetGenImage(
+    'assets/book/part1/K1-480.jpg',
+  );
+  final AssetGenImage k1481 = const AssetGenImage(
+    'assets/book/part1/K1-481.jpg',
+  );
+  final AssetGenImage k1482 = const AssetGenImage(
+    'assets/book/part1/K1-482.jpg',
+  );
+  final AssetGenImage k1483 = const AssetGenImage(
+    'assets/book/part1/K1-483.jpg',
+  );
+  final AssetGenImage k1484 = const AssetGenImage(
+    'assets/book/part1/K1-484.jpg',
+  );
+  final AssetGenImage k1485 = const AssetGenImage(
+    'assets/book/part1/K1-485.jpg',
+  );
+  final AssetGenImage k1486 = const AssetGenImage(
+    'assets/book/part1/K1-486.jpg',
+  );
+  final AssetGenImage k1487 = const AssetGenImage(
+    'assets/book/part1/K1-487.jpg',
+  );
+  final AssetGenImage k1488 = const AssetGenImage(
+    'assets/book/part1/K1-488.jpg',
+  );
+  final AssetGenImage k1489 = const AssetGenImage(
+    'assets/book/part1/K1-489.jpg',
+  );
+  final AssetGenImage k1490 = const AssetGenImage(
+    'assets/book/part1/K1-490.jpg',
+  );
+  final AssetGenImage k1491 = const AssetGenImage(
+    'assets/book/part1/K1-491.jpg',
+  );
+  final AssetGenImage k1492 = const AssetGenImage(
+    'assets/book/part1/K1-492.jpg',
+  );
+  final AssetGenImage k1493 = const AssetGenImage(
+    'assets/book/part1/K1-493.jpg',
+  );
+  final AssetGenImage k1494 = const AssetGenImage(
+    'assets/book/part1/K1-494.jpg',
+  );
+  final AssetGenImage k1495 = const AssetGenImage(
+    'assets/book/part1/K1-495.jpg',
+  );
+  final AssetGenImage k1496 = const AssetGenImage(
+    'assets/book/part1/K1-496.jpg',
+  );
+  final AssetGenImage k1497 = const AssetGenImage(
+    'assets/book/part1/K1-497.jpg',
+  );
+  final AssetGenImage k1498 = const AssetGenImage(
+    'assets/book/part1/K1-498.jpg',
+  );
+  final AssetGenImage k1499 = const AssetGenImage(
+    'assets/book/part1/K1-499.jpg',
+  );
+  final AssetGenImage k1500 = const AssetGenImage(
+    'assets/book/part1/K1-500.jpg',
+  );
+  final AssetGenImage k1501 = const AssetGenImage(
+    'assets/book/part1/K1-501.jpg',
+  );
+  final AssetGenImage k1502 = const AssetGenImage(
+    'assets/book/part1/K1-502.jpg',
+  );
+  final AssetGenImage k1503 = const AssetGenImage(
+    'assets/book/part1/K1-503.jpg',
+  );
+  final AssetGenImage k1504 = const AssetGenImage(
+    'assets/book/part1/K1-504.jpg',
+  );
+  final AssetGenImage k1505 = const AssetGenImage(
+    'assets/book/part1/K1-505.jpg',
+  );
+  final AssetGenImage k1506 = const AssetGenImage(
+    'assets/book/part1/K1-506.jpg',
+  );
+  final AssetGenImage k1507 = const AssetGenImage(
+    'assets/book/part1/K1-507.jpg',
+  );
+  final AssetGenImage k1508 = const AssetGenImage(
+    'assets/book/part1/K1-508.jpg',
+  );
+  final AssetGenImage k1509 = const AssetGenImage(
+    'assets/book/part1/K1-509.jpg',
+  );
+  final AssetGenImage k1510 = const AssetGenImage(
+    'assets/book/part1/K1-510.jpg',
+  );
+  final AssetGenImage k1511 = const AssetGenImage(
+    'assets/book/part1/K1-511.jpg',
+  );
+  final AssetGenImage k1512 = const AssetGenImage(
+    'assets/book/part1/K1-512.jpg',
+  );
+  final AssetGenImage k1513 = const AssetGenImage(
+    'assets/book/part1/K1-513.jpg',
+  );
+  final AssetGenImage k1514 = const AssetGenImage(
+    'assets/book/part1/K1-514.jpg',
+  );
+  final AssetGenImage k1515 = const AssetGenImage(
+    'assets/book/part1/K1-515.jpg',
+  );
+  final AssetGenImage k1516 = const AssetGenImage(
+    'assets/book/part1/K1-516.jpg',
+  );
+  final AssetGenImage k1517 = const AssetGenImage(
+    'assets/book/part1/K1-517.jpg',
+  );
+  final AssetGenImage k1518 = const AssetGenImage(
+    'assets/book/part1/K1-518.jpg',
+  );
+  final AssetGenImage k1519 = const AssetGenImage(
+    'assets/book/part1/K1-519.jpg',
+  );
+  final AssetGenImage k1520 = const AssetGenImage(
+    'assets/book/part1/K1-520.jpg',
+  );
+  final AssetGenImage k1521 = const AssetGenImage(
+    'assets/book/part1/K1-521.jpg',
+  );
+  final AssetGenImage k1522 = const AssetGenImage(
+    'assets/book/part1/K1-522.jpg',
+  );
+  final AssetGenImage k1523 = const AssetGenImage(
+    'assets/book/part1/K1-523.jpg',
+  );
+  final AssetGenImage k1524 = const AssetGenImage(
+    'assets/book/part1/K1-524.jpg',
+  );
+  final AssetGenImage k1525 = const AssetGenImage(
+    'assets/book/part1/K1-525.jpg',
+  );
+  final AssetGenImage k1526 = const AssetGenImage(
+    'assets/book/part1/K1-526.jpg',
+  );
+  final AssetGenImage k1527 = const AssetGenImage(
+    'assets/book/part1/K1-527.jpg',
+  );
+  final AssetGenImage k1528 = const AssetGenImage(
+    'assets/book/part1/K1-528.jpg',
+  );
+  final AssetGenImage k1529 = const AssetGenImage(
+    'assets/book/part1/K1-529.jpg',
+  );
+  final AssetGenImage k1530 = const AssetGenImage(
+    'assets/book/part1/K1-530.jpg',
+  );
+  final AssetGenImage k1531 = const AssetGenImage(
+    'assets/book/part1/K1-531.jpg',
+  );
+  final AssetGenImage k1532 = const AssetGenImage(
+    'assets/book/part1/K1-532.jpg',
+  );
+  final AssetGenImage k1533 = const AssetGenImage(
+    'assets/book/part1/K1-533.jpg',
+  );
+  final AssetGenImage k1534 = const AssetGenImage(
+    'assets/book/part1/K1-534.jpg',
+  );
+  final AssetGenImage k1535 = const AssetGenImage(
+    'assets/book/part1/K1-535.jpg',
+  );
+  final AssetGenImage k1536 = const AssetGenImage(
+    'assets/book/part1/K1-536.jpg',
+  );
+  final AssetGenImage k1537 = const AssetGenImage(
+    'assets/book/part1/K1-537.jpg',
+  );
+  final AssetGenImage k1538 = const AssetGenImage(
+    'assets/book/part1/K1-538.jpg',
+  );
+  final AssetGenImage k1539 = const AssetGenImage(
+    'assets/book/part1/K1-539.jpg',
+  );
+  final AssetGenImage k1540 = const AssetGenImage(
+    'assets/book/part1/K1-540.jpg',
+  );
+  final AssetGenImage k1541 = const AssetGenImage(
+    'assets/book/part1/K1-541.jpg',
+  );
+  final AssetGenImage k1542 = const AssetGenImage(
+    'assets/book/part1/K1-542.jpg',
+  );
+  final AssetGenImage k1543 = const AssetGenImage(
+    'assets/book/part1/K1-543.jpg',
+  );
+  final AssetGenImage k1544 = const AssetGenImage(
+    'assets/book/part1/K1-544.jpg',
+  );
+  final AssetGenImage k1545 = const AssetGenImage(
+    'assets/book/part1/K1-545.jpg',
+  );
+  final AssetGenImage k1546 = const AssetGenImage(
+    'assets/book/part1/K1-546.jpg',
+  );
+  final AssetGenImage k1547 = const AssetGenImage(
+    'assets/book/part1/K1-547.jpg',
+  );
+  final AssetGenImage k1548 = const AssetGenImage(
+    'assets/book/part1/K1-548.jpg',
+  );
+  final AssetGenImage k1549 = const AssetGenImage(
+    'assets/book/part1/K1-549.jpg',
+  );
+  final AssetGenImage k1550 = const AssetGenImage(
+    'assets/book/part1/K1-550.jpg',
+  );
+  final AssetGenImage k1551 = const AssetGenImage(
+    'assets/book/part1/K1-551.jpg',
+  );
+  final AssetGenImage k1552 = const AssetGenImage(
+    'assets/book/part1/K1-552.jpg',
+  );
+  final AssetGenImage k1553 = const AssetGenImage(
+    'assets/book/part1/K1-553.jpg',
+  );
+  final AssetGenImage k1554 = const AssetGenImage(
+    'assets/book/part1/K1-554.jpg',
+  );
+  final AssetGenImage k1555 = const AssetGenImage(
+    'assets/book/part1/K1-555.jpg',
+  );
+  final AssetGenImage k1556 = const AssetGenImage(
+    'assets/book/part1/K1-556.jpg',
+  );
+  final AssetGenImage k1557 = const AssetGenImage(
+    'assets/book/part1/K1-557.jpg',
+  );
+  final AssetGenImage k1558 = const AssetGenImage(
+    'assets/book/part1/K1-558.jpg',
+  );
+  final AssetGenImage k1559 = const AssetGenImage(
+    'assets/book/part1/K1-559.jpg',
+  );
+  final AssetGenImage k1560 = const AssetGenImage(
+    'assets/book/part1/K1-560.jpg',
+  );
+  final AssetGenImage k1561 = const AssetGenImage(
+    'assets/book/part1/K1-561.jpg',
+  );
+  final AssetGenImage k1562 = const AssetGenImage(
+    'assets/book/part1/K1-562.jpg',
+  );
+  final AssetGenImage k1563 = const AssetGenImage(
+    'assets/book/part1/K1-563.jpg',
+  );
+  final AssetGenImage k1564 = const AssetGenImage(
+    'assets/book/part1/K1-564.jpg',
+  );
+  final AssetGenImage k1565 = const AssetGenImage(
+    'assets/book/part1/K1-565.jpg',
+  );
+  final AssetGenImage k1566 = const AssetGenImage(
+    'assets/book/part1/K1-566.jpg',
+  );
+  final AssetGenImage k1567 = const AssetGenImage(
+    'assets/book/part1/K1-567.jpg',
+  );
+  final AssetGenImage k1568 = const AssetGenImage(
+    'assets/book/part1/K1-568.jpg',
+  );
+  final AssetGenImage k1569 = const AssetGenImage(
+    'assets/book/part1/K1-569.jpg',
+  );
+  final AssetGenImage k1570 = const AssetGenImage(
+    'assets/book/part1/K1-570.jpg',
+  );
+  final AssetGenImage k1571 = const AssetGenImage(
+    'assets/book/part1/K1-571.jpg',
+  );
+  final AssetGenImage k1572 = const AssetGenImage(
+    'assets/book/part1/K1-572.jpg',
+  );
+  final AssetGenImage k1573 = const AssetGenImage(
+    'assets/book/part1/K1-573.jpg',
+  );
+  final AssetGenImage k1574 = const AssetGenImage(
+    'assets/book/part1/K1-574.jpg',
+  );
+  final AssetGenImage k1575 = const AssetGenImage(
+    'assets/book/part1/K1-575.jpg',
+  );
+  final AssetGenImage k1576 = const AssetGenImage(
+    'assets/book/part1/K1-576.jpg',
+  );
+  final AssetGenImage k1577 = const AssetGenImage(
+    'assets/book/part1/K1-577.jpg',
+  );
+  final AssetGenImage k1578 = const AssetGenImage(
+    'assets/book/part1/K1-578.jpg',
+  );
+  final AssetGenImage k1579 = const AssetGenImage(
+    'assets/book/part1/K1-579.jpg',
+  );
+  final AssetGenImage k1580 = const AssetGenImage(
+    'assets/book/part1/K1-580.jpg',
+  );
+  final AssetGenImage k1581 = const AssetGenImage(
+    'assets/book/part1/K1-581.jpg',
+  );
+  final AssetGenImage k1582 = const AssetGenImage(
+    'assets/book/part1/K1-582.jpg',
+  );
+  final AssetGenImage k1583 = const AssetGenImage(
+    'assets/book/part1/K1-583.jpg',
+  );
+  final AssetGenImage k1584 = const AssetGenImage(
+    'assets/book/part1/K1-584.jpg',
+  );
+  final AssetGenImage k1585 = const AssetGenImage(
+    'assets/book/part1/K1-585.jpg',
+  );
+  final AssetGenImage k1586 = const AssetGenImage(
+    'assets/book/part1/K1-586.jpg',
+  );
+  final AssetGenImage k1587 = const AssetGenImage(
+    'assets/book/part1/K1-587.jpg',
+  );
+  final AssetGenImage k1588 = const AssetGenImage(
+    'assets/book/part1/K1-588.jpg',
+  );
+  final AssetGenImage k1589 = const AssetGenImage(
+    'assets/book/part1/K1-589.jpg',
+  );
+  final AssetGenImage k1590 = const AssetGenImage(
+    'assets/book/part1/K1-590.jpg',
+  );
+  final AssetGenImage k1591 = const AssetGenImage(
+    'assets/book/part1/K1-591.jpg',
+  );
+  final AssetGenImage k1592 = const AssetGenImage(
+    'assets/book/part1/K1-592.jpg',
+  );
+  final AssetGenImage k1593 = const AssetGenImage(
+    'assets/book/part1/K1-593.jpg',
+  );
+  final AssetGenImage k1594 = const AssetGenImage(
+    'assets/book/part1/K1-594.jpg',
+  );
+  final AssetGenImage k1595 = const AssetGenImage(
+    'assets/book/part1/K1-595.jpg',
+  );
+  final AssetGenImage k1596 = const AssetGenImage(
+    'assets/book/part1/K1-596.jpg',
+  );
+  final AssetGenImage k1597 = const AssetGenImage(
+    'assets/book/part1/K1-597.jpg',
+  );
+  final AssetGenImage k1598 = const AssetGenImage(
+    'assets/book/part1/K1-598.jpg',
+  );
+  final AssetGenImage k1599 = const AssetGenImage(
+    'assets/book/part1/K1-599.jpg',
+  );
+  final AssetGenImage k1600 = const AssetGenImage(
+    'assets/book/part1/K1-600.jpg',
+  );
+  final AssetGenImage k1601 = const AssetGenImage(
+    'assets/book/part1/K1-601.jpg',
+  );
+  final AssetGenImage k1602 = const AssetGenImage(
+    'assets/book/part1/K1-602.jpg',
+  );
+  final AssetGenImage k1603 = const AssetGenImage(
+    'assets/book/part1/K1-603.jpg',
+  );
+  final AssetGenImage k1604 = const AssetGenImage(
+    'assets/book/part1/K1-604.jpg',
+  );
+  final AssetGenImage k1605 = const AssetGenImage(
+    'assets/book/part1/K1-605.jpg',
+  );
+  final AssetGenImage k1606 = const AssetGenImage(
+    'assets/book/part1/K1-606.jpg',
+  );
+  final AssetGenImage k1607 = const AssetGenImage(
+    'assets/book/part1/K1-607.jpg',
+  );
+  final AssetGenImage k1608 = const AssetGenImage(
+    'assets/book/part1/K1-608.jpg',
+  );
+  final AssetGenImage k1609 = const AssetGenImage(
+    'assets/book/part1/K1-609.jpg',
+  );
+  final AssetGenImage k1610 = const AssetGenImage(
+    'assets/book/part1/K1-610.jpg',
+  );
+  final AssetGenImage k1611 = const AssetGenImage(
+    'assets/book/part1/K1-611.jpg',
+  );
+  final AssetGenImage k1612 = const AssetGenImage(
+    'assets/book/part1/K1-612.jpg',
+  );
+  final AssetGenImage k1613 = const AssetGenImage(
+    'assets/book/part1/K1-613.jpg',
+  );
+  final AssetGenImage k1614 = const AssetGenImage(
+    'assets/book/part1/K1-614.jpg',
+  );
+  final AssetGenImage k1615 = const AssetGenImage(
+    'assets/book/part1/K1-615.jpg',
+  );
+  final AssetGenImage k1616 = const AssetGenImage(
+    'assets/book/part1/K1-616.jpg',
+  );
+  final AssetGenImage k1617 = const AssetGenImage(
+    'assets/book/part1/K1-617.jpg',
+  );
+  final AssetGenImage k1618 = const AssetGenImage(
+    'assets/book/part1/K1-618.jpg',
+  );
+  final AssetGenImage k1619 = const AssetGenImage(
+    'assets/book/part1/K1-619.jpg',
+  );
+  final AssetGenImage k1620 = const AssetGenImage(
+    'assets/book/part1/K1-620.jpg',
+  );
+  final AssetGenImage k1621 = const AssetGenImage(
+    'assets/book/part1/K1-621.jpg',
+  );
+  final AssetGenImage k1622 = const AssetGenImage(
+    'assets/book/part1/K1-622.jpg',
+  );
+  final AssetGenImage k1623 = const AssetGenImage(
+    'assets/book/part1/K1-623.jpg',
+  );
+  final AssetGenImage k1624 = const AssetGenImage(
+    'assets/book/part1/K1-624.jpg',
+  );
+  final AssetGenImage k1625 = const AssetGenImage(
+    'assets/book/part1/K1-625.jpg',
+  );
+  final AssetGenImage k1626 = const AssetGenImage(
+    'assets/book/part1/K1-626.jpg',
+  );
+  final AssetGenImage k1627 = const AssetGenImage(
+    'assets/book/part1/K1-627.jpg',
+  );
+  final AssetGenImage k1628 = const AssetGenImage(
+    'assets/book/part1/K1-628.jpg',
+  );
+  final AssetGenImage k1629 = const AssetGenImage(
+    'assets/book/part1/K1-629.jpg',
+  );
+  final AssetGenImage k1630 = const AssetGenImage(
+    'assets/book/part1/K1-630.jpg',
+  );
+  final AssetGenImage k1631 = const AssetGenImage(
+    'assets/book/part1/K1-631.jpg',
+  );
+  final AssetGenImage k1632 = const AssetGenImage(
+    'assets/book/part1/K1-632.jpg',
+  );
+  final AssetGenImage k1633 = const AssetGenImage(
+    'assets/book/part1/K1-633.jpg',
+  );
+  final AssetGenImage k1634 = const AssetGenImage(
+    'assets/book/part1/K1-634.jpg',
+  );
+  final AssetGenImage k1635 = const AssetGenImage(
+    'assets/book/part1/K1-635.jpg',
+  );
+  final AssetGenImage k1636 = const AssetGenImage(
+    'assets/book/part1/K1-636.jpg',
+  );
+  final AssetGenImage k1637 = const AssetGenImage(
+    'assets/book/part1/K1-637.jpg',
+  );
+  final AssetGenImage k1638 = const AssetGenImage(
+    'assets/book/part1/K1-638.jpg',
+  );
+  final AssetGenImage k1639 = const AssetGenImage(
+    'assets/book/part1/K1-639.jpg',
+  );
+  final AssetGenImage k1640 = const AssetGenImage(
+    'assets/book/part1/K1-640.jpg',
+  );
+  final AssetGenImage k1641 = const AssetGenImage(
+    'assets/book/part1/K1-641.jpg',
+  );
+  final AssetGenImage k1642 = const AssetGenImage(
+    'assets/book/part1/K1-642.jpg',
+  );
+  final AssetGenImage k1643 = const AssetGenImage(
+    'assets/book/part1/K1-643.jpg',
+  );
+  final AssetGenImage k1644 = const AssetGenImage(
+    'assets/book/part1/K1-644.jpg',
+  );
+  final AssetGenImage k1645 = const AssetGenImage(
+    'assets/book/part1/K1-645.jpg',
+  );
+  final AssetGenImage k1646 = const AssetGenImage(
+    'assets/book/part1/K1-646.jpg',
+  );
+  final AssetGenImage k1647 = const AssetGenImage(
+    'assets/book/part1/K1-647.jpg',
+  );
+  final AssetGenImage k1648 = const AssetGenImage(
+    'assets/book/part1/K1-648.jpg',
+  );
+  final AssetGenImage k1649 = const AssetGenImage(
+    'assets/book/part1/K1-649.jpg',
+  );
+  final AssetGenImage k1650 = const AssetGenImage(
+    'assets/book/part1/K1-650.jpg',
+  );
+  final AssetGenImage k1651 = const AssetGenImage(
+    'assets/book/part1/K1-651.jpg',
+  );
+  final AssetGenImage k1652 = const AssetGenImage(
+    'assets/book/part1/K1-652.jpg',
+  );
+  final AssetGenImage k1653 = const AssetGenImage(
+    'assets/book/part1/K1-653.jpg',
+  );
+  final AssetGenImage k1654 = const AssetGenImage(
+    'assets/book/part1/K1-654.jpg',
+  );
+  final AssetGenImage k1655 = const AssetGenImage(
+    'assets/book/part1/K1-655.jpg',
+  );
+  final AssetGenImage k1656 = const AssetGenImage(
+    'assets/book/part1/K1-656.jpg',
+  );
+  final AssetGenImage k1657 = const AssetGenImage(
+    'assets/book/part1/K1-657.jpg',
+  );
+  final AssetGenImage k1658 = const AssetGenImage(
+    'assets/book/part1/K1-658.jpg',
+  );
+  final AssetGenImage k1659 = const AssetGenImage(
+    'assets/book/part1/K1-659.jpg',
+  );
+  final AssetGenImage k1660 = const AssetGenImage(
+    'assets/book/part1/K1-660.jpg',
+  );
+  final AssetGenImage k1661 = const AssetGenImage(
+    'assets/book/part1/K1-661.jpg',
+  );
+  final AssetGenImage k1662 = const AssetGenImage(
+    'assets/book/part1/K1-662.jpg',
+  );
+  final AssetGenImage k1663 = const AssetGenImage(
+    'assets/book/part1/K1-663.jpg',
+  );
+  final AssetGenImage k1664 = const AssetGenImage(
+    'assets/book/part1/K1-664.jpg',
+  );
+  final AssetGenImage k1665 = const AssetGenImage(
+    'assets/book/part1/K1-665.jpg',
+  );
+  final AssetGenImage k1666 = const AssetGenImage(
+    'assets/book/part1/K1-666.jpg',
+  );
+  final AssetGenImage k1667 = const AssetGenImage(
+    'assets/book/part1/K1-667.jpg',
+  );
+  final AssetGenImage k1668 = const AssetGenImage(
+    'assets/book/part1/K1-668.jpg',
+  );
+  final AssetGenImage k1669 = const AssetGenImage(
+    'assets/book/part1/K1-669.jpg',
+  );
+  final AssetGenImage k1670 = const AssetGenImage(
+    'assets/book/part1/K1-670.jpg',
+  );
+  final AssetGenImage k1671 = const AssetGenImage(
+    'assets/book/part1/K1-671.jpg',
+  );
+  final AssetGenImage k1672 = const AssetGenImage(
+    'assets/book/part1/K1-672.jpg',
+  );
+  final AssetGenImage k1673 = const AssetGenImage(
+    'assets/book/part1/K1-673.jpg',
+  );
+  final AssetGenImage k1674 = const AssetGenImage(
+    'assets/book/part1/K1-674.jpg',
+  );
+  final AssetGenImage k1675 = const AssetGenImage(
+    'assets/book/part1/K1-675.jpg',
+  );
+  final AssetGenImage k1676 = const AssetGenImage(
+    'assets/book/part1/K1-676.jpg',
+  );
+  final AssetGenImage k1677 = const AssetGenImage(
+    'assets/book/part1/K1-677.jpg',
+  );
+  final AssetGenImage k1678 = const AssetGenImage(
+    'assets/book/part1/K1-678.jpg',
+  );
+  final AssetGenImage k1679 = const AssetGenImage(
+    'assets/book/part1/K1-679.jpg',
+  );
+  final AssetGenImage k1680 = const AssetGenImage(
+    'assets/book/part1/K1-680.jpg',
+  );
+  final AssetGenImage k1681 = const AssetGenImage(
+    'assets/book/part1/K1-681.jpg',
+  );
+  final AssetGenImage k1682 = const AssetGenImage(
+    'assets/book/part1/K1-682.jpg',
+  );
+  final AssetGenImage k1683 = const AssetGenImage(
+    'assets/book/part1/K1-683.jpg',
+  );
+  final AssetGenImage k1684 = const AssetGenImage(
+    'assets/book/part1/K1-684.jpg',
+  );
+  final AssetGenImage k1685 = const AssetGenImage(
+    'assets/book/part1/K1-685.jpg',
+  );
+  final AssetGenImage k1686 = const AssetGenImage(
+    'assets/book/part1/K1-686.jpg',
+  );
+  final AssetGenImage k1687 = const AssetGenImage(
+    'assets/book/part1/K1-687.jpg',
+  );
+  final AssetGenImage k1688 = const AssetGenImage(
+    'assets/book/part1/K1-688.jpg',
+  );
+  final AssetGenImage k1689 = const AssetGenImage(
+    'assets/book/part1/K1-689.jpg',
+  );
+  final AssetGenImage k1690 = const AssetGenImage(
+    'assets/book/part1/K1-690.jpg',
+  );
+  final AssetGenImage k1691 = const AssetGenImage(
+    'assets/book/part1/K1-691.jpg',
+  );
+  final AssetGenImage k1692 = const AssetGenImage(
+    'assets/book/part1/K1-692.jpg',
+  );
+  final AssetGenImage k1693 = const AssetGenImage(
+    'assets/book/part1/K1-693.jpg',
+  );
+  final AssetGenImage k1694 = const AssetGenImage(
+    'assets/book/part1/K1-694.jpg',
+  );
+  final AssetGenImage k1695 = const AssetGenImage(
+    'assets/book/part1/K1-695.jpg',
+  );
+  final AssetGenImage k1696 = const AssetGenImage(
+    'assets/book/part1/K1-696.jpg',
+  );
+  final AssetGenImage k1697 = const AssetGenImage(
+    'assets/book/part1/K1-697.jpg',
+  );
+  final AssetGenImage k1698 = const AssetGenImage(
+    'assets/book/part1/K1-698.jpg',
+  );
+  final AssetGenImage k1699 = const AssetGenImage(
+    'assets/book/part1/K1-699.jpg',
+  );
+  final AssetGenImage k1700 = const AssetGenImage(
+    'assets/book/part1/K1-700.jpg',
+  );
+  final AssetGenImage k1701 = const AssetGenImage(
+    'assets/book/part1/K1-701.jpg',
+  );
+  final AssetGenImage k1702 = const AssetGenImage(
+    'assets/book/part1/K1-702.jpg',
+  );
+  final AssetGenImage k1703 = const AssetGenImage(
+    'assets/book/part1/K1-703.jpg',
+  );
+  final AssetGenImage k1704 = const AssetGenImage(
+    'assets/book/part1/K1-704.jpg',
+  );
+  final AssetGenImage k1705 = const AssetGenImage(
+    'assets/book/part1/K1-705.jpg',
+  );
+  final AssetGenImage k1706 = const AssetGenImage(
+    'assets/book/part1/K1-706.jpg',
+  );
+  final AssetGenImage k1707 = const AssetGenImage(
+    'assets/book/part1/K1-707.jpg',
+  );
+  final AssetGenImage k1708 = const AssetGenImage(
+    'assets/book/part1/K1-708.jpg',
+  );
+  final AssetGenImage k1709 = const AssetGenImage(
+    'assets/book/part1/K1-709.jpg',
+  );
+  final AssetGenImage k1710 = const AssetGenImage(
+    'assets/book/part1/K1-710.jpg',
+  );
+  final AssetGenImage k1711 = const AssetGenImage(
+    'assets/book/part1/K1-711.jpg',
+  );
+  final AssetGenImage k1712 = const AssetGenImage(
+    'assets/book/part1/K1-712.jpg',
+  );
+  final AssetGenImage k1713 = const AssetGenImage(
+    'assets/book/part1/K1-713.jpg',
+  );
+  final AssetGenImage k1714 = const AssetGenImage(
+    'assets/book/part1/K1-714.jpg',
+  );
+  final AssetGenImage k1715 = const AssetGenImage(
+    'assets/book/part1/K1-715.jpg',
+  );
+  final AssetGenImage k1716 = const AssetGenImage(
+    'assets/book/part1/K1-716.jpg',
+  );
+  final AssetGenImage k1717 = const AssetGenImage(
+    'assets/book/part1/K1-717.jpg',
+  );
+  final AssetGenImage k1718 = const AssetGenImage(
+    'assets/book/part1/K1-718.jpg',
+  );
+  final AssetGenImage k1719 = const AssetGenImage(
+    'assets/book/part1/K1-719.jpg',
+  );
+  final AssetGenImage k1720 = const AssetGenImage(
+    'assets/book/part1/K1-720.jpg',
+  );
+  final AssetGenImage k1721 = const AssetGenImage(
+    'assets/book/part1/K1-721.jpg',
+  );
+  final AssetGenImage k1722 = const AssetGenImage(
+    'assets/book/part1/K1-722.jpg',
+  );
+  final AssetGenImage k1723 = const AssetGenImage(
+    'assets/book/part1/K1-723.jpg',
+  );
+  final AssetGenImage k1724 = const AssetGenImage(
+    'assets/book/part1/K1-724.jpg',
+  );
+  final AssetGenImage k1725 = const AssetGenImage(
+    'assets/book/part1/K1-725.jpg',
+  );
+  final AssetGenImage k1726 = const AssetGenImage(
+    'assets/book/part1/K1-726.jpg',
+  );
+  final AssetGenImage k1727 = const AssetGenImage(
+    'assets/book/part1/K1-727.jpg',
+  );
+  final AssetGenImage k1728 = const AssetGenImage(
+    'assets/book/part1/K1-728.jpg',
+  );
+  final AssetGenImage k1729 = const AssetGenImage(
+    'assets/book/part1/K1-729.jpg',
+  );
+  final AssetGenImage k1730 = const AssetGenImage(
+    'assets/book/part1/K1-730.jpg',
+  );
+  final AssetGenImage k1731 = const AssetGenImage(
+    'assets/book/part1/K1-731.jpg',
+  );
+  final AssetGenImage k1732 = const AssetGenImage(
+    'assets/book/part1/K1-732.jpg',
+  );
+  final AssetGenImage k1733 = const AssetGenImage(
+    'assets/book/part1/K1-733.jpg',
+  );
+  final AssetGenImage k1734 = const AssetGenImage(
+    'assets/book/part1/K1-734.jpg',
+  );
+  final AssetGenImage k1735 = const AssetGenImage(
+    'assets/book/part1/K1-735.jpg',
+  );
+  final AssetGenImage k1736 = const AssetGenImage(
+    'assets/book/part1/K1-736.jpg',
+  );
+  final AssetGenImage k1737 = const AssetGenImage(
+    'assets/book/part1/K1-737.jpg',
+  );
+  final AssetGenImage k1738 = const AssetGenImage(
+    'assets/book/part1/K1-738.jpg',
+  );
+  final AssetGenImage k1739 = const AssetGenImage(
+    'assets/book/part1/K1-739.jpg',
+  );
+  final AssetGenImage k1740 = const AssetGenImage(
+    'assets/book/part1/K1-740.jpg',
+  );
+  final AssetGenImage k1741 = const AssetGenImage(
+    'assets/book/part1/K1-741.jpg',
+  );
+  final AssetGenImage k1742 = const AssetGenImage(
+    'assets/book/part1/K1-742.jpg',
+  );
+  final AssetGenImage k1743 = const AssetGenImage(
+    'assets/book/part1/K1-743.jpg',
+  );
+  final AssetGenImage k1744 = const AssetGenImage(
+    'assets/book/part1/K1-744.jpg',
+  );
+  final AssetGenImage k1745 = const AssetGenImage(
+    'assets/book/part1/K1-745.jpg',
+  );
+  final AssetGenImage k1746 = const AssetGenImage(
+    'assets/book/part1/K1-746.jpg',
+  );
+  final AssetGenImage k1747 = const AssetGenImage(
+    'assets/book/part1/K1-747.jpg',
+  );
+  final AssetGenImage k1748 = const AssetGenImage(
+    'assets/book/part1/K1-748.jpg',
+  );
+  final AssetGenImage k1749 = const AssetGenImage(
+    'assets/book/part1/K1-749.jpg',
+  );
+  final AssetGenImage k1750 = const AssetGenImage(
+    'assets/book/part1/K1-750.jpg',
+  );
+  final AssetGenImage k1751 = const AssetGenImage(
+    'assets/book/part1/K1-751.jpg',
+  );
+  final AssetGenImage k1752 = const AssetGenImage(
+    'assets/book/part1/K1-752.jpg',
+  );
+  final AssetGenImage k1753 = const AssetGenImage(
+    'assets/book/part1/K1-753.jpg',
+  );
+  final AssetGenImage k1754 = const AssetGenImage(
+    'assets/book/part1/K1-754.jpg',
+  );
+  final AssetGenImage k1755 = const AssetGenImage(
+    'assets/book/part1/K1-755.jpg',
+  );
+  final AssetGenImage k1756 = const AssetGenImage(
+    'assets/book/part1/K1-756.jpg',
+  );
+  final AssetGenImage k1757 = const AssetGenImage(
+    'assets/book/part1/K1-757.jpg',
+  );
+  final AssetGenImage k1758 = const AssetGenImage(
+    'assets/book/part1/K1-758.jpg',
+  );
+  final AssetGenImage k1759 = const AssetGenImage(
+    'assets/book/part1/K1-759.jpg',
+  );
+  final AssetGenImage k1760 = const AssetGenImage(
+    'assets/book/part1/K1-760.jpg',
+  );
+  final AssetGenImage k1761 = const AssetGenImage(
+    'assets/book/part1/K1-761.jpg',
+  );
+  final AssetGenImage k1762 = const AssetGenImage(
+    'assets/book/part1/K1-762.jpg',
+  );
+  final AssetGenImage k1763 = const AssetGenImage(
+    'assets/book/part1/K1-763.jpg',
+  );
+  final AssetGenImage k1764 = const AssetGenImage(
+    'assets/book/part1/K1-764.jpg',
+  );
+  final AssetGenImage k1765 = const AssetGenImage(
+    'assets/book/part1/K1-765.jpg',
+  );
+  final AssetGenImage k1766 = const AssetGenImage(
+    'assets/book/part1/K1-766.jpg',
+  );
+  final AssetGenImage k1767 = const AssetGenImage(
+    'assets/book/part1/K1-767.jpg',
+  );
+  final AssetGenImage k1768 = const AssetGenImage(
+    'assets/book/part1/K1-768.jpg',
+  );
+  final AssetGenImage k1769 = const AssetGenImage(
+    'assets/book/part1/K1-769.jpg',
+  );
+  final AssetGenImage k1770 = const AssetGenImage(
+    'assets/book/part1/K1-770.jpg',
+  );
+  final AssetGenImage k1771 = const AssetGenImage(
+    'assets/book/part1/K1-771.jpg',
+  );
+  final AssetGenImage k1772 = const AssetGenImage(
+    'assets/book/part1/K1-772.jpg',
+  );
+  final AssetGenImage k1773 = const AssetGenImage(
+    'assets/book/part1/K1-773.jpg',
+  );
+  final AssetGenImage k1774 = const AssetGenImage(
+    'assets/book/part1/K1-774.jpg',
+  );
+  final AssetGenImage k1775 = const AssetGenImage(
+    'assets/book/part1/K1-775.jpg',
+  );
+  final AssetGenImage k1776 = const AssetGenImage(
+    'assets/book/part1/K1-776.jpg',
+  );
+  final AssetGenImage k1777 = const AssetGenImage(
+    'assets/book/part1/K1-777.jpg',
+  );
+  final AssetGenImage k1778 = const AssetGenImage(
+    'assets/book/part1/K1-778.jpg',
+  );
+  final AssetGenImage k1779 = const AssetGenImage(
+    'assets/book/part1/K1-779.jpg',
+  );
+  final AssetGenImage k1780 = const AssetGenImage(
+    'assets/book/part1/K1-780.jpg',
+  );
+  final AssetGenImage k1781 = const AssetGenImage(
+    'assets/book/part1/K1-781.jpg',
+  );
+  final AssetGenImage k1782 = const AssetGenImage(
+    'assets/book/part1/K1-782.jpg',
+  );
+  final AssetGenImage k1783 = const AssetGenImage(
+    'assets/book/part1/K1-783.jpg',
+  );
+  final AssetGenImage k1784 = const AssetGenImage(
+    'assets/book/part1/K1-784.jpg',
+  );
+  final AssetGenImage k1785 = const AssetGenImage(
+    'assets/book/part1/K1-785.jpg',
+  );
+  final AssetGenImage k1786 = const AssetGenImage(
+    'assets/book/part1/K1-786.jpg',
+  );
+  final AssetGenImage k1787 = const AssetGenImage(
+    'assets/book/part1/K1-787.jpg',
+  );
+  final AssetGenImage k1788 = const AssetGenImage(
+    'assets/book/part1/K1-788.jpg',
+  );
+  final AssetGenImage k1789 = const AssetGenImage(
+    'assets/book/part1/K1-789.jpg',
+  );
+  final AssetGenImage k1790 = const AssetGenImage(
+    'assets/book/part1/K1-790.jpg',
+  );
+  final AssetGenImage k1791 = const AssetGenImage(
+    'assets/book/part1/K1-791.jpg',
+  );
+  final AssetGenImage k1792 = const AssetGenImage(
+    'assets/book/part1/K1-792.jpg',
+  );
+  final AssetGenImage k1793 = const AssetGenImage(
+    'assets/book/part1/K1-793.jpg',
+  );
+  final AssetGenImage k1794 = const AssetGenImage(
+    'assets/book/part1/K1-794.jpg',
+  );
+  final AssetGenImage k1795 = const AssetGenImage(
+    'assets/book/part1/K1-795.jpg',
+  );
+  final AssetGenImage k1796 = const AssetGenImage(
+    'assets/book/part1/K1-796.jpg',
+  );
+  final AssetGenImage k1797 = const AssetGenImage(
+    'assets/book/part1/K1-797.jpg',
+  );
+  final AssetGenImage k1798 = const AssetGenImage(
+    'assets/book/part1/K1-798.jpg',
+  );
+  final AssetGenImage k1799 = const AssetGenImage(
+    'assets/book/part1/K1-799.jpg',
+  );
+  final AssetGenImage k1800 = const AssetGenImage(
+    'assets/book/part1/K1-800.jpg',
+  );
+  final AssetGenImage k1801 = const AssetGenImage(
+    'assets/book/part1/K1-801.jpg',
+  );
+  final AssetGenImage k1802 = const AssetGenImage(
+    'assets/book/part1/K1-802.jpg',
+  );
+  final AssetGenImage k1803 = const AssetGenImage(
+    'assets/book/part1/K1-803.jpg',
+  );
+  final AssetGenImage k1804 = const AssetGenImage(
+    'assets/book/part1/K1-804.jpg',
+  );
+  final AssetGenImage k1805 = const AssetGenImage(
+    'assets/book/part1/K1-805.jpg',
+  );
+  final AssetGenImage k1806 = const AssetGenImage(
+    'assets/book/part1/K1-806.jpg',
+  );
+  final AssetGenImage k1807 = const AssetGenImage(
+    'assets/book/part1/K1-807.jpg',
+  );
+  final AssetGenImage k1808 = const AssetGenImage(
+    'assets/book/part1/K1-808.jpg',
+  );
+  final AssetGenImage k1809 = const AssetGenImage(
+    'assets/book/part1/K1-809.jpg',
+  );
+  final AssetGenImage k1810 = const AssetGenImage(
+    'assets/book/part1/K1-810.jpg',
+  );
+  final AssetGenImage k1811 = const AssetGenImage(
+    'assets/book/part1/K1-811.jpg',
+  );
+  final AssetGenImage k1812 = const AssetGenImage(
+    'assets/book/part1/K1-812.jpg',
+  );
+  final AssetGenImage k1813 = const AssetGenImage(
+    'assets/book/part1/K1-813.jpg',
+  );
+  final AssetGenImage k1814 = const AssetGenImage(
+    'assets/book/part1/K1-814.jpg',
+  );
+  final AssetGenImage k1815 = const AssetGenImage(
+    'assets/book/part1/K1-815.jpg',
+  );
+  final AssetGenImage k1816 = const AssetGenImage(
+    'assets/book/part1/K1-816.jpg',
+  );
+  final AssetGenImage k1817 = const AssetGenImage(
+    'assets/book/part1/K1-817.jpg',
+  );
+  final AssetGenImage k1818 = const AssetGenImage(
+    'assets/book/part1/K1-818.jpg',
+  );
+  final AssetGenImage k1819 = const AssetGenImage(
+    'assets/book/part1/K1-819.jpg',
+  );
+}
+
+class $AssetsPart2Gen {
+  const $AssetsPart2Gen();
+
+  final AssetGenImage k2001 = const AssetGenImage(
+    'assets/book/part2/K2-001.jpg',
+  );
+  final AssetGenImage k2002 = const AssetGenImage(
+    'assets/book/part2/K2-002.jpg',
+  );
+  final AssetGenImage k2003 = const AssetGenImage(
+    'assets/book/part2/K2-003.jpg',
+  );
+  final AssetGenImage k2004 = const AssetGenImage(
+    'assets/book/part2/K2-004.jpg',
+  );
+  final AssetGenImage k2005 = const AssetGenImage(
+    'assets/book/part2/K2-005.jpg',
+  );
+  final AssetGenImage k2006 = const AssetGenImage(
+    'assets/book/part2/K2-006.jpg',
+  );
+  final AssetGenImage k2007 = const AssetGenImage(
+    'assets/book/part2/K2-007.jpg',
+  );
+  final AssetGenImage k2008 = const AssetGenImage(
+    'assets/book/part2/K2-008.jpg',
+  );
+  final AssetGenImage k2009 = const AssetGenImage(
+    'assets/book/part2/K2-009.jpg',
+  );
+  final AssetGenImage k2010 = const AssetGenImage(
+    'assets/book/part2/K2-010.jpg',
+  );
+  final AssetGenImage k2011 = const AssetGenImage(
+    'assets/book/part2/K2-011.jpg',
+  );
+  final AssetGenImage k2012 = const AssetGenImage(
+    'assets/book/part2/K2-012.jpg',
+  );
+  final AssetGenImage k2013 = const AssetGenImage(
+    'assets/book/part2/K2-013.jpg',
+  );
+  final AssetGenImage k2014 = const AssetGenImage(
+    'assets/book/part2/K2-014.jpg',
+  );
+  final AssetGenImage k2015 = const AssetGenImage(
+    'assets/book/part2/K2-015.jpg',
+  );
+  final AssetGenImage k2016 = const AssetGenImage(
+    'assets/book/part2/K2-016.jpg',
+  );
+  final AssetGenImage k2017 = const AssetGenImage(
+    'assets/book/part2/K2-017.jpg',
+  );
+  final AssetGenImage k2018 = const AssetGenImage(
+    'assets/book/part2/K2-018.jpg',
+  );
+  final AssetGenImage k2019 = const AssetGenImage(
+    'assets/book/part2/K2-019.jpg',
+  );
+  final AssetGenImage k2020 = const AssetGenImage(
+    'assets/book/part2/K2-020.jpg',
+  );
+  final AssetGenImage k2021 = const AssetGenImage(
+    'assets/book/part2/K2-021.jpg',
+  );
+  final AssetGenImage k2022 = const AssetGenImage(
+    'assets/book/part2/K2-022.jpg',
+  );
+  final AssetGenImage k2023 = const AssetGenImage(
+    'assets/book/part2/K2-023.jpg',
+  );
+  final AssetGenImage k2024 = const AssetGenImage(
+    'assets/book/part2/K2-024.jpg',
+  );
+  final AssetGenImage k2025 = const AssetGenImage(
+    'assets/book/part2/K2-025.jpg',
+  );
+  final AssetGenImage k2026 = const AssetGenImage(
+    'assets/book/part2/K2-026.jpg',
+  );
+  final AssetGenImage k2027 = const AssetGenImage(
+    'assets/book/part2/K2-027.jpg',
+  );
+  final AssetGenImage k2028 = const AssetGenImage(
+    'assets/book/part2/K2-028.jpg',
+  );
+  final AssetGenImage k2029 = const AssetGenImage(
+    'assets/book/part2/K2-029.jpg',
+  );
+  final AssetGenImage k2030 = const AssetGenImage(
+    'assets/book/part2/K2-030.jpg',
+  );
+  final AssetGenImage k2031 = const AssetGenImage(
+    'assets/book/part2/K2-031.jpg',
+  );
+  final AssetGenImage k2032 = const AssetGenImage(
+    'assets/book/part2/K2-032.jpg',
+  );
+  final AssetGenImage k2033 = const AssetGenImage(
+    'assets/book/part2/K2-033.jpg',
+  );
+  final AssetGenImage k2034 = const AssetGenImage(
+    'assets/book/part2/K2-034.jpg',
+  );
+  final AssetGenImage k2035 = const AssetGenImage(
+    'assets/book/part2/K2-035.jpg',
+  );
+  final AssetGenImage k2036 = const AssetGenImage(
+    'assets/book/part2/K2-036.jpg',
+  );
+  final AssetGenImage k2037 = const AssetGenImage(
+    'assets/book/part2/K2-037.jpg',
+  );
+  final AssetGenImage k2038 = const AssetGenImage(
+    'assets/book/part2/K2-038.jpg',
+  );
+  final AssetGenImage k2039 = const AssetGenImage(
+    'assets/book/part2/K2-039.jpg',
+  );
+  final AssetGenImage k2040 = const AssetGenImage(
+    'assets/book/part2/K2-040.jpg',
+  );
+  final AssetGenImage k2041 = const AssetGenImage(
+    'assets/book/part2/K2-041.jpg',
+  );
+  final AssetGenImage k2042 = const AssetGenImage(
+    'assets/book/part2/K2-042.jpg',
+  );
+  final AssetGenImage k2043 = const AssetGenImage(
+    'assets/book/part2/K2-043.jpg',
+  );
+  final AssetGenImage k2044 = const AssetGenImage(
+    'assets/book/part2/K2-044.jpg',
+  );
+  final AssetGenImage k2045 = const AssetGenImage(
+    'assets/book/part2/K2-045.jpg',
+  );
+  final AssetGenImage k2046 = const AssetGenImage(
+    'assets/book/part2/K2-046.jpg',
+  );
+  final AssetGenImage k2047 = const AssetGenImage(
+    'assets/book/part2/K2-047.jpg',
+  );
+  final AssetGenImage k2048 = const AssetGenImage(
+    'assets/book/part2/K2-048.jpg',
+  );
+  final AssetGenImage k2049 = const AssetGenImage(
+    'assets/book/part2/K2-049.jpg',
+  );
+  final AssetGenImage k2050 = const AssetGenImage(
+    'assets/book/part2/K2-050.jpg',
+  );
+  final AssetGenImage k2051 = const AssetGenImage(
+    'assets/book/part2/K2-051.jpg',
+  );
+  final AssetGenImage k2052 = const AssetGenImage(
+    'assets/book/part2/K2-052.jpg',
+  );
+  final AssetGenImage k2053 = const AssetGenImage(
+    'assets/book/part2/K2-053.jpg',
+  );
+  final AssetGenImage k2054 = const AssetGenImage(
+    'assets/book/part2/K2-054.jpg',
+  );
+  final AssetGenImage k2055 = const AssetGenImage(
+    'assets/book/part2/K2-055.jpg',
+  );
+  final AssetGenImage k2056 = const AssetGenImage(
+    'assets/book/part2/K2-056.jpg',
+  );
+  final AssetGenImage k2057 = const AssetGenImage(
+    'assets/book/part2/K2-057.jpg',
+  );
+  final AssetGenImage k2058 = const AssetGenImage(
+    'assets/book/part2/K2-058.jpg',
+  );
+  final AssetGenImage k2059 = const AssetGenImage(
+    'assets/book/part2/K2-059.jpg',
+  );
+  final AssetGenImage k2060 = const AssetGenImage(
+    'assets/book/part2/K2-060.jpg',
+  );
+  final AssetGenImage k2061 = const AssetGenImage(
+    'assets/book/part2/K2-061.jpg',
+  );
+  final AssetGenImage k2062 = const AssetGenImage(
+    'assets/book/part2/K2-062.jpg',
+  );
+  final AssetGenImage k2063 = const AssetGenImage(
+    'assets/book/part2/K2-063.jpg',
+  );
+  final AssetGenImage k2064 = const AssetGenImage(
+    'assets/book/part2/K2-064.jpg',
+  );
+  final AssetGenImage k2065 = const AssetGenImage(
+    'assets/book/part2/K2-065.jpg',
+  );
+  final AssetGenImage k2066 = const AssetGenImage(
+    'assets/book/part2/K2-066.jpg',
+  );
+  final AssetGenImage k2067 = const AssetGenImage(
+    'assets/book/part2/K2-067.jpg',
+  );
+  final AssetGenImage k2068 = const AssetGenImage(
+    'assets/book/part2/K2-068.jpg',
+  );
+  final AssetGenImage k2069 = const AssetGenImage(
+    'assets/book/part2/K2-069.jpg',
+  );
+  final AssetGenImage k2070 = const AssetGenImage(
+    'assets/book/part2/K2-070.jpg',
+  );
+  final AssetGenImage k2071 = const AssetGenImage(
+    'assets/book/part2/K2-071.jpg',
+  );
+  final AssetGenImage k2072 = const AssetGenImage(
+    'assets/book/part2/K2-072.jpg',
+  );
+  final AssetGenImage k2073 = const AssetGenImage(
+    'assets/book/part2/K2-073.jpg',
+  );
+  final AssetGenImage k2074 = const AssetGenImage(
+    'assets/book/part2/K2-074.jpg',
+  );
+  final AssetGenImage k2075 = const AssetGenImage(
+    'assets/book/part2/K2-075.jpg',
+  );
+  final AssetGenImage k2076 = const AssetGenImage(
+    'assets/book/part2/K2-076.jpg',
+  );
+  final AssetGenImage k2077 = const AssetGenImage(
+    'assets/book/part2/K2-077.jpg',
+  );
+  final AssetGenImage k2078 = const AssetGenImage(
+    'assets/book/part2/K2-078.jpg',
+  );
+  final AssetGenImage k2079 = const AssetGenImage(
+    'assets/book/part2/K2-079.jpg',
+  );
+  final AssetGenImage k2080 = const AssetGenImage(
+    'assets/book/part2/K2-080.jpg',
+  );
+  final AssetGenImage k2081 = const AssetGenImage(
+    'assets/book/part2/K2-081.jpg',
+  );
+  final AssetGenImage k2082 = const AssetGenImage(
+    'assets/book/part2/K2-082.jpg',
+  );
+  final AssetGenImage k2083 = const AssetGenImage(
+    'assets/book/part2/K2-083.jpg',
+  );
+  final AssetGenImage k2084 = const AssetGenImage(
+    'assets/book/part2/K2-084.jpg',
+  );
+  final AssetGenImage k2085 = const AssetGenImage(
+    'assets/book/part2/K2-085.jpg',
+  );
+  final AssetGenImage k2086 = const AssetGenImage(
+    'assets/book/part2/K2-086.jpg',
+  );
+  final AssetGenImage k2087 = const AssetGenImage(
+    'assets/book/part2/K2-087.jpg',
+  );
+  final AssetGenImage k2088 = const AssetGenImage(
+    'assets/book/part2/K2-088.jpg',
+  );
+  final AssetGenImage k2089 = const AssetGenImage(
+    'assets/book/part2/K2-089.jpg',
+  );
+  final AssetGenImage k2090 = const AssetGenImage(
+    'assets/book/part2/K2-090.jpg',
+  );
+  final AssetGenImage k2091 = const AssetGenImage(
+    'assets/book/part2/K2-091.jpg',
+  );
+  final AssetGenImage k2092 = const AssetGenImage(
+    'assets/book/part2/K2-092.jpg',
+  );
+  final AssetGenImage k2093 = const AssetGenImage(
+    'assets/book/part2/K2-093.jpg',
+  );
+  final AssetGenImage k2094 = const AssetGenImage(
+    'assets/book/part2/K2-094.jpg',
+  );
+  final AssetGenImage k2095 = const AssetGenImage(
+    'assets/book/part2/K2-095.jpg',
+  );
+  final AssetGenImage k2096 = const AssetGenImage(
+    'assets/book/part2/K2-096.jpg',
+  );
+  final AssetGenImage k2097 = const AssetGenImage(
+    'assets/book/part2/K2-097.jpg',
+  );
+  final AssetGenImage k2098 = const AssetGenImage(
+    'assets/book/part2/K2-098.jpg',
+  );
+  final AssetGenImage k2099 = const AssetGenImage(
+    'assets/book/part2/K2-099.jpg',
+  );
+  final AssetGenImage k2100 = const AssetGenImage(
+    'assets/book/part2/K2-100.jpg',
+  );
+  final AssetGenImage k2101 = const AssetGenImage(
+    'assets/book/part2/K2-101.jpg',
+  );
+  final AssetGenImage k2102 = const AssetGenImage(
+    'assets/book/part2/K2-102.jpg',
+  );
+  final AssetGenImage k2103 = const AssetGenImage(
+    'assets/book/part2/K2-103.jpg',
+  );
+  final AssetGenImage k2104 = const AssetGenImage(
+    'assets/book/part2/K2-104.jpg',
+  );
+  final AssetGenImage k2105 = const AssetGenImage(
+    'assets/book/part2/K2-105.jpg',
+  );
+  final AssetGenImage k2106 = const AssetGenImage(
+    'assets/book/part2/K2-106.jpg',
+  );
+  final AssetGenImage k2107 = const AssetGenImage(
+    'assets/book/part2/K2-107.jpg',
+  );
+  final AssetGenImage k2108 = const AssetGenImage(
+    'assets/book/part2/K2-108.jpg',
+  );
+  final AssetGenImage k2109 = const AssetGenImage(
+    'assets/book/part2/K2-109.jpg',
+  );
+  final AssetGenImage k2110 = const AssetGenImage(
+    'assets/book/part2/K2-110.jpg',
+  );
+  final AssetGenImage k2111 = const AssetGenImage(
+    'assets/book/part2/K2-111.jpg',
+  );
+  final AssetGenImage k2112 = const AssetGenImage(
+    'assets/book/part2/K2-112.jpg',
+  );
+  final AssetGenImage k2113 = const AssetGenImage(
+    'assets/book/part2/K2-113.jpg',
+  );
+  final AssetGenImage k2114 = const AssetGenImage(
+    'assets/book/part2/K2-114.jpg',
+  );
+  final AssetGenImage k2115 = const AssetGenImage(
+    'assets/book/part2/K2-115.jpg',
+  );
+  final AssetGenImage k2116 = const AssetGenImage(
+    'assets/book/part2/K2-116.jpg',
+  );
+  final AssetGenImage k2117 = const AssetGenImage(
+    'assets/book/part2/K2-117.jpg',
+  );
+  final AssetGenImage k2118 = const AssetGenImage(
+    'assets/book/part2/K2-118.jpg',
+  );
+  final AssetGenImage k2119 = const AssetGenImage(
+    'assets/book/part2/K2-119.jpg',
+  );
+  final AssetGenImage k2120 = const AssetGenImage(
+    'assets/book/part2/K2-120.jpg',
+  );
+  final AssetGenImage k2121 = const AssetGenImage(
+    'assets/book/part2/K2-121.jpg',
+  );
+  final AssetGenImage k2122 = const AssetGenImage(
+    'assets/book/part2/K2-122.jpg',
+  );
+  final AssetGenImage k2123 = const AssetGenImage(
+    'assets/book/part2/K2-123.jpg',
+  );
+  final AssetGenImage k2124 = const AssetGenImage(
+    'assets/book/part2/K2-124.jpg',
+  );
+  final AssetGenImage k2125 = const AssetGenImage(
+    'assets/book/part2/K2-125.jpg',
+  );
+  final AssetGenImage k2126 = const AssetGenImage(
+    'assets/book/part2/K2-126.jpg',
+  );
+  final AssetGenImage k2127 = const AssetGenImage(
+    'assets/book/part2/K2-127.jpg',
+  );
+  final AssetGenImage k2128 = const AssetGenImage(
+    'assets/book/part2/K2-128.jpg',
+  );
+  final AssetGenImage k2129 = const AssetGenImage(
+    'assets/book/part2/K2-129.jpg',
+  );
+  final AssetGenImage k2130 = const AssetGenImage(
+    'assets/book/part2/K2-130.jpg',
+  );
+  final AssetGenImage k2131 = const AssetGenImage(
+    'assets/book/part2/K2-131.jpg',
+  );
+  final AssetGenImage k2132 = const AssetGenImage(
+    'assets/book/part2/K2-132.jpg',
+  );
+  final AssetGenImage k2133 = const AssetGenImage(
+    'assets/book/part2/K2-133.jpg',
+  );
+  final AssetGenImage k2134 = const AssetGenImage(
+    'assets/book/part2/K2-134.jpg',
+  );
+  final AssetGenImage k2135 = const AssetGenImage(
+    'assets/book/part2/K2-135.jpg',
+  );
+  final AssetGenImage k2136 = const AssetGenImage(
+    'assets/book/part2/K2-136.jpg',
+  );
+  final AssetGenImage k2137 = const AssetGenImage(
+    'assets/book/part2/K2-137.jpg',
+  );
+  final AssetGenImage k2138 = const AssetGenImage(
+    'assets/book/part2/K2-138.jpg',
+  );
+  final AssetGenImage k2139 = const AssetGenImage(
+    'assets/book/part2/K2-139.jpg',
+  );
+  final AssetGenImage k2140 = const AssetGenImage(
+    'assets/book/part2/K2-140.jpg',
+  );
+  final AssetGenImage k2141 = const AssetGenImage(
+    'assets/book/part2/K2-141.jpg',
+  );
+  final AssetGenImage k2142 = const AssetGenImage(
+    'assets/book/part2/K2-142.jpg',
+  );
+  final AssetGenImage k2143 = const AssetGenImage(
+    'assets/book/part2/K2-143.jpg',
+  );
+  final AssetGenImage k2144 = const AssetGenImage(
+    'assets/book/part2/K2-144.jpg',
+  );
+  final AssetGenImage k2145 = const AssetGenImage(
+    'assets/book/part2/K2-145.jpg',
+  );
+  final AssetGenImage k2146 = const AssetGenImage(
+    'assets/book/part2/K2-146.jpg',
+  );
+  final AssetGenImage k2147 = const AssetGenImage(
+    'assets/book/part2/K2-147.jpg',
+  );
+  final AssetGenImage k2148 = const AssetGenImage(
+    'assets/book/part2/K2-148.jpg',
+  );
+  final AssetGenImage k2149 = const AssetGenImage(
+    'assets/book/part2/K2-149.jpg',
+  );
+  final AssetGenImage k2150 = const AssetGenImage(
+    'assets/book/part2/K2-150.jpg',
+  );
+  final AssetGenImage k2151 = const AssetGenImage(
+    'assets/book/part2/K2-151.jpg',
+  );
+  final AssetGenImage k2152 = const AssetGenImage(
+    'assets/book/part2/K2-152.jpg',
+  );
+  final AssetGenImage k2153 = const AssetGenImage(
+    'assets/book/part2/K2-153.jpg',
+  );
+  final AssetGenImage k2154 = const AssetGenImage(
+    'assets/book/part2/K2-154.jpg',
+  );
+  final AssetGenImage k2155 = const AssetGenImage(
+    'assets/book/part2/K2-155.jpg',
+  );
+  final AssetGenImage k2156 = const AssetGenImage(
+    'assets/book/part2/K2-156.jpg',
+  );
+  final AssetGenImage k2157 = const AssetGenImage(
+    'assets/book/part2/K2-157.jpg',
+  );
+  final AssetGenImage k2158 = const AssetGenImage(
+    'assets/book/part2/K2-158.jpg',
+  );
+  final AssetGenImage k2159 = const AssetGenImage(
+    'assets/book/part2/K2-159.jpg',
+  );
+  final AssetGenImage k2160 = const AssetGenImage(
+    'assets/book/part2/K2-160.jpg',
+  );
+  final AssetGenImage k2161 = const AssetGenImage(
+    'assets/book/part2/K2-161.jpg',
+  );
+  final AssetGenImage k2162 = const AssetGenImage(
+    'assets/book/part2/K2-162.jpg',
+  );
+  final AssetGenImage k2163 = const AssetGenImage(
+    'assets/book/part2/K2-163.jpg',
+  );
+  final AssetGenImage k2164 = const AssetGenImage(
+    'assets/book/part2/K2-164.jpg',
+  );
+  final AssetGenImage k2165 = const AssetGenImage(
+    'assets/book/part2/K2-165.jpg',
+  );
+  final AssetGenImage k2166 = const AssetGenImage(
+    'assets/book/part2/K2-166.jpg',
+  );
+  final AssetGenImage k2167 = const AssetGenImage(
+    'assets/book/part2/K2-167.jpg',
+  );
+  final AssetGenImage k2168 = const AssetGenImage(
+    'assets/book/part2/K2-168.jpg',
+  );
+  final AssetGenImage k2169 = const AssetGenImage(
+    'assets/book/part2/K2-169.jpg',
+  );
+  final AssetGenImage k2170 = const AssetGenImage(
+    'assets/book/part2/K2-170.jpg',
+  );
+  final AssetGenImage k2171 = const AssetGenImage(
+    'assets/book/part2/K2-171.jpg',
+  );
+  final AssetGenImage k2172 = const AssetGenImage(
+    'assets/book/part2/K2-172.jpg',
+  );
+  final AssetGenImage k2173 = const AssetGenImage(
+    'assets/book/part2/K2-173.jpg',
+  );
+  final AssetGenImage k2174 = const AssetGenImage(
+    'assets/book/part2/K2-174.jpg',
+  );
+  final AssetGenImage k2175 = const AssetGenImage(
+    'assets/book/part2/K2-175.jpg',
+  );
+  final AssetGenImage k2176 = const AssetGenImage(
+    'assets/book/part2/K2-176.jpg',
+  );
+  final AssetGenImage k2177 = const AssetGenImage(
+    'assets/book/part2/K2-177.jpg',
+  );
+  final AssetGenImage k2178 = const AssetGenImage(
+    'assets/book/part2/K2-178.jpg',
+  );
+  final AssetGenImage k2179 = const AssetGenImage(
+    'assets/book/part2/K2-179.jpg',
+  );
+  final AssetGenImage k2180 = const AssetGenImage(
+    'assets/book/part2/K2-180.jpg',
+  );
+  final AssetGenImage k2181 = const AssetGenImage(
+    'assets/book/part2/K2-181.jpg',
+  );
+  final AssetGenImage k2182 = const AssetGenImage(
+    'assets/book/part2/K2-182.jpg',
+  );
+  final AssetGenImage k2183 = const AssetGenImage(
+    'assets/book/part2/K2-183.jpg',
+  );
+  final AssetGenImage k2184 = const AssetGenImage(
+    'assets/book/part2/K2-184.jpg',
+  );
+  final AssetGenImage k2185 = const AssetGenImage(
+    'assets/book/part2/K2-185.jpg',
+  );
+  final AssetGenImage k2186 = const AssetGenImage(
+    'assets/book/part2/K2-186.jpg',
+  );
+  final AssetGenImage k2187 = const AssetGenImage(
+    'assets/book/part2/K2-187.jpg',
+  );
+  final AssetGenImage k2188 = const AssetGenImage(
+    'assets/book/part2/K2-188.jpg',
+  );
+  final AssetGenImage k2189 = const AssetGenImage(
+    'assets/book/part2/K2-189.jpg',
+  );
+  final AssetGenImage k2190 = const AssetGenImage(
+    'assets/book/part2/K2-190.jpg',
+  );
+  final AssetGenImage k2191 = const AssetGenImage(
+    'assets/book/part2/K2-191.jpg',
+  );
+  final AssetGenImage k2192 = const AssetGenImage(
+    'assets/book/part2/K2-192.jpg',
+  );
+  final AssetGenImage k2193 = const AssetGenImage(
+    'assets/book/part2/K2-193.jpg',
+  );
+  final AssetGenImage k2194 = const AssetGenImage(
+    'assets/book/part2/K2-194.jpg',
+  );
+  final AssetGenImage k2195 = const AssetGenImage(
+    'assets/book/part2/K2-195.jpg',
+  );
+  final AssetGenImage k2196 = const AssetGenImage(
+    'assets/book/part2/K2-196.jpg',
+  );
+  final AssetGenImage k2197 = const AssetGenImage(
+    'assets/book/part2/K2-197.jpg',
+  );
+  final AssetGenImage k2198 = const AssetGenImage(
+    'assets/book/part2/K2-198.jpg',
+  );
+  final AssetGenImage k2199 = const AssetGenImage(
+    'assets/book/part2/K2-199.jpg',
+  );
+  final AssetGenImage k2200 = const AssetGenImage(
+    'assets/book/part2/K2-200.jpg',
+  );
+  final AssetGenImage k2201 = const AssetGenImage(
+    'assets/book/part2/K2-201.jpg',
+  );
+  final AssetGenImage k2202 = const AssetGenImage(
+    'assets/book/part2/K2-202.jpg',
+  );
+  final AssetGenImage k2203 = const AssetGenImage(
+    'assets/book/part2/K2-203.jpg',
+  );
+  final AssetGenImage k2204 = const AssetGenImage(
+    'assets/book/part2/K2-204.jpg',
+  );
+  final AssetGenImage k2205 = const AssetGenImage(
+    'assets/book/part2/K2-205.jpg',
+  );
+  final AssetGenImage k2206 = const AssetGenImage(
+    'assets/book/part2/K2-206.jpg',
+  );
+  final AssetGenImage k2207 = const AssetGenImage(
+    'assets/book/part2/K2-207.jpg',
+  );
+  final AssetGenImage k2208 = const AssetGenImage(
+    'assets/book/part2/K2-208.jpg',
+  );
+  final AssetGenImage k2209 = const AssetGenImage(
+    'assets/book/part2/K2-209.jpg',
+  );
+  final AssetGenImage k2210 = const AssetGenImage(
+    'assets/book/part2/K2-210.jpg',
+  );
+  final AssetGenImage k2211 = const AssetGenImage(
+    'assets/book/part2/K2-211.jpg',
+  );
+  final AssetGenImage k2212 = const AssetGenImage(
+    'assets/book/part2/K2-212.jpg',
+  );
+  final AssetGenImage k2213 = const AssetGenImage(
+    'assets/book/part2/K2-213.jpg',
+  );
+  final AssetGenImage k2214 = const AssetGenImage(
+    'assets/book/part2/K2-214.jpg',
+  );
+  final AssetGenImage k2215 = const AssetGenImage(
+    'assets/book/part2/K2-215.jpg',
+  );
+  final AssetGenImage k2216 = const AssetGenImage(
+    'assets/book/part2/K2-216.jpg',
+  );
+  final AssetGenImage k2217 = const AssetGenImage(
+    'assets/book/part2/K2-217.jpg',
+  );
+  final AssetGenImage k2218 = const AssetGenImage(
+    'assets/book/part2/K2-218.jpg',
+  );
+  final AssetGenImage k2219 = const AssetGenImage(
+    'assets/book/part2/K2-219.jpg',
+  );
+  final AssetGenImage k2220 = const AssetGenImage(
+    'assets/book/part2/K2-220.jpg',
+  );
+  final AssetGenImage k2221 = const AssetGenImage(
+    'assets/book/part2/K2-221.jpg',
+  );
+  final AssetGenImage k2222 = const AssetGenImage(
+    'assets/book/part2/K2-222.jpg',
+  );
+  final AssetGenImage k2223 = const AssetGenImage(
+    'assets/book/part2/K2-223.jpg',
+  );
+  final AssetGenImage k2224 = const AssetGenImage(
+    'assets/book/part2/K2-224.jpg',
+  );
+  final AssetGenImage k2225 = const AssetGenImage(
+    'assets/book/part2/K2-225.jpg',
+  );
+  final AssetGenImage k2226 = const AssetGenImage(
+    'assets/book/part2/K2-226.jpg',
+  );
+  final AssetGenImage k2227 = const AssetGenImage(
+    'assets/book/part2/K2-227.jpg',
+  );
+  final AssetGenImage k2228 = const AssetGenImage(
+    'assets/book/part2/K2-228.jpg',
+  );
+  final AssetGenImage k2229 = const AssetGenImage(
+    'assets/book/part2/K2-229.jpg',
+  );
+  final AssetGenImage k2230 = const AssetGenImage(
+    'assets/book/part2/K2-230.jpg',
+  );
+  final AssetGenImage k2231 = const AssetGenImage(
+    'assets/book/part2/K2-231.jpg',
+  );
+  final AssetGenImage k2232 = const AssetGenImage(
+    'assets/book/part2/K2-232.jpg',
+  );
+  final AssetGenImage k2233 = const AssetGenImage(
+    'assets/book/part2/K2-233.jpg',
+  );
+  final AssetGenImage k2234 = const AssetGenImage(
+    'assets/book/part2/K2-234.jpg',
+  );
+  final AssetGenImage k2235 = const AssetGenImage(
+    'assets/book/part2/K2-235.jpg',
+  );
+  final AssetGenImage k2236 = const AssetGenImage(
+    'assets/book/part2/K2-236.jpg',
+  );
+  final AssetGenImage k2237 = const AssetGenImage(
+    'assets/book/part2/K2-237.jpg',
+  );
+  final AssetGenImage k2238 = const AssetGenImage(
+    'assets/book/part2/K2-238.jpg',
+  );
+  final AssetGenImage k2239 = const AssetGenImage(
+    'assets/book/part2/K2-239.jpg',
+  );
+  final AssetGenImage k2240 = const AssetGenImage(
+    'assets/book/part2/K2-240.jpg',
+  );
+  final AssetGenImage k2241 = const AssetGenImage(
+    'assets/book/part2/K2-241.jpg',
+  );
+  final AssetGenImage k2242 = const AssetGenImage(
+    'assets/book/part2/K2-242.jpg',
+  );
+  final AssetGenImage k2243 = const AssetGenImage(
+    'assets/book/part2/K2-243.jpg',
+  );
+  final AssetGenImage k2244 = const AssetGenImage(
+    'assets/book/part2/K2-244.jpg',
+  );
+  final AssetGenImage k2245 = const AssetGenImage(
+    'assets/book/part2/K2-245.jpg',
+  );
+  final AssetGenImage k2246 = const AssetGenImage(
+    'assets/book/part2/K2-246.jpg',
+  );
+  final AssetGenImage k2247 = const AssetGenImage(
+    'assets/book/part2/K2-247.jpg',
+  );
+  final AssetGenImage k2248 = const AssetGenImage(
+    'assets/book/part2/K2-248.jpg',
+  );
+  final AssetGenImage k2249 = const AssetGenImage(
+    'assets/book/part2/K2-249.jpg',
+  );
+  final AssetGenImage k2250 = const AssetGenImage(
+    'assets/book/part2/K2-250.jpg',
+  );
+  final AssetGenImage k2251 = const AssetGenImage(
+    'assets/book/part2/K2-251.jpg',
+  );
+  final AssetGenImage k2252 = const AssetGenImage(
+    'assets/book/part2/K2-252.jpg',
+  );
+  final AssetGenImage k2253 = const AssetGenImage(
+    'assets/book/part2/K2-253.jpg',
+  );
+  final AssetGenImage k2254 = const AssetGenImage(
+    'assets/book/part2/K2-254.jpg',
+  );
+  final AssetGenImage k2255 = const AssetGenImage(
+    'assets/book/part2/K2-255.jpg',
+  );
+  final AssetGenImage k2256 = const AssetGenImage(
+    'assets/book/part2/K2-256.jpg',
+  );
+  final AssetGenImage k2257 = const AssetGenImage(
+    'assets/book/part2/K2-257.jpg',
+  );
+  final AssetGenImage k2258 = const AssetGenImage(
+    'assets/book/part2/K2-258.jpg',
+  );
+  final AssetGenImage k2259 = const AssetGenImage(
+    'assets/book/part2/K2-259.jpg',
+  );
+  final AssetGenImage k2260 = const AssetGenImage(
+    'assets/book/part2/K2-260.jpg',
+  );
+  final AssetGenImage k2261 = const AssetGenImage(
+    'assets/book/part2/K2-261.jpg',
+  );
+  final AssetGenImage k2262 = const AssetGenImage(
+    'assets/book/part2/K2-262.jpg',
+  );
+  final AssetGenImage k2263 = const AssetGenImage(
+    'assets/book/part2/K2-263.jpg',
+  );
+  final AssetGenImage k2264 = const AssetGenImage(
+    'assets/book/part2/K2-264.jpg',
+  );
+  final AssetGenImage k2265 = const AssetGenImage(
+    'assets/book/part2/K2-265.jpg',
+  );
+  final AssetGenImage k2266 = const AssetGenImage(
+    'assets/book/part2/K2-266.jpg',
+  );
+  final AssetGenImage k2267 = const AssetGenImage(
+    'assets/book/part2/K2-267.jpg',
+  );
+  final AssetGenImage k2268 = const AssetGenImage(
+    'assets/book/part2/K2-268.jpg',
+  );
+  final AssetGenImage k2269 = const AssetGenImage(
+    'assets/book/part2/K2-269.jpg',
+  );
+  final AssetGenImage k2270 = const AssetGenImage(
+    'assets/book/part2/K2-270.jpg',
+  );
+  final AssetGenImage k2271 = const AssetGenImage(
+    'assets/book/part2/K2-271.jpg',
+  );
+  final AssetGenImage k2272 = const AssetGenImage(
+    'assets/book/part2/K2-272.jpg',
+  );
+  final AssetGenImage k2273 = const AssetGenImage(
+    'assets/book/part2/K2-273.jpg',
+  );
+  final AssetGenImage k2274 = const AssetGenImage(
+    'assets/book/part2/K2-274.jpg',
+  );
+  final AssetGenImage k2275 = const AssetGenImage(
+    'assets/book/part2/K2-275.jpg',
+  );
+  final AssetGenImage k2276 = const AssetGenImage(
+    'assets/book/part2/K2-276.jpg',
+  );
+  final AssetGenImage k2277 = const AssetGenImage(
+    'assets/book/part2/K2-277.jpg',
+  );
+  final AssetGenImage k2278 = const AssetGenImage(
+    'assets/book/part2/K2-278.jpg',
+  );
+  final AssetGenImage k2279 = const AssetGenImage(
+    'assets/book/part2/K2-279.jpg',
+  );
+  final AssetGenImage k2280 = const AssetGenImage(
+    'assets/book/part2/K2-280.jpg',
+  );
+  final AssetGenImage k2281 = const AssetGenImage(
+    'assets/book/part2/K2-281.jpg',
+  );
+  final AssetGenImage k2282 = const AssetGenImage(
+    'assets/book/part2/K2-282.jpg',
+  );
+  final AssetGenImage k2283 = const AssetGenImage(
+    'assets/book/part2/K2-283.jpg',
+  );
+  final AssetGenImage k2284 = const AssetGenImage(
+    'assets/book/part2/K2-284.jpg',
+  );
+  final AssetGenImage k2285 = const AssetGenImage(
+    'assets/book/part2/K2-285.jpg',
+  );
+  final AssetGenImage k2286 = const AssetGenImage(
+    'assets/book/part2/K2-286.jpg',
+  );
+  final AssetGenImage k2287 = const AssetGenImage(
+    'assets/book/part2/K2-287.jpg',
+  );
+  final AssetGenImage k2288 = const AssetGenImage(
+    'assets/book/part2/K2-288.jpg',
+  );
+  final AssetGenImage k2289 = const AssetGenImage(
+    'assets/book/part2/K2-289.jpg',
+  );
+  final AssetGenImage k2290 = const AssetGenImage(
+    'assets/book/part2/K2-290.jpg',
+  );
+  final AssetGenImage k2291 = const AssetGenImage(
+    'assets/book/part2/K2-291.jpg',
+  );
+  final AssetGenImage k2292 = const AssetGenImage(
+    'assets/book/part2/K2-292.jpg',
+  );
+  final AssetGenImage k2293 = const AssetGenImage(
+    'assets/book/part2/K2-293.jpg',
+  );
+  final AssetGenImage k2294 = const AssetGenImage(
+    'assets/book/part2/K2-294.jpg',
+  );
+  final AssetGenImage k2295 = const AssetGenImage(
+    'assets/book/part2/K2-295.jpg',
+  );
+  final AssetGenImage k2296 = const AssetGenImage(
+    'assets/book/part2/K2-296.jpg',
+  );
+  final AssetGenImage k2297 = const AssetGenImage(
+    'assets/book/part2/K2-297.jpg',
+  );
+  final AssetGenImage k2298 = const AssetGenImage(
+    'assets/book/part2/K2-298.jpg',
+  );
+  final AssetGenImage k2299 = const AssetGenImage(
+    'assets/book/part2/K2-299.jpg',
+  );
+  final AssetGenImage k2300 = const AssetGenImage(
+    'assets/book/part2/K2-300.jpg',
+  );
+  final AssetGenImage k2301 = const AssetGenImage(
+    'assets/book/part2/K2-301.jpg',
+  );
+  final AssetGenImage k2302 = const AssetGenImage(
+    'assets/book/part2/K2-302.jpg',
+  );
+  final AssetGenImage k2303 = const AssetGenImage(
+    'assets/book/part2/K2-303.jpg',
+  );
+  final AssetGenImage k2304 = const AssetGenImage(
+    'assets/book/part2/K2-304.jpg',
+  );
+  final AssetGenImage k2305 = const AssetGenImage(
+    'assets/book/part2/K2-305.jpg',
+  );
+  final AssetGenImage k2306 = const AssetGenImage(
+    'assets/book/part2/K2-306.jpg',
+  );
+  final AssetGenImage k2307 = const AssetGenImage(
+    'assets/book/part2/K2-307.jpg',
+  );
+  final AssetGenImage k2308 = const AssetGenImage(
+    'assets/book/part2/K2-308.jpg',
+  );
+  final AssetGenImage k2309 = const AssetGenImage(
+    'assets/book/part2/K2-309.jpg',
+  );
+  final AssetGenImage k2310 = const AssetGenImage(
+    'assets/book/part2/K2-310.jpg',
+  );
+  final AssetGenImage k2311 = const AssetGenImage(
+    'assets/book/part2/K2-311.jpg',
+  );
+  final AssetGenImage k2312 = const AssetGenImage(
+    'assets/book/part2/K2-312.jpg',
+  );
+  final AssetGenImage k2313 = const AssetGenImage(
+    'assets/book/part2/K2-313.jpg',
+  );
+  final AssetGenImage k2314 = const AssetGenImage(
+    'assets/book/part2/K2-314.jpg',
+  );
+  final AssetGenImage k2315 = const AssetGenImage(
+    'assets/book/part2/K2-315.jpg',
+  );
+  final AssetGenImage k2316 = const AssetGenImage(
+    'assets/book/part2/K2-316.jpg',
+  );
+  final AssetGenImage k2317 = const AssetGenImage(
+    'assets/book/part2/K2-317.jpg',
+  );
+  final AssetGenImage k2318 = const AssetGenImage(
+    'assets/book/part2/K2-318.jpg',
+  );
+  final AssetGenImage k2319 = const AssetGenImage(
+    'assets/book/part2/K2-319.jpg',
+  );
+  final AssetGenImage k2320 = const AssetGenImage(
+    'assets/book/part2/K2-320.jpg',
+  );
+  final AssetGenImage k2321 = const AssetGenImage(
+    'assets/book/part2/K2-321.jpg',
+  );
+  final AssetGenImage k2322 = const AssetGenImage(
+    'assets/book/part2/K2-322.jpg',
+  );
+  final AssetGenImage k2323 = const AssetGenImage(
+    'assets/book/part2/K2-323.jpg',
+  );
+  final AssetGenImage k2324 = const AssetGenImage(
+    'assets/book/part2/K2-324.jpg',
+  );
+  final AssetGenImage k2325 = const AssetGenImage(
+    'assets/book/part2/K2-325.jpg',
+  );
+  final AssetGenImage k2326 = const AssetGenImage(
+    'assets/book/part2/K2-326.jpg',
+  );
+  final AssetGenImage k2327 = const AssetGenImage(
+    'assets/book/part2/K2-327.jpg',
+  );
+  final AssetGenImage k2328 = const AssetGenImage(
+    'assets/book/part2/K2-328.jpg',
+  );
+  final AssetGenImage k2329 = const AssetGenImage(
+    'assets/book/part2/K2-329.jpg',
+  );
+  final AssetGenImage k2330 = const AssetGenImage(
+    'assets/book/part2/K2-330.jpg',
+  );
+  final AssetGenImage k2331 = const AssetGenImage(
+    'assets/book/part2/K2-331.jpg',
+  );
+  final AssetGenImage k2332 = const AssetGenImage(
+    'assets/book/part2/K2-332.jpg',
+  );
+  final AssetGenImage k2333 = const AssetGenImage(
+    'assets/book/part2/K2-333.jpg',
+  );
+  final AssetGenImage k2334 = const AssetGenImage(
+    'assets/book/part2/K2-334.jpg',
+  );
+  final AssetGenImage k2335 = const AssetGenImage(
+    'assets/book/part2/K2-335.jpg',
+  );
+  final AssetGenImage k2336 = const AssetGenImage(
+    'assets/book/part2/K2-336.jpg',
+  );
+  final AssetGenImage k2337 = const AssetGenImage(
+    'assets/book/part2/K2-337.jpg',
+  );
+  final AssetGenImage k2338 = const AssetGenImage(
+    'assets/book/part2/K2-338.jpg',
+  );
+  final AssetGenImage k2339 = const AssetGenImage(
+    'assets/book/part2/K2-339.jpg',
+  );
+  final AssetGenImage k2340 = const AssetGenImage(
+    'assets/book/part2/K2-340.jpg',
+  );
+  final AssetGenImage k2341 = const AssetGenImage(
+    'assets/book/part2/K2-341.jpg',
+  );
+  final AssetGenImage k2342 = const AssetGenImage(
+    'assets/book/part2/K2-342.jpg',
+  );
+  final AssetGenImage k2343 = const AssetGenImage(
+    'assets/book/part2/K2-343.jpg',
+  );
+  final AssetGenImage k2344 = const AssetGenImage(
+    'assets/book/part2/K2-344.jpg',
+  );
+  final AssetGenImage k2345 = const AssetGenImage(
+    'assets/book/part2/K2-345.jpg',
+  );
+  final AssetGenImage k2346 = const AssetGenImage(
+    'assets/book/part2/K2-346.jpg',
+  );
+  final AssetGenImage k2347 = const AssetGenImage(
+    'assets/book/part2/K2-347.jpg',
+  );
+  final AssetGenImage k2348 = const AssetGenImage(
+    'assets/book/part2/K2-348.jpg',
+  );
+  final AssetGenImage k2349 = const AssetGenImage(
+    'assets/book/part2/K2-349.jpg',
+  );
+  final AssetGenImage k2350 = const AssetGenImage(
+    'assets/book/part2/K2-350.jpg',
+  );
+  final AssetGenImage k2351 = const AssetGenImage(
+    'assets/book/part2/K2-351.jpg',
+  );
+  final AssetGenImage k2352 = const AssetGenImage(
+    'assets/book/part2/K2-352.jpg',
+  );
+  final AssetGenImage k2353 = const AssetGenImage(
+    'assets/book/part2/K2-353.jpg',
+  );
+  final AssetGenImage k2354 = const AssetGenImage(
+    'assets/book/part2/K2-354.jpg',
+  );
+  final AssetGenImage k2355 = const AssetGenImage(
+    'assets/book/part2/K2-355.jpg',
+  );
+  final AssetGenImage k2356 = const AssetGenImage(
+    'assets/book/part2/K2-356.jpg',
+  );
+  final AssetGenImage k2357 = const AssetGenImage(
+    'assets/book/part2/K2-357.jpg',
+  );
+  final AssetGenImage k2358 = const AssetGenImage(
+    'assets/book/part2/K2-358.jpg',
+  );
+  final AssetGenImage k2359 = const AssetGenImage(
+    'assets/book/part2/K2-359.jpg',
+  );
+  final AssetGenImage k2360 = const AssetGenImage(
+    'assets/book/part2/K2-360.jpg',
+  );
+  final AssetGenImage k2361 = const AssetGenImage(
+    'assets/book/part2/K2-361.jpg',
+  );
+  final AssetGenImage k2362 = const AssetGenImage(
+    'assets/book/part2/K2-362.jpg',
+  );
+  final AssetGenImage k2363 = const AssetGenImage(
+    'assets/book/part2/K2-363.jpg',
+  );
+  final AssetGenImage k2364 = const AssetGenImage(
+    'assets/book/part2/K2-364.jpg',
+  );
+  final AssetGenImage k2365 = const AssetGenImage(
+    'assets/book/part2/K2-365.jpg',
+  );
+  final AssetGenImage k2366 = const AssetGenImage(
+    'assets/book/part2/K2-366.jpg',
+  );
+  final AssetGenImage k2367 = const AssetGenImage(
+    'assets/book/part2/K2-367.jpg',
+  );
+  final AssetGenImage k2368 = const AssetGenImage(
+    'assets/book/part2/K2-368.jpg',
+  );
+  final AssetGenImage k2369 = const AssetGenImage(
+    'assets/book/part2/K2-369.jpg',
+  );
+  final AssetGenImage k2370 = const AssetGenImage(
+    'assets/book/part2/K2-370.jpg',
+  );
+  final AssetGenImage k2371 = const AssetGenImage(
+    'assets/book/part2/K2-371.jpg',
+  );
+  final AssetGenImage k2372 = const AssetGenImage(
+    'assets/book/part2/K2-372.jpg',
+  );
+  final AssetGenImage k2373 = const AssetGenImage(
+    'assets/book/part2/K2-373.jpg',
+  );
+  final AssetGenImage k2374 = const AssetGenImage(
+    'assets/book/part2/K2-374.jpg',
+  );
+  final AssetGenImage k2375 = const AssetGenImage(
+    'assets/book/part2/K2-375.jpg',
+  );
+  final AssetGenImage k2376 = const AssetGenImage(
+    'assets/book/part2/K2-376.jpg',
+  );
+  final AssetGenImage k2377 = const AssetGenImage(
+    'assets/book/part2/K2-377.jpg',
+  );
+  final AssetGenImage k2378 = const AssetGenImage(
+    'assets/book/part2/K2-378.jpg',
+  );
+  final AssetGenImage k2379 = const AssetGenImage(
+    'assets/book/part2/K2-379.jpg',
+  );
+  final AssetGenImage k2380 = const AssetGenImage(
+    'assets/book/part2/K2-380.jpg',
+  );
+  final AssetGenImage k2381 = const AssetGenImage(
+    'assets/book/part2/K2-381.jpg',
+  );
+  final AssetGenImage k2382 = const AssetGenImage(
+    'assets/book/part2/K2-382.jpg',
+  );
+  final AssetGenImage k2383 = const AssetGenImage(
+    'assets/book/part2/K2-383.jpg',
+  );
+  final AssetGenImage k2384 = const AssetGenImage(
+    'assets/book/part2/K2-384.jpg',
+  );
+  final AssetGenImage k2385 = const AssetGenImage(
+    'assets/book/part2/K2-385.jpg',
+  );
+  final AssetGenImage k2386 = const AssetGenImage(
+    'assets/book/part2/K2-386.jpg',
+  );
+  final AssetGenImage k2387 = const AssetGenImage(
+    'assets/book/part2/K2-387.jpg',
+  );
+  final AssetGenImage k2388 = const AssetGenImage(
+    'assets/book/part2/K2-388.jpg',
+  );
+  final AssetGenImage k2389 = const AssetGenImage(
+    'assets/book/part2/K2-389.jpg',
+  );
+  final AssetGenImage k2390 = const AssetGenImage(
+    'assets/book/part2/K2-390.jpg',
+  );
+  final AssetGenImage k2391 = const AssetGenImage(
+    'assets/book/part2/K2-391.jpg',
+  );
+  final AssetGenImage k2392 = const AssetGenImage(
+    'assets/book/part2/K2-392.jpg',
+  );
+  final AssetGenImage k2393 = const AssetGenImage(
+    'assets/book/part2/K2-393.jpg',
+  );
+  final AssetGenImage k2394 = const AssetGenImage(
+    'assets/book/part2/K2-394.jpg',
+  );
+  final AssetGenImage k2395 = const AssetGenImage(
+    'assets/book/part2/K2-395.jpg',
+  );
+  final AssetGenImage k2396 = const AssetGenImage(
+    'assets/book/part2/K2-396.jpg',
+  );
+  final AssetGenImage k2397 = const AssetGenImage(
+    'assets/book/part2/K2-397.jpg',
+  );
+  final AssetGenImage k2398 = const AssetGenImage(
+    'assets/book/part2/K2-398.jpg',
+  );
+  final AssetGenImage k2399 = const AssetGenImage(
+    'assets/book/part2/K2-399.jpg',
+  );
+  final AssetGenImage k2400 = const AssetGenImage(
+    'assets/book/part2/K2-400.jpg',
+  );
+  final AssetGenImage k2401 = const AssetGenImage(
+    'assets/book/part2/K2-401.jpg',
+  );
+  final AssetGenImage k2402 = const AssetGenImage(
+    'assets/book/part2/K2-402.jpg',
+  );
+  final AssetGenImage k2403 = const AssetGenImage(
+    'assets/book/part2/K2-403.jpg',
+  );
+  final AssetGenImage k2404 = const AssetGenImage(
+    'assets/book/part2/K2-404.jpg',
+  );
+  final AssetGenImage k2405 = const AssetGenImage(
+    'assets/book/part2/K2-405.jpg',
+  );
+  final AssetGenImage k2406 = const AssetGenImage(
+    'assets/book/part2/K2-406.jpg',
+  );
+  final AssetGenImage k2407 = const AssetGenImage(
+    'assets/book/part2/K2-407.jpg',
+  );
+  final AssetGenImage k2408 = const AssetGenImage(
+    'assets/book/part2/K2-408.jpg',
+  );
+  final AssetGenImage k2409 = const AssetGenImage(
+    'assets/book/part2/K2-409.jpg',
+  );
+  final AssetGenImage k2410 = const AssetGenImage(
+    'assets/book/part2/K2-410.jpg',
+  );
+  final AssetGenImage k2411 = const AssetGenImage(
+    'assets/book/part2/K2-411.jpg',
+  );
+  final AssetGenImage k2412 = const AssetGenImage(
+    'assets/book/part2/K2-412.jpg',
+  );
+  final AssetGenImage k2413 = const AssetGenImage(
+    'assets/book/part2/K2-413.jpg',
+  );
+  final AssetGenImage k2414 = const AssetGenImage(
+    'assets/book/part2/K2-414.jpg',
+  );
+  final AssetGenImage k2415 = const AssetGenImage(
+    'assets/book/part2/K2-415.jpg',
+  );
+  final AssetGenImage k2416 = const AssetGenImage(
+    'assets/book/part2/K2-416.jpg',
+  );
+  final AssetGenImage k2417 = const AssetGenImage(
+    'assets/book/part2/K2-417.jpg',
+  );
+  final AssetGenImage k2418 = const AssetGenImage(
+    'assets/book/part2/K2-418.jpg',
+  );
+  final AssetGenImage k2419 = const AssetGenImage(
+    'assets/book/part2/K2-419.jpg',
+  );
+  final AssetGenImage k2420 = const AssetGenImage(
+    'assets/book/part2/K2-420.jpg',
+  );
+  final AssetGenImage k2421 = const AssetGenImage(
+    'assets/book/part2/K2-421.jpg',
+  );
+  final AssetGenImage k2422 = const AssetGenImage(
+    'assets/book/part2/K2-422.jpg',
+  );
+  final AssetGenImage k2423 = const AssetGenImage(
+    'assets/book/part2/K2-423.jpg',
+  );
+  final AssetGenImage k2424 = const AssetGenImage(
+    'assets/book/part2/K2-424.jpg',
+  );
+  final AssetGenImage k2425 = const AssetGenImage(
+    'assets/book/part2/K2-425.jpg',
+  );
+  final AssetGenImage k2426 = const AssetGenImage(
+    'assets/book/part2/K2-426.jpg',
+  );
+  final AssetGenImage k2427 = const AssetGenImage(
+    'assets/book/part2/K2-427.jpg',
+  );
+  final AssetGenImage k2428 = const AssetGenImage(
+    'assets/book/part2/K2-428.jpg',
+  );
+  final AssetGenImage k2429 = const AssetGenImage(
+    'assets/book/part2/K2-429.jpg',
+  );
+  final AssetGenImage k2430 = const AssetGenImage(
+    'assets/book/part2/K2-430.jpg',
+  );
+  final AssetGenImage k2431 = const AssetGenImage(
+    'assets/book/part2/K2-431.jpg',
+  );
+  final AssetGenImage k2432 = const AssetGenImage(
+    'assets/book/part2/K2-432.jpg',
+  );
+  final AssetGenImage k2433 = const AssetGenImage(
+    'assets/book/part2/K2-433.jpg',
+  );
+  final AssetGenImage k2434 = const AssetGenImage(
+    'assets/book/part2/K2-434.jpg',
+  );
+  final AssetGenImage k2435 = const AssetGenImage(
+    'assets/book/part2/K2-435.jpg',
+  );
+  final AssetGenImage k2436 = const AssetGenImage(
+    'assets/book/part2/K2-436.jpg',
+  );
+  final AssetGenImage k2437 = const AssetGenImage(
+    'assets/book/part2/K2-437.jpg',
+  );
+  final AssetGenImage k2438 = const AssetGenImage(
+    'assets/book/part2/K2-438.jpg',
+  );
+  final AssetGenImage k2439 = const AssetGenImage(
+    'assets/book/part2/K2-439.jpg',
+  );
+  final AssetGenImage k2440 = const AssetGenImage(
+    'assets/book/part2/K2-440.jpg',
+  );
+  final AssetGenImage k2441 = const AssetGenImage(
+    'assets/book/part2/K2-441.jpg',
+  );
+  final AssetGenImage k2442 = const AssetGenImage(
+    'assets/book/part2/K2-442.jpg',
+  );
+  final AssetGenImage k2443 = const AssetGenImage(
+    'assets/book/part2/K2-443.jpg',
+  );
+  final AssetGenImage k2444 = const AssetGenImage(
+    'assets/book/part2/K2-444.jpg',
+  );
+  final AssetGenImage k2445 = const AssetGenImage(
+    'assets/book/part2/K2-445.jpg',
+  );
+  final AssetGenImage k2446 = const AssetGenImage(
+    'assets/book/part2/K2-446.jpg',
+  );
+  final AssetGenImage k2447 = const AssetGenImage(
+    'assets/book/part2/K2-447.jpg',
+  );
+  final AssetGenImage k2448 = const AssetGenImage(
+    'assets/book/part2/K2-448.jpg',
+  );
+  final AssetGenImage k2449 = const AssetGenImage(
+    'assets/book/part2/K2-449.jpg',
+  );
+  final AssetGenImage k2450 = const AssetGenImage(
+    'assets/book/part2/K2-450.jpg',
+  );
+  final AssetGenImage k2451 = const AssetGenImage(
+    'assets/book/part2/K2-451.jpg',
+  );
+  final AssetGenImage k2452 = const AssetGenImage(
+    'assets/book/part2/K2-452.jpg',
+  );
+  final AssetGenImage k2453 = const AssetGenImage(
+    'assets/book/part2/K2-453.jpg',
+  );
+  final AssetGenImage k2454 = const AssetGenImage(
+    'assets/book/part2/K2-454.jpg',
+  );
+  final AssetGenImage k2455 = const AssetGenImage(
+    'assets/book/part2/K2-455.jpg',
+  );
+  final AssetGenImage k2456 = const AssetGenImage(
+    'assets/book/part2/K2-456.jpg',
+  );
+  final AssetGenImage k2457 = const AssetGenImage(
+    'assets/book/part2/K2-457.jpg',
+  );
+  final AssetGenImage k2458 = const AssetGenImage(
+    'assets/book/part2/K2-458.jpg',
+  );
+  final AssetGenImage k2459 = const AssetGenImage(
+    'assets/book/part2/K2-459.jpg',
+  );
+  final AssetGenImage k2460 = const AssetGenImage(
+    'assets/book/part2/K2-460.jpg',
+  );
+  final AssetGenImage k2461 = const AssetGenImage(
+    'assets/book/part2/K2-461.jpg',
+  );
+  final AssetGenImage k2462 = const AssetGenImage(
+    'assets/book/part2/K2-462.jpg',
+  );
+  final AssetGenImage k2463 = const AssetGenImage(
+    'assets/book/part2/K2-463.jpg',
+  );
+  final AssetGenImage k2464 = const AssetGenImage(
+    'assets/book/part2/K2-464.jpg',
+  );
+  final AssetGenImage k2465 = const AssetGenImage(
+    'assets/book/part2/K2-465.jpg',
+  );
+  final AssetGenImage k2466 = const AssetGenImage(
+    'assets/book/part2/K2-466.jpg',
+  );
+  final AssetGenImage k2467 = const AssetGenImage(
+    'assets/book/part2/K2-467.jpg',
+  );
+  final AssetGenImage k2468 = const AssetGenImage(
+    'assets/book/part2/K2-468.jpg',
+  );
+  final AssetGenImage k2469 = const AssetGenImage(
+    'assets/book/part2/K2-469.jpg',
+  );
+  final AssetGenImage k2470 = const AssetGenImage(
+    'assets/book/part2/K2-470.jpg',
+  );
+  final AssetGenImage k2471 = const AssetGenImage(
+    'assets/book/part2/K2-471.jpg',
+  );
+  final AssetGenImage k2472 = const AssetGenImage(
+    'assets/book/part2/K2-472.jpg',
+  );
+  final AssetGenImage k2473 = const AssetGenImage(
+    'assets/book/part2/K2-473.jpg',
+  );
+  final AssetGenImage k2474 = const AssetGenImage(
+    'assets/book/part2/K2-474.jpg',
+  );
+  final AssetGenImage k2475 = const AssetGenImage(
+    'assets/book/part2/K2-475.jpg',
+  );
+  final AssetGenImage k2476 = const AssetGenImage(
+    'assets/book/part2/K2-476.jpg',
+  );
+  final AssetGenImage k2477 = const AssetGenImage(
+    'assets/book/part2/K2-477.jpg',
+  );
+  final AssetGenImage k2478 = const AssetGenImage(
+    'assets/book/part2/K2-478.jpg',
+  );
+  final AssetGenImage k2479 = const AssetGenImage(
+    'assets/book/part2/K2-479.jpg',
+  );
+  final AssetGenImage k2480 = const AssetGenImage(
+    'assets/book/part2/K2-480.jpg',
+  );
+  final AssetGenImage k2481 = const AssetGenImage(
+    'assets/book/part2/K2-481.jpg',
+  );
+  final AssetGenImage k2482 = const AssetGenImage(
+    'assets/book/part2/K2-482.jpg',
+  );
+  final AssetGenImage k2483 = const AssetGenImage(
+    'assets/book/part2/K2-483.jpg',
+  );
+  final AssetGenImage k2484 = const AssetGenImage(
+    'assets/book/part2/K2-484.jpg',
+  );
+  final AssetGenImage k2485 = const AssetGenImage(
+    'assets/book/part2/K2-485.jpg',
+  );
+  final AssetGenImage k2486 = const AssetGenImage(
+    'assets/book/part2/K2-486.jpg',
+  );
+  final AssetGenImage k2487 = const AssetGenImage(
+    'assets/book/part2/K2-487.jpg',
+  );
+  final AssetGenImage k2488 = const AssetGenImage(
+    'assets/book/part2/K2-488.jpg',
+  );
+  final AssetGenImage k2489 = const AssetGenImage(
+    'assets/book/part2/K2-489.jpg',
+  );
+  final AssetGenImage k2490 = const AssetGenImage(
+    'assets/book/part2/K2-490.jpg',
+  );
+  final AssetGenImage k2491 = const AssetGenImage(
+    'assets/book/part2/K2-491.jpg',
+  );
+  final AssetGenImage k2492 = const AssetGenImage(
+    'assets/book/part2/K2-492.jpg',
+  );
+  final AssetGenImage k2493 = const AssetGenImage(
+    'assets/book/part2/K2-493.jpg',
+  );
+  final AssetGenImage k2494 = const AssetGenImage(
+    'assets/book/part2/K2-494.jpg',
+  );
+  final AssetGenImage k2495 = const AssetGenImage(
+    'assets/book/part2/K2-495.jpg',
+  );
+  final AssetGenImage k2496 = const AssetGenImage(
+    'assets/book/part2/K2-496.jpg',
+  );
+  final AssetGenImage k2497 = const AssetGenImage(
+    'assets/book/part2/K2-497.jpg',
+  );
+  final AssetGenImage k2498 = const AssetGenImage(
+    'assets/book/part2/K2-498.jpg',
+  );
+  final AssetGenImage k2499 = const AssetGenImage(
+    'assets/book/part2/K2-499.jpg',
+  );
+  final AssetGenImage k2500 = const AssetGenImage(
+    'assets/book/part2/K2-500.jpg',
+  );
+  final AssetGenImage k2501 = const AssetGenImage(
+    'assets/book/part2/K2-501.jpg',
+  );
+  final AssetGenImage k2502 = const AssetGenImage(
+    'assets/book/part2/K2-502.jpg',
+  );
+  final AssetGenImage k2503 = const AssetGenImage(
+    'assets/book/part2/K2-503.jpg',
+  );
+  final AssetGenImage k2504 = const AssetGenImage(
+    'assets/book/part2/K2-504.jpg',
+  );
+  final AssetGenImage k2505 = const AssetGenImage(
+    'assets/book/part2/K2-505.jpg',
+  );
+  final AssetGenImage k2506 = const AssetGenImage(
+    'assets/book/part2/K2-506.jpg',
+  );
+  final AssetGenImage k2507 = const AssetGenImage(
+    'assets/book/part2/K2-507.jpg',
+  );
+  final AssetGenImage k2508 = const AssetGenImage(
+    'assets/book/part2/K2-508.jpg',
+  );
+  final AssetGenImage k2509 = const AssetGenImage(
+    'assets/book/part2/K2-509.jpg',
+  );
+  final AssetGenImage k2510 = const AssetGenImage(
+    'assets/book/part2/K2-510.jpg',
+  );
+  final AssetGenImage k2511 = const AssetGenImage(
+    'assets/book/part2/K2-511.jpg',
+  );
+  final AssetGenImage k2512 = const AssetGenImage(
+    'assets/book/part2/K2-512.jpg',
+  );
+  final AssetGenImage k2513 = const AssetGenImage(
+    'assets/book/part2/K2-513.jpg',
+  );
+  final AssetGenImage k2514 = const AssetGenImage(
+    'assets/book/part2/K2-514.jpg',
+  );
+  final AssetGenImage k2515 = const AssetGenImage(
+    'assets/book/part2/K2-515.jpg',
+  );
+  final AssetGenImage k2516 = const AssetGenImage(
+    'assets/book/part2/K2-516.jpg',
+  );
+  final AssetGenImage k2517 = const AssetGenImage(
+    'assets/book/part2/K2-517.jpg',
+  );
+  final AssetGenImage k2518 = const AssetGenImage(
+    'assets/book/part2/K2-518.jpg',
+  );
+  final AssetGenImage k2519 = const AssetGenImage(
+    'assets/book/part2/K2-519.jpg',
+  );
+  final AssetGenImage k2520 = const AssetGenImage(
+    'assets/book/part2/K2-520.jpg',
+  );
+  final AssetGenImage k2521 = const AssetGenImage(
+    'assets/book/part2/K2-521.jpg',
+  );
+  final AssetGenImage k2522 = const AssetGenImage(
+    'assets/book/part2/K2-522.jpg',
+  );
+  final AssetGenImage k2523 = const AssetGenImage(
+    'assets/book/part2/K2-523.jpg',
+  );
+  final AssetGenImage k2524 = const AssetGenImage(
+    'assets/book/part2/K2-524.jpg',
+  );
+  final AssetGenImage k2525 = const AssetGenImage(
+    'assets/book/part2/K2-525.jpg',
+  );
+  final AssetGenImage k2526 = const AssetGenImage(
+    'assets/book/part2/K2-526.jpg',
+  );
+  final AssetGenImage k2527 = const AssetGenImage(
+    'assets/book/part2/K2-527.jpg',
+  );
+  final AssetGenImage k2528 = const AssetGenImage(
+    'assets/book/part2/K2-528.jpg',
+  );
+  final AssetGenImage k2529 = const AssetGenImage(
+    'assets/book/part2/K2-529.jpg',
+  );
+  final AssetGenImage k2530 = const AssetGenImage(
+    'assets/book/part2/K2-530.jpg',
+  );
+  final AssetGenImage k2531 = const AssetGenImage(
+    'assets/book/part2/K2-531.jpg',
+  );
+  final AssetGenImage k2532 = const AssetGenImage(
+    'assets/book/part2/K2-532.jpg',
+  );
+  final AssetGenImage k2533 = const AssetGenImage(
+    'assets/book/part2/K2-533.jpg',
+  );
+  final AssetGenImage k2534 = const AssetGenImage(
+    'assets/book/part2/K2-534.jpg',
+  );
+  final AssetGenImage k2535 = const AssetGenImage(
+    'assets/book/part2/K2-535.jpg',
+  );
+  final AssetGenImage k2536 = const AssetGenImage(
+    'assets/book/part2/K2-536.jpg',
+  );
+  final AssetGenImage k2537 = const AssetGenImage(
+    'assets/book/part2/K2-537.jpg',
+  );
+  final AssetGenImage k2538 = const AssetGenImage(
+    'assets/book/part2/K2-538.jpg',
+  );
+  final AssetGenImage k2539 = const AssetGenImage(
+    'assets/book/part2/K2-539.jpg',
+  );
+  final AssetGenImage k2540 = const AssetGenImage(
+    'assets/book/part2/K2-540.jpg',
+  );
+  final AssetGenImage k2541 = const AssetGenImage(
+    'assets/book/part2/K2-541.jpg',
+  );
+  final AssetGenImage k2542 = const AssetGenImage(
+    'assets/book/part2/K2-542.jpg',
+  );
+  final AssetGenImage k2543 = const AssetGenImage(
+    'assets/book/part2/K2-543.jpg',
+  );
+  final AssetGenImage k2544 = const AssetGenImage(
+    'assets/book/part2/K2-544.jpg',
+  );
+  final AssetGenImage k2545 = const AssetGenImage(
+    'assets/book/part2/K2-545.jpg',
+  );
+  final AssetGenImage k2546 = const AssetGenImage(
+    'assets/book/part2/K2-546.jpg',
+  );
+  final AssetGenImage k2547 = const AssetGenImage(
+    'assets/book/part2/K2-547.jpg',
+  );
+  final AssetGenImage k2548 = const AssetGenImage(
+    'assets/book/part2/K2-548.jpg',
+  );
+  final AssetGenImage k2549 = const AssetGenImage(
+    'assets/book/part2/K2-549.jpg',
+  );
+  final AssetGenImage k2550 = const AssetGenImage(
+    'assets/book/part2/K2-550.jpg',
+  );
+  final AssetGenImage k2551 = const AssetGenImage(
+    'assets/book/part2/K2-551.jpg',
+  );
+  final AssetGenImage k2552 = const AssetGenImage(
+    'assets/book/part2/K2-552.jpg',
+  );
+  final AssetGenImage k2553 = const AssetGenImage(
+    'assets/book/part2/K2-553.jpg',
+  );
+  final AssetGenImage k2554 = const AssetGenImage(
+    'assets/book/part2/K2-554.jpg',
+  );
+  final AssetGenImage k2555 = const AssetGenImage(
+    'assets/book/part2/K2-555.jpg',
+  );
+  final AssetGenImage k2556 = const AssetGenImage(
+    'assets/book/part2/K2-556.jpg',
+  );
+  final AssetGenImage k2557 = const AssetGenImage(
+    'assets/book/part2/K2-557.jpg',
+  );
+  final AssetGenImage k2558 = const AssetGenImage(
+    'assets/book/part2/K2-558.jpg',
+  );
+  final AssetGenImage k2559 = const AssetGenImage(
+    'assets/book/part2/K2-559.jpg',
+  );
+  final AssetGenImage k2560 = const AssetGenImage(
+    'assets/book/part2/K2-560.jpg',
+  );
+  final AssetGenImage k2561 = const AssetGenImage(
+    'assets/book/part2/K2-561.jpg',
+  );
+  final AssetGenImage k2562 = const AssetGenImage(
+    'assets/book/part2/K2-562.jpg',
+  );
+  final AssetGenImage k2563 = const AssetGenImage(
+    'assets/book/part2/K2-563.jpg',
+  );
+  final AssetGenImage k2564 = const AssetGenImage(
+    'assets/book/part2/K2-564.jpg',
+  );
+  final AssetGenImage k2565 = const AssetGenImage(
+    'assets/book/part2/K2-565.jpg',
+  );
+  final AssetGenImage k2566 = const AssetGenImage(
+    'assets/book/part2/K2-566.jpg',
+  );
+  final AssetGenImage k2567 = const AssetGenImage(
+    'assets/book/part2/K2-567.jpg',
+  );
+  final AssetGenImage k2568 = const AssetGenImage(
+    'assets/book/part2/K2-568.jpg',
+  );
+  final AssetGenImage k2569 = const AssetGenImage(
+    'assets/book/part2/K2-569.jpg',
+  );
+  final AssetGenImage k2570 = const AssetGenImage(
+    'assets/book/part2/K2-570.jpg',
+  );
+  final AssetGenImage k2571 = const AssetGenImage(
+    'assets/book/part2/K2-571.jpg',
+  );
+  final AssetGenImage k2572 = const AssetGenImage(
+    'assets/book/part2/K2-572.jpg',
+  );
+  final AssetGenImage k2573 = const AssetGenImage(
+    'assets/book/part2/K2-573.jpg',
+  );
+  final AssetGenImage k2574 = const AssetGenImage(
+    'assets/book/part2/K2-574.jpg',
+  );
+  final AssetGenImage k2575 = const AssetGenImage(
+    'assets/book/part2/K2-575.jpg',
+  );
+  final AssetGenImage k2576 = const AssetGenImage(
+    'assets/book/part2/K2-576.jpg',
+  );
+  final AssetGenImage k2577 = const AssetGenImage(
+    'assets/book/part2/K2-577.jpg',
+  );
+  final AssetGenImage k2578 = const AssetGenImage(
+    'assets/book/part2/K2-578.jpg',
+  );
+  final AssetGenImage k2579 = const AssetGenImage(
+    'assets/book/part2/K2-579.jpg',
+  );
+  final AssetGenImage k2580 = const AssetGenImage(
+    'assets/book/part2/K2-580.jpg',
+  );
+  final AssetGenImage k2581 = const AssetGenImage(
+    'assets/book/part2/K2-581.jpg',
+  );
+  final AssetGenImage k2582 = const AssetGenImage(
+    'assets/book/part2/K2-582.jpg',
+  );
+  final AssetGenImage k2583 = const AssetGenImage(
+    'assets/book/part2/K2-583.jpg',
+  );
+  final AssetGenImage k2584 = const AssetGenImage(
+    'assets/book/part2/K2-584.jpg',
+  );
+  final AssetGenImage k2585 = const AssetGenImage(
+    'assets/book/part2/K2-585.jpg',
+  );
+  final AssetGenImage k2586 = const AssetGenImage(
+    'assets/book/part2/K2-586.jpg',
+  );
+  final AssetGenImage k2587 = const AssetGenImage(
+    'assets/book/part2/K2-587.jpg',
+  );
+  final AssetGenImage k2588 = const AssetGenImage(
+    'assets/book/part2/K2-588.jpg',
+  );
+  final AssetGenImage k2589 = const AssetGenImage(
+    'assets/book/part2/K2-589.jpg',
+  );
+  final AssetGenImage k2590 = const AssetGenImage(
+    'assets/book/part2/K2-590.jpg',
+  );
+  final AssetGenImage k2591 = const AssetGenImage(
+    'assets/book/part2/K2-591.jpg',
+  );
+  final AssetGenImage k2592 = const AssetGenImage(
+    'assets/book/part2/K2-592.jpg',
+  );
+  final AssetGenImage k2593 = const AssetGenImage(
+    'assets/book/part2/K2-593.jpg',
+  );
+  final AssetGenImage k2594 = const AssetGenImage(
+    'assets/book/part2/K2-594.jpg',
+  );
+  final AssetGenImage k2595 = const AssetGenImage(
+    'assets/book/part2/K2-595.jpg',
+  );
+  final AssetGenImage k2596 = const AssetGenImage(
+    'assets/book/part2/K2-596.jpg',
+  );
+  final AssetGenImage k2597 = const AssetGenImage(
+    'assets/book/part2/K2-597.jpg',
+  );
+  final AssetGenImage k2598 = const AssetGenImage(
+    'assets/book/part2/K2-598.jpg',
+  );
+  final AssetGenImage k2599 = const AssetGenImage(
+    'assets/book/part2/K2-599.jpg',
+  );
+  final AssetGenImage k2600 = const AssetGenImage(
+    'assets/book/part2/K2-600.jpg',
+  );
+  final AssetGenImage k2601 = const AssetGenImage(
+    'assets/book/part2/K2-601.jpg',
+  );
+  final AssetGenImage k2602 = const AssetGenImage(
+    'assets/book/part2/K2-602.jpg',
+  );
+  final AssetGenImage k2603 = const AssetGenImage(
+    'assets/book/part2/K2-603.jpg',
+  );
+  final AssetGenImage k2604 = const AssetGenImage(
+    'assets/book/part2/K2-604.jpg',
+  );
+  final AssetGenImage k2605 = const AssetGenImage(
+    'assets/book/part2/K2-605.jpg',
+  );
+  final AssetGenImage k2606 = const AssetGenImage(
+    'assets/book/part2/K2-606.jpg',
+  );
+  final AssetGenImage k2607 = const AssetGenImage(
+    'assets/book/part2/K2-607.jpg',
+  );
+  final AssetGenImage k2608 = const AssetGenImage(
+    'assets/book/part2/K2-608.jpg',
+  );
+  final AssetGenImage k2609 = const AssetGenImage(
+    'assets/book/part2/K2-609.jpg',
+  );
+  final AssetGenImage k2610 = const AssetGenImage(
+    'assets/book/part2/K2-610.jpg',
+  );
+  final AssetGenImage k2611 = const AssetGenImage(
+    'assets/book/part2/K2-611.jpg',
+  );
+  final AssetGenImage k2612 = const AssetGenImage(
+    'assets/book/part2/K2-612.jpg',
+  );
+  final AssetGenImage k2613 = const AssetGenImage(
+    'assets/book/part2/K2-613.jpg',
+  );
+  final AssetGenImage k2614 = const AssetGenImage(
+    'assets/book/part2/K2-614.jpg',
+  );
+  final AssetGenImage k2615 = const AssetGenImage(
+    'assets/book/part2/K2-615.jpg',
+  );
+  final AssetGenImage k2616 = const AssetGenImage(
+    'assets/book/part2/K2-616.jpg',
+  );
+  final AssetGenImage k2617 = const AssetGenImage(
+    'assets/book/part2/K2-617.jpg',
+  );
+  final AssetGenImage k2618 = const AssetGenImage(
+    'assets/book/part2/K2-618.jpg',
+  );
+  final AssetGenImage k2619 = const AssetGenImage(
+    'assets/book/part2/K2-619.jpg',
+  );
+  final AssetGenImage k2620 = const AssetGenImage(
+    'assets/book/part2/K2-620.jpg',
+  );
+  final AssetGenImage k2621 = const AssetGenImage(
+    'assets/book/part2/K2-621.jpg',
+  );
+  final AssetGenImage k2622 = const AssetGenImage(
+    'assets/book/part2/K2-622.jpg',
+  );
+  final AssetGenImage k2623 = const AssetGenImage(
+    'assets/book/part2/K2-623.jpg',
+  );
+  final AssetGenImage k2624 = const AssetGenImage(
+    'assets/book/part2/K2-624.jpg',
+  );
+  final AssetGenImage k2625 = const AssetGenImage(
+    'assets/book/part2/K2-625.jpg',
+  );
+  final AssetGenImage k2626 = const AssetGenImage(
+    'assets/book/part2/K2-626.jpg',
+  );
+  final AssetGenImage k2627 = const AssetGenImage(
+    'assets/book/part2/K2-627.jpg',
+  );
+  final AssetGenImage k2628 = const AssetGenImage(
+    'assets/book/part2/K2-628.jpg',
+  );
+  final AssetGenImage k2629 = const AssetGenImage(
+    'assets/book/part2/K2-629.jpg',
+  );
+  final AssetGenImage k2630 = const AssetGenImage(
+    'assets/book/part2/K2-630.jpg',
+  );
+  final AssetGenImage k2631 = const AssetGenImage(
+    'assets/book/part2/K2-631.jpg',
+  );
+  final AssetGenImage k2632 = const AssetGenImage(
+    'assets/book/part2/K2-632.jpg',
+  );
+  final AssetGenImage k2633 = const AssetGenImage(
+    'assets/book/part2/K2-633.jpg',
+  );
+  final AssetGenImage k2634 = const AssetGenImage(
+    'assets/book/part2/K2-634.jpg',
+  );
+  final AssetGenImage k2635 = const AssetGenImage(
+    'assets/book/part2/K2-635.jpg',
+  );
+  final AssetGenImage k2636 = const AssetGenImage(
+    'assets/book/part2/K2-636.jpg',
+  );
+  final AssetGenImage k2637 = const AssetGenImage(
+    'assets/book/part2/K2-637.jpg',
+  );
+  final AssetGenImage k2638 = const AssetGenImage(
+    'assets/book/part2/K2-638.jpg',
+  );
+  final AssetGenImage k2639 = const AssetGenImage(
+    'assets/book/part2/K2-639.jpg',
+  );
+  final AssetGenImage k2640 = const AssetGenImage(
+    'assets/book/part2/K2-640.jpg',
+  );
+  final AssetGenImage k2641 = const AssetGenImage(
+    'assets/book/part2/K2-641.jpg',
+  );
+  final AssetGenImage k2642 = const AssetGenImage(
+    'assets/book/part2/K2-642.jpg',
+  );
+  final AssetGenImage k2643 = const AssetGenImage(
+    'assets/book/part2/K2-643.jpg',
+  );
+  final AssetGenImage k2644 = const AssetGenImage(
+    'assets/book/part2/K2-644.jpg',
+  );
+  final AssetGenImage k2645 = const AssetGenImage(
+    'assets/book/part2/K2-645.jpg',
+  );
+  final AssetGenImage k2646 = const AssetGenImage(
+    'assets/book/part2/K2-646.jpg',
+  );
+  final AssetGenImage k2647 = const AssetGenImage(
+    'assets/book/part2/K2-647.jpg',
+  );
+  final AssetGenImage k2648 = const AssetGenImage(
+    'assets/book/part2/K2-648.jpg',
+  );
+  final AssetGenImage k2649 = const AssetGenImage(
+    'assets/book/part2/K2-649.jpg',
+  );
+  final AssetGenImage k2650 = const AssetGenImage(
+    'assets/book/part2/K2-650.jpg',
+  );
+  final AssetGenImage k2651 = const AssetGenImage(
+    'assets/book/part2/K2-651.jpg',
+  );
+  final AssetGenImage k2652 = const AssetGenImage(
+    'assets/book/part2/K2-652.jpg',
+  );
+  final AssetGenImage k2653 = const AssetGenImage(
+    'assets/book/part2/K2-653.jpg',
+  );
+  final AssetGenImage k2654 = const AssetGenImage(
+    'assets/book/part2/K2-654.jpg',
+  );
+  final AssetGenImage k2655 = const AssetGenImage(
+    'assets/book/part2/K2-655.jpg',
+  );
+  final AssetGenImage k2656 = const AssetGenImage(
+    'assets/book/part2/K2-656.jpg',
+  );
+  final AssetGenImage k2657 = const AssetGenImage(
+    'assets/book/part2/K2-657.jpg',
+  );
+  final AssetGenImage k2658 = const AssetGenImage(
+    'assets/book/part2/K2-658.jpg',
+  );
+  final AssetGenImage k2659 = const AssetGenImage(
+    'assets/book/part2/K2-659.jpg',
+  );
+  final AssetGenImage k2660 = const AssetGenImage(
+    'assets/book/part2/K2-660.jpg',
+  );
+  final AssetGenImage k2661 = const AssetGenImage(
+    'assets/book/part2/K2-661.jpg',
+  );
+  final AssetGenImage k2662 = const AssetGenImage(
+    'assets/book/part2/K2-662.jpg',
+  );
+  final AssetGenImage k2663 = const AssetGenImage(
+    'assets/book/part2/K2-663.jpg',
+  );
+  final AssetGenImage k2664 = const AssetGenImage(
+    'assets/book/part2/K2-664.jpg',
+  );
+  final AssetGenImage k2665 = const AssetGenImage(
+    'assets/book/part2/K2-665.jpg',
+  );
+  final AssetGenImage k2666 = const AssetGenImage(
+    'assets/book/part2/K2-666.jpg',
+  );
+  final AssetGenImage k2667 = const AssetGenImage(
+    'assets/book/part2/K2-667.jpg',
+  );
+  final AssetGenImage k2668 = const AssetGenImage(
+    'assets/book/part2/K2-668.jpg',
+  );
+  final AssetGenImage k2669 = const AssetGenImage(
+    'assets/book/part2/K2-669.jpg',
+  );
+  final AssetGenImage k2670 = const AssetGenImage(
+    'assets/book/part2/K2-670.jpg',
+  );
+  final AssetGenImage k2671 = const AssetGenImage(
+    'assets/book/part2/K2-671.jpg',
+  );
+  final AssetGenImage k2672 = const AssetGenImage(
+    'assets/book/part2/K2-672.jpg',
+  );
+  final AssetGenImage k2673 = const AssetGenImage(
+    'assets/book/part2/K2-673.jpg',
+  );
+  final AssetGenImage k2674 = const AssetGenImage(
+    'assets/book/part2/K2-674.jpg',
+  );
+  final AssetGenImage k2675 = const AssetGenImage(
+    'assets/book/part2/K2-675.jpg',
+  );
+  final AssetGenImage k2676 = const AssetGenImage(
+    'assets/book/part2/K2-676.jpg',
+  );
+  final AssetGenImage k2677 = const AssetGenImage(
+    'assets/book/part2/K2-677.jpg',
+  );
+  final AssetGenImage k2678 = const AssetGenImage(
+    'assets/book/part2/K2-678.jpg',
+  );
+  final AssetGenImage k2679 = const AssetGenImage(
+    'assets/book/part2/K2-679.jpg',
+  );
+  final AssetGenImage k2680 = const AssetGenImage(
+    'assets/book/part2/K2-680.jpg',
+  );
+  final AssetGenImage k2681 = const AssetGenImage(
+    'assets/book/part2/K2-681.jpg',
+  );
+  final AssetGenImage k2682 = const AssetGenImage(
+    'assets/book/part2/K2-682.jpg',
+  );
+  final AssetGenImage k2683 = const AssetGenImage(
+    'assets/book/part2/K2-683.jpg',
+  );
+  final AssetGenImage k2684 = const AssetGenImage(
+    'assets/book/part2/K2-684.jpg',
+  );
+  final AssetGenImage k2685 = const AssetGenImage(
+    'assets/book/part2/K2-685.jpg',
+  );
+  final AssetGenImage k2686 = const AssetGenImage(
+    'assets/book/part2/K2-686.jpg',
+  );
+  final AssetGenImage k2687 = const AssetGenImage(
+    'assets/book/part2/K2-687.jpg',
+  );
+  final AssetGenImage k2688 = const AssetGenImage(
+    'assets/book/part2/K2-688.jpg',
+  );
+  final AssetGenImage k2689 = const AssetGenImage(
+    'assets/book/part2/K2-689.jpg',
+  );
+  final AssetGenImage k2690 = const AssetGenImage(
+    'assets/book/part2/K2-690.jpg',
+  );
+  final AssetGenImage k2691 = const AssetGenImage(
+    'assets/book/part2/K2-691.jpg',
+  );
+  final AssetGenImage k2692 = const AssetGenImage(
+    'assets/book/part2/K2-692.jpg',
+  );
+  final AssetGenImage k2693 = const AssetGenImage(
+    'assets/book/part2/K2-693.jpg',
+  );
+  final AssetGenImage k2694 = const AssetGenImage(
+    'assets/book/part2/K2-694.jpg',
+  );
+  final AssetGenImage k2695 = const AssetGenImage(
+    'assets/book/part2/K2-695.jpg',
+  );
+  final AssetGenImage k2696 = const AssetGenImage(
+    'assets/book/part2/K2-696.jpg',
+  );
+  final AssetGenImage k2697 = const AssetGenImage(
+    'assets/book/part2/K2-697.jpg',
+  );
+  final AssetGenImage k2698 = const AssetGenImage(
+    'assets/book/part2/K2-698.jpg',
+  );
+  final AssetGenImage k2699 = const AssetGenImage(
+    'assets/book/part2/K2-699.jpg',
+  );
+  final AssetGenImage k2700 = const AssetGenImage(
+    'assets/book/part2/K2-700.jpg',
+  );
+  final AssetGenImage k2701 = const AssetGenImage(
+    'assets/book/part2/K2-701.jpg',
+  );
+  final AssetGenImage k2702 = const AssetGenImage(
+    'assets/book/part2/K2-702.jpg',
+  );
+  final AssetGenImage k2703 = const AssetGenImage(
+    'assets/book/part2/K2-703.jpg',
+  );
+  final AssetGenImage k2704 = const AssetGenImage(
+    'assets/book/part2/K2-704.jpg',
+  );
+  final AssetGenImage k2705 = const AssetGenImage(
+    'assets/book/part2/K2-705.jpg',
+  );
+  final AssetGenImage k2706 = const AssetGenImage(
+    'assets/book/part2/K2-706.jpg',
+  );
+  final AssetGenImage k2707 = const AssetGenImage(
+    'assets/book/part2/K2-707.jpg',
+  );
+  final AssetGenImage k2708 = const AssetGenImage(
+    'assets/book/part2/K2-708.jpg',
+  );
+  final AssetGenImage k2709 = const AssetGenImage(
+    'assets/book/part2/K2-709.jpg',
+  );
+  final AssetGenImage k2710 = const AssetGenImage(
+    'assets/book/part2/K2-710.jpg',
+  );
+  final AssetGenImage k2711 = const AssetGenImage(
+    'assets/book/part2/K2-711.jpg',
+  );
+  final AssetGenImage k2712 = const AssetGenImage(
+    'assets/book/part2/K2-712.jpg',
+  );
+  final AssetGenImage k2713 = const AssetGenImage(
+    'assets/book/part2/K2-713.jpg',
+  );
+  final AssetGenImage k2714 = const AssetGenImage(
+    'assets/book/part2/K2-714.jpg',
+  );
+  final AssetGenImage k2715 = const AssetGenImage(
+    'assets/book/part2/K2-715.jpg',
+  );
+  final AssetGenImage k2716 = const AssetGenImage(
+    'assets/book/part2/K2-716.jpg',
+  );
+  final AssetGenImage k2717 = const AssetGenImage(
+    'assets/book/part2/K2-717.jpg',
+  );
+  final AssetGenImage k2718 = const AssetGenImage(
+    'assets/book/part2/K2-718.jpg',
+  );
+  final AssetGenImage k2719 = const AssetGenImage(
+    'assets/book/part2/K2-719.jpg',
+  );
+  final AssetGenImage k2720 = const AssetGenImage(
+    'assets/book/part2/K2-720.jpg',
+  );
+  final AssetGenImage k2721 = const AssetGenImage(
+    'assets/book/part2/K2-721.jpg',
+  );
+  final AssetGenImage k2722 = const AssetGenImage(
+    'assets/book/part2/K2-722.jpg',
+  );
+  final AssetGenImage k2723 = const AssetGenImage(
+    'assets/book/part2/K2-723.jpg',
+  );
+  final AssetGenImage k2724 = const AssetGenImage(
+    'assets/book/part2/K2-724.jpg',
+  );
+  final AssetGenImage k2725 = const AssetGenImage(
+    'assets/book/part2/K2-725.jpg',
+  );
+  final AssetGenImage k2726 = const AssetGenImage(
+    'assets/book/part2/K2-726.jpg',
+  );
+  final AssetGenImage k2727 = const AssetGenImage(
+    'assets/book/part2/K2-727.jpg',
+  );
+  final AssetGenImage k2728 = const AssetGenImage(
+    'assets/book/part2/K2-728.jpg',
+  );
+  final AssetGenImage k2729 = const AssetGenImage(
+    'assets/book/part2/K2-729.jpg',
+  );
+  final AssetGenImage k2730 = const AssetGenImage(
+    'assets/book/part2/K2-730.jpg',
+  );
+  final AssetGenImage k2731 = const AssetGenImage(
+    'assets/book/part2/K2-731.jpg',
+  );
+  final AssetGenImage k2732 = const AssetGenImage(
+    'assets/book/part2/K2-732.jpg',
+  );
+  final AssetGenImage k2733 = const AssetGenImage(
+    'assets/book/part2/K2-733.jpg',
+  );
+  final AssetGenImage k2734 = const AssetGenImage(
+    'assets/book/part2/K2-734.jpg',
+  );
+  final AssetGenImage k2735 = const AssetGenImage(
+    'assets/book/part2/K2-735.jpg',
+  );
+  final AssetGenImage k2736 = const AssetGenImage(
+    'assets/book/part2/K2-736.jpg',
+  );
+  final AssetGenImage k2737 = const AssetGenImage(
+    'assets/book/part2/K2-737.jpg',
+  );
+  final AssetGenImage k2738 = const AssetGenImage(
+    'assets/book/part2/K2-738.jpg',
+  );
+  final AssetGenImage k2739 = const AssetGenImage(
+    'assets/book/part2/K2-739.jpg',
+  );
+  final AssetGenImage k2740 = const AssetGenImage(
+    'assets/book/part2/K2-740.jpg',
+  );
+  final AssetGenImage k2741 = const AssetGenImage(
+    'assets/book/part2/K2-741.jpg',
+  );
+  final AssetGenImage k2742 = const AssetGenImage(
+    'assets/book/part2/K2-742.jpg',
+  );
+  final AssetGenImage k2743 = const AssetGenImage(
+    'assets/book/part2/K2-743.jpg',
+  );
+  final AssetGenImage k2744 = const AssetGenImage(
+    'assets/book/part2/K2-744.jpg',
+  );
+  final AssetGenImage k2745 = const AssetGenImage(
+    'assets/book/part2/K2-745.jpg',
+  );
+  final AssetGenImage k2746 = const AssetGenImage(
+    'assets/book/part2/K2-746.jpg',
+  );
+  final AssetGenImage k2747 = const AssetGenImage(
+    'assets/book/part2/K2-747.jpg',
+  );
+  final AssetGenImage k2748 = const AssetGenImage(
+    'assets/book/part2/K2-748.jpg',
+  );
+  final AssetGenImage k2749 = const AssetGenImage(
+    'assets/book/part2/K2-749.jpg',
+  );
+  final AssetGenImage k2750 = const AssetGenImage(
+    'assets/book/part2/K2-750.jpg',
+  );
+  final AssetGenImage k2751 = const AssetGenImage(
+    'assets/book/part2/K2-751.jpg',
+  );
+  final AssetGenImage k2752 = const AssetGenImage(
+    'assets/book/part2/K2-752.jpg',
+  );
+  final AssetGenImage k2753 = const AssetGenImage(
+    'assets/book/part2/K2-753.jpg',
+  );
+  final AssetGenImage k2754 = const AssetGenImage(
+    'assets/book/part2/K2-754.jpg',
+  );
+  final AssetGenImage k2755 = const AssetGenImage(
+    'assets/book/part2/K2-755.jpg',
+  );
+  final AssetGenImage k2756 = const AssetGenImage(
+    'assets/book/part2/K2-756.jpg',
+  );
+  final AssetGenImage k2757 = const AssetGenImage(
+    'assets/book/part2/K2-757.jpg',
+  );
+  final AssetGenImage k2758 = const AssetGenImage(
+    'assets/book/part2/K2-758.jpg',
+  );
+  final AssetGenImage k2759 = const AssetGenImage(
+    'assets/book/part2/K2-759.jpg',
+  );
+  final AssetGenImage k2760 = const AssetGenImage(
+    'assets/book/part2/K2-760.jpg',
+  );
+  final AssetGenImage k2761 = const AssetGenImage(
+    'assets/book/part2/K2-761.jpg',
+  );
+  final AssetGenImage k2762 = const AssetGenImage(
+    'assets/book/part2/K2-762.jpg',
+  );
+  final AssetGenImage k2763 = const AssetGenImage(
+    'assets/book/part2/K2-763.jpg',
+  );
+  final AssetGenImage k2764 = const AssetGenImage(
+    'assets/book/part2/K2-764.jpg',
+  );
+  final AssetGenImage k2765 = const AssetGenImage(
+    'assets/book/part2/K2-765.jpg',
+  );
+  final AssetGenImage k2766 = const AssetGenImage(
+    'assets/book/part2/K2-766.jpg',
+  );
+  final AssetGenImage k2767 = const AssetGenImage(
+    'assets/book/part2/K2-767.jpg',
+  );
+  final AssetGenImage k2768 = const AssetGenImage(
+    'assets/book/part2/K2-768.jpg',
+  );
+  final AssetGenImage k2769 = const AssetGenImage(
+    'assets/book/part2/K2-769.jpg',
+  );
+  final AssetGenImage k2770 = const AssetGenImage(
+    'assets/book/part2/K2-770.jpg',
+  );
+  final AssetGenImage k2771 = const AssetGenImage(
+    'assets/book/part2/K2-771.jpg',
+  );
+  final AssetGenImage k2772 = const AssetGenImage(
+    'assets/book/part2/K2-772.jpg',
+  );
+  final AssetGenImage k2773 = const AssetGenImage(
+    'assets/book/part2/K2-773.jpg',
+  );
+  final AssetGenImage k2774 = const AssetGenImage(
+    'assets/book/part2/K2-774.jpg',
+  );
+  final AssetGenImage k2775 = const AssetGenImage(
+    'assets/book/part2/K2-775.jpg',
+  );
+  final AssetGenImage k2776 = const AssetGenImage(
+    'assets/book/part2/K2-776.jpg',
+  );
+  final AssetGenImage k2777 = const AssetGenImage(
+    'assets/book/part2/K2-777.jpg',
+  );
+  final AssetGenImage k2778 = const AssetGenImage(
+    'assets/book/part2/K2-778.jpg',
+  );
+  final AssetGenImage k2779 = const AssetGenImage(
+    'assets/book/part2/K2-779.jpg',
+  );
+  final AssetGenImage k2780 = const AssetGenImage(
+    'assets/book/part2/K2-780.jpg',
+  );
+  final AssetGenImage k2781 = const AssetGenImage(
+    'assets/book/part2/K2-781.jpg',
+  );
+  final AssetGenImage k2782 = const AssetGenImage(
+    'assets/book/part2/K2-782.jpg',
+  );
+  final AssetGenImage k2783 = const AssetGenImage(
+    'assets/book/part2/K2-783.jpg',
+  );
+  final AssetGenImage k2784 = const AssetGenImage(
+    'assets/book/part2/K2-784.jpg',
+  );
+  final AssetGenImage k2785 = const AssetGenImage(
+    'assets/book/part2/K2-785.jpg',
+  );
+  final AssetGenImage k2786 = const AssetGenImage(
+    'assets/book/part2/K2-786.jpg',
+  );
+  final AssetGenImage k2787 = const AssetGenImage(
+    'assets/book/part2/K2-787.jpg',
+  );
+  final AssetGenImage k2788 = const AssetGenImage(
+    'assets/book/part2/K2-788.jpg',
+  );
+  final AssetGenImage k2789 = const AssetGenImage(
+    'assets/book/part2/K2-789.jpg',
+  );
+  final AssetGenImage k2790 = const AssetGenImage(
+    'assets/book/part2/K2-790.jpg',
+  );
+  final AssetGenImage k2791 = const AssetGenImage(
+    'assets/book/part2/K2-791.jpg',
+  );
+  final AssetGenImage k2792 = const AssetGenImage(
+    'assets/book/part2/K2-792.jpg',
+  );
+  final AssetGenImage k2793 = const AssetGenImage(
+    'assets/book/part2/K2-793.jpg',
+  );
+  final AssetGenImage k2794 = const AssetGenImage(
+    'assets/book/part2/K2-794.jpg',
+  );
+  final AssetGenImage k2795 = const AssetGenImage(
+    'assets/book/part2/K2-795.jpg',
+  );
+  final AssetGenImage k2796 = const AssetGenImage(
+    'assets/book/part2/K2-796.jpg',
+  );
+  final AssetGenImage k2797 = const AssetGenImage(
+    'assets/book/part2/K2-797.jpg',
+  );
+  final AssetGenImage k2798 = const AssetGenImage(
+    'assets/book/part2/K2-798.jpg',
+  );
+  final AssetGenImage k2799 = const AssetGenImage(
+    'assets/book/part2/K2-799.jpg',
+  );
+  final AssetGenImage k2800 = const AssetGenImage(
+    'assets/book/part2/K2-800.jpg',
+  );
+  final AssetGenImage k2801 = const AssetGenImage(
+    'assets/book/part2/K2-801.jpg',
+  );
+  final AssetGenImage k2802 = const AssetGenImage(
+    'assets/book/part2/K2-802.jpg',
+  );
+  final AssetGenImage k2803 = const AssetGenImage(
+    'assets/book/part2/K2-803.jpg',
+  );
+  final AssetGenImage k2804 = const AssetGenImage(
+    'assets/book/part2/K2-804.jpg',
+  );
+  final AssetGenImage k2805 = const AssetGenImage(
+    'assets/book/part2/K2-805.jpg',
+  );
+  final AssetGenImage k2806 = const AssetGenImage(
+    'assets/book/part2/K2-806.jpg',
+  );
+  final AssetGenImage k2807 = const AssetGenImage(
+    'assets/book/part2/K2-807.jpg',
+  );
+  final AssetGenImage k2808 = const AssetGenImage(
+    'assets/book/part2/K2-808.jpg',
+  );
+  final AssetGenImage k2809 = const AssetGenImage(
+    'assets/book/part2/K2-809.jpg',
+  );
+  final AssetGenImage k2810 = const AssetGenImage(
+    'assets/book/part2/K2-810.jpg',
+  );
+  final AssetGenImage k2811 = const AssetGenImage(
+    'assets/book/part2/K2-811.jpg',
+  );
+  final AssetGenImage k2812 = const AssetGenImage(
+    'assets/book/part2/K2-812.jpg',
+  );
+  final AssetGenImage k2813 = const AssetGenImage(
+    'assets/book/part2/K2-813.jpg',
+  );
+  final AssetGenImage k2814 = const AssetGenImage(
+    'assets/book/part2/K2-814.jpg',
+  );
+  final AssetGenImage k2815 = const AssetGenImage(
+    'assets/book/part2/K2-815.jpg',
+  );
+  final AssetGenImage k2816 = const AssetGenImage(
+    'assets/book/part2/K2-816.jpg',
+  );
+  final AssetGenImage k2817 = const AssetGenImage(
+    'assets/book/part2/K2-817.jpg',
+  );
+  final AssetGenImage k2818 = const AssetGenImage(
+    'assets/book/part2/K2-818.jpg',
+  );
+  final AssetGenImage k2819 = const AssetGenImage(
+    'assets/book/part2/K2-819.jpg',
+  );
+  final AssetGenImage k2820 = const AssetGenImage(
+    'assets/book/part2/K2-820.jpg',
+  );
+  final AssetGenImage k2821 = const AssetGenImage(
+    'assets/book/part2/K2-821.jpg',
+  );
+  final AssetGenImage k2822 = const AssetGenImage(
+    'assets/book/part2/K2-822.jpg',
+  );
+  final AssetGenImage k2823 = const AssetGenImage(
+    'assets/book/part2/K2-823.jpg',
+  );
+  final AssetGenImage k2824 = const AssetGenImage(
+    'assets/book/part2/K2-824.jpg',
+  );
+}
+
+class $AssetsPart3Gen {
+  const $AssetsPart3Gen();
+
+  final AssetGenImage k3001 = const AssetGenImage(
+    'assets/book/part3/K3-001.jpg',
+  );
+  final AssetGenImage k3002 = const AssetGenImage(
+    'assets/book/part3/K3-002.jpg',
+  );
+  final AssetGenImage k3003 = const AssetGenImage(
+    'assets/book/part3/K3-003.jpg',
+  );
+  final AssetGenImage k3004 = const AssetGenImage(
+    'assets/book/part3/K3-004.jpg',
+  );
+  final AssetGenImage k3005 = const AssetGenImage(
+    'assets/book/part3/K3-005.jpg',
+  );
+  final AssetGenImage k3006 = const AssetGenImage(
+    'assets/book/part3/K3-006.jpg',
+  );
+  final AssetGenImage k3007 = const AssetGenImage(
+    'assets/book/part3/K3-007.jpg',
+  );
+  final AssetGenImage k3008 = const AssetGenImage(
+    'assets/book/part3/K3-008.jpg',
+  );
+  final AssetGenImage k3009 = const AssetGenImage(
+    'assets/book/part3/K3-009.jpg',
+  );
+  final AssetGenImage k3010 = const AssetGenImage(
+    'assets/book/part3/K3-010.jpg',
+  );
+  final AssetGenImage k3011 = const AssetGenImage(
+    'assets/book/part3/K3-011.jpg',
+  );
+  final AssetGenImage k3012 = const AssetGenImage(
+    'assets/book/part3/K3-012.jpg',
+  );
+  final AssetGenImage k3013 = const AssetGenImage(
+    'assets/book/part3/K3-013.jpg',
+  );
+  final AssetGenImage k3014 = const AssetGenImage(
+    'assets/book/part3/K3-014.jpg',
+  );
+  final AssetGenImage k3015 = const AssetGenImage(
+    'assets/book/part3/K3-015.jpg',
+  );
+  final AssetGenImage k3016 = const AssetGenImage(
+    'assets/book/part3/K3-016.jpg',
+  );
+  final AssetGenImage k3017 = const AssetGenImage(
+    'assets/book/part3/K3-017.jpg',
+  );
+  final AssetGenImage k3018 = const AssetGenImage(
+    'assets/book/part3/K3-018.jpg',
+  );
+  final AssetGenImage k3019 = const AssetGenImage(
+    'assets/book/part3/K3-019.jpg',
+  );
+  final AssetGenImage k3020 = const AssetGenImage(
+    'assets/book/part3/K3-020.jpg',
+  );
+  final AssetGenImage k3021 = const AssetGenImage(
+    'assets/book/part3/K3-021.jpg',
+  );
+  final AssetGenImage k3022 = const AssetGenImage(
+    'assets/book/part3/K3-022.jpg',
+  );
+  final AssetGenImage k3023 = const AssetGenImage(
+    'assets/book/part3/K3-023.jpg',
+  );
+  final AssetGenImage k3024 = const AssetGenImage(
+    'assets/book/part3/K3-024.jpg',
+  );
+  final AssetGenImage k3025 = const AssetGenImage(
+    'assets/book/part3/K3-025.jpg',
+  );
+  final AssetGenImage k3026 = const AssetGenImage(
+    'assets/book/part3/K3-026.jpg',
+  );
+  final AssetGenImage k3027 = const AssetGenImage(
+    'assets/book/part3/K3-027.jpg',
+  );
+  final AssetGenImage k3028 = const AssetGenImage(
+    'assets/book/part3/K3-028.jpg',
+  );
+  final AssetGenImage k3029 = const AssetGenImage(
+    'assets/book/part3/K3-029.jpg',
+  );
+  final AssetGenImage k3030 = const AssetGenImage(
+    'assets/book/part3/K3-030.jpg',
+  );
+  final AssetGenImage k3031 = const AssetGenImage(
+    'assets/book/part3/K3-031.jpg',
+  );
+  final AssetGenImage k3032 = const AssetGenImage(
+    'assets/book/part3/K3-032.jpg',
+  );
+  final AssetGenImage k3033 = const AssetGenImage(
+    'assets/book/part3/K3-033.jpg',
+  );
+  final AssetGenImage k3034 = const AssetGenImage(
+    'assets/book/part3/K3-034.jpg',
+  );
+  final AssetGenImage k3035 = const AssetGenImage(
+    'assets/book/part3/K3-035.jpg',
+  );
+  final AssetGenImage k3036 = const AssetGenImage(
+    'assets/book/part3/K3-036.jpg',
+  );
+  final AssetGenImage k3037 = const AssetGenImage(
+    'assets/book/part3/K3-037.jpg',
+  );
+  final AssetGenImage k3038 = const AssetGenImage(
+    'assets/book/part3/K3-038.jpg',
+  );
+  final AssetGenImage k3039 = const AssetGenImage(
+    'assets/book/part3/K3-039.jpg',
+  );
+  final AssetGenImage k3040 = const AssetGenImage(
+    'assets/book/part3/K3-040.jpg',
+  );
+  final AssetGenImage k3041 = const AssetGenImage(
+    'assets/book/part3/K3-041.jpg',
+  );
+  final AssetGenImage k3042 = const AssetGenImage(
+    'assets/book/part3/K3-042.jpg',
+  );
+  final AssetGenImage k3043 = const AssetGenImage(
+    'assets/book/part3/K3-043.jpg',
+  );
+  final AssetGenImage k3044 = const AssetGenImage(
+    'assets/book/part3/K3-044.jpg',
+  );
+  final AssetGenImage k3045 = const AssetGenImage(
+    'assets/book/part3/K3-045.jpg',
+  );
+  final AssetGenImage k3046 = const AssetGenImage(
+    'assets/book/part3/K3-046.jpg',
+  );
+  final AssetGenImage k3047 = const AssetGenImage(
+    'assets/book/part3/K3-047.jpg',
+  );
+  final AssetGenImage k3048 = const AssetGenImage(
+    'assets/book/part3/K3-048.jpg',
+  );
+  final AssetGenImage k3049 = const AssetGenImage(
+    'assets/book/part3/K3-049.jpg',
+  );
+  final AssetGenImage k3050 = const AssetGenImage(
+    'assets/book/part3/K3-050.jpg',
+  );
+  final AssetGenImage k3051 = const AssetGenImage(
+    'assets/book/part3/K3-051.jpg',
+  );
+  final AssetGenImage k3052 = const AssetGenImage(
+    'assets/book/part3/K3-052.jpg',
+  );
+  final AssetGenImage k3053 = const AssetGenImage(
+    'assets/book/part3/K3-053.jpg',
+  );
+  final AssetGenImage k3054 = const AssetGenImage(
+    'assets/book/part3/K3-054.jpg',
+  );
+  final AssetGenImage k3055 = const AssetGenImage(
+    'assets/book/part3/K3-055.jpg',
+  );
+  final AssetGenImage k3056 = const AssetGenImage(
+    'assets/book/part3/K3-056.jpg',
+  );
+  final AssetGenImage k3057 = const AssetGenImage(
+    'assets/book/part3/K3-057.jpg',
+  );
+  final AssetGenImage k3058 = const AssetGenImage(
+    'assets/book/part3/K3-058.jpg',
+  );
+  final AssetGenImage k3059 = const AssetGenImage(
+    'assets/book/part3/K3-059.jpg',
+  );
+  final AssetGenImage k3060 = const AssetGenImage(
+    'assets/book/part3/K3-060.jpg',
+  );
+  final AssetGenImage k3061 = const AssetGenImage(
+    'assets/book/part3/K3-061.jpg',
+  );
+  final AssetGenImage k3062 = const AssetGenImage(
+    'assets/book/part3/K3-062.jpg',
+  );
+  final AssetGenImage k3063 = const AssetGenImage(
+    'assets/book/part3/K3-063.jpg',
+  );
+  final AssetGenImage k3064 = const AssetGenImage(
+    'assets/book/part3/K3-064.jpg',
+  );
+  final AssetGenImage k3065 = const AssetGenImage(
+    'assets/book/part3/K3-065.jpg',
+  );
+  final AssetGenImage k3066 = const AssetGenImage(
+    'assets/book/part3/K3-066.jpg',
+  );
+  final AssetGenImage k3067 = const AssetGenImage(
+    'assets/book/part3/K3-067.jpg',
+  );
+  final AssetGenImage k3068 = const AssetGenImage(
+    'assets/book/part3/K3-068.jpg',
+  );
+  final AssetGenImage k3069 = const AssetGenImage(
+    'assets/book/part3/K3-069.jpg',
+  );
+  final AssetGenImage k3070 = const AssetGenImage(
+    'assets/book/part3/K3-070.jpg',
+  );
+  final AssetGenImage k3071 = const AssetGenImage(
+    'assets/book/part3/K3-071.jpg',
+  );
+  final AssetGenImage k3072 = const AssetGenImage(
+    'assets/book/part3/K3-072.jpg',
+  );
+  final AssetGenImage k3073 = const AssetGenImage(
+    'assets/book/part3/K3-073.jpg',
+  );
+  final AssetGenImage k3074 = const AssetGenImage(
+    'assets/book/part3/K3-074.jpg',
+  );
+  final AssetGenImage k3075 = const AssetGenImage(
+    'assets/book/part3/K3-075.jpg',
+  );
+  final AssetGenImage k3076 = const AssetGenImage(
+    'assets/book/part3/K3-076.jpg',
+  );
+  final AssetGenImage k3077 = const AssetGenImage(
+    'assets/book/part3/K3-077.jpg',
+  );
+  final AssetGenImage k3078 = const AssetGenImage(
+    'assets/book/part3/K3-078.jpg',
+  );
+  final AssetGenImage k3079 = const AssetGenImage(
+    'assets/book/part3/K3-079.jpg',
+  );
+  final AssetGenImage k3080 = const AssetGenImage(
+    'assets/book/part3/K3-080.jpg',
+  );
+  final AssetGenImage k3081 = const AssetGenImage(
+    'assets/book/part3/K3-081.jpg',
+  );
+  final AssetGenImage k3082 = const AssetGenImage(
+    'assets/book/part3/K3-082.jpg',
+  );
+  final AssetGenImage k3083 = const AssetGenImage(
+    'assets/book/part3/K3-083.jpg',
+  );
+  final AssetGenImage k3084 = const AssetGenImage(
+    'assets/book/part3/K3-084.jpg',
+  );
+  final AssetGenImage k3085 = const AssetGenImage(
+    'assets/book/part3/K3-085.jpg',
+  );
+  final AssetGenImage k3086 = const AssetGenImage(
+    'assets/book/part3/K3-086.jpg',
+  );
+  final AssetGenImage k3087 = const AssetGenImage(
+    'assets/book/part3/K3-087.jpg',
+  );
+  final AssetGenImage k3088 = const AssetGenImage(
+    'assets/book/part3/K3-088.jpg',
+  );
+  final AssetGenImage k3089 = const AssetGenImage(
+    'assets/book/part3/K3-089.jpg',
+  );
+  final AssetGenImage k3090 = const AssetGenImage(
+    'assets/book/part3/K3-090.jpg',
+  );
+  final AssetGenImage k3091 = const AssetGenImage(
+    'assets/book/part3/K3-091.jpg',
+  );
+  final AssetGenImage k3092 = const AssetGenImage(
+    'assets/book/part3/K3-092.jpg',
+  );
+  final AssetGenImage k3093 = const AssetGenImage(
+    'assets/book/part3/K3-093.jpg',
+  );
+  final AssetGenImage k3094 = const AssetGenImage(
+    'assets/book/part3/K3-094.jpg',
+  );
+  final AssetGenImage k3095 = const AssetGenImage(
+    'assets/book/part3/K3-095.jpg',
+  );
+  final AssetGenImage k3096 = const AssetGenImage(
+    'assets/book/part3/K3-096.jpg',
+  );
+  final AssetGenImage k3097 = const AssetGenImage(
+    'assets/book/part3/K3-097.jpg',
+  );
+  final AssetGenImage k3098 = const AssetGenImage(
+    'assets/book/part3/K3-098.jpg',
+  );
+  final AssetGenImage k3099 = const AssetGenImage(
+    'assets/book/part3/K3-099.jpg',
+  );
+  final AssetGenImage k3100 = const AssetGenImage(
+    'assets/book/part3/K3-100.jpg',
+  );
+  final AssetGenImage k3101 = const AssetGenImage(
+    'assets/book/part3/K3-101.jpg',
+  );
+  final AssetGenImage k3102 = const AssetGenImage(
+    'assets/book/part3/K3-102.jpg',
+  );
+  final AssetGenImage k3103 = const AssetGenImage(
+    'assets/book/part3/K3-103.jpg',
+  );
+  final AssetGenImage k3104 = const AssetGenImage(
+    'assets/book/part3/K3-104.jpg',
+  );
+  final AssetGenImage k3105 = const AssetGenImage(
+    'assets/book/part3/K3-105.jpg',
+  );
+  final AssetGenImage k3106 = const AssetGenImage(
+    'assets/book/part3/K3-106.jpg',
+  );
+  final AssetGenImage k3107 = const AssetGenImage(
+    'assets/book/part3/K3-107.jpg',
+  );
+  final AssetGenImage k3108 = const AssetGenImage(
+    'assets/book/part3/K3-108.jpg',
+  );
+  final AssetGenImage k3109 = const AssetGenImage(
+    'assets/book/part3/K3-109.jpg',
+  );
+  final AssetGenImage k3110 = const AssetGenImage(
+    'assets/book/part3/K3-110.jpg',
+  );
+  final AssetGenImage k3111 = const AssetGenImage(
+    'assets/book/part3/K3-111.jpg',
+  );
+  final AssetGenImage k3112 = const AssetGenImage(
+    'assets/book/part3/K3-112.jpg',
+  );
+  final AssetGenImage k3113 = const AssetGenImage(
+    'assets/book/part3/K3-113.jpg',
+  );
+  final AssetGenImage k3114 = const AssetGenImage(
+    'assets/book/part3/K3-114.jpg',
+  );
+  final AssetGenImage k3115 = const AssetGenImage(
+    'assets/book/part3/K3-115.jpg',
+  );
+  final AssetGenImage k3116 = const AssetGenImage(
+    'assets/book/part3/K3-116.jpg',
+  );
+  final AssetGenImage k3117 = const AssetGenImage(
+    'assets/book/part3/K3-117.jpg',
+  );
+  final AssetGenImage k3118 = const AssetGenImage(
+    'assets/book/part3/K3-118.jpg',
+  );
+  final AssetGenImage k3119 = const AssetGenImage(
+    'assets/book/part3/K3-119.jpg',
+  );
+  final AssetGenImage k3120 = const AssetGenImage(
+    'assets/book/part3/K3-120.jpg',
+  );
+  final AssetGenImage k3121 = const AssetGenImage(
+    'assets/book/part3/K3-121.jpg',
+  );
+  final AssetGenImage k3122 = const AssetGenImage(
+    'assets/book/part3/K3-122.jpg',
+  );
+  final AssetGenImage k3123 = const AssetGenImage(
+    'assets/book/part3/K3-123.jpg',
+  );
+  final AssetGenImage k3124 = const AssetGenImage(
+    'assets/book/part3/K3-124.jpg',
+  );
+  final AssetGenImage k3125 = const AssetGenImage(
+    'assets/book/part3/K3-125.jpg',
+  );
+  final AssetGenImage k3126 = const AssetGenImage(
+    'assets/book/part3/K3-126.jpg',
+  );
+  final AssetGenImage k3127 = const AssetGenImage(
+    'assets/book/part3/K3-127.jpg',
+  );
+  final AssetGenImage k3128 = const AssetGenImage(
+    'assets/book/part3/K3-128.jpg',
+  );
+  final AssetGenImage k3129 = const AssetGenImage(
+    'assets/book/part3/K3-129.jpg',
+  );
+  final AssetGenImage k3130 = const AssetGenImage(
+    'assets/book/part3/K3-130.jpg',
+  );
+  final AssetGenImage k3131 = const AssetGenImage(
+    'assets/book/part3/K3-131.jpg',
+  );
+  final AssetGenImage k3132 = const AssetGenImage(
+    'assets/book/part3/K3-132.jpg',
+  );
+  final AssetGenImage k3133 = const AssetGenImage(
+    'assets/book/part3/K3-133.jpg',
+  );
+  final AssetGenImage k3134 = const AssetGenImage(
+    'assets/book/part3/K3-134.jpg',
+  );
+  final AssetGenImage k3135 = const AssetGenImage(
+    'assets/book/part3/K3-135.jpg',
+  );
+  final AssetGenImage k3136 = const AssetGenImage(
+    'assets/book/part3/K3-136.jpg',
+  );
+  final AssetGenImage k3137 = const AssetGenImage(
+    'assets/book/part3/K3-137.jpg',
+  );
+  final AssetGenImage k3138 = const AssetGenImage(
+    'assets/book/part3/K3-138.jpg',
+  );
+  final AssetGenImage k3139 = const AssetGenImage(
+    'assets/book/part3/K3-139.jpg',
+  );
+  final AssetGenImage k3140 = const AssetGenImage(
+    'assets/book/part3/K3-140.jpg',
+  );
+  final AssetGenImage k3141 = const AssetGenImage(
+    'assets/book/part3/K3-141.jpg',
+  );
+  final AssetGenImage k3142 = const AssetGenImage(
+    'assets/book/part3/K3-142.jpg',
+  );
+  final AssetGenImage k3143 = const AssetGenImage(
+    'assets/book/part3/K3-143.jpg',
+  );
+  final AssetGenImage k3144 = const AssetGenImage(
+    'assets/book/part3/K3-144.jpg',
+  );
+  final AssetGenImage k3145 = const AssetGenImage(
+    'assets/book/part3/K3-145.jpg',
+  );
+  final AssetGenImage k3146 = const AssetGenImage(
+    'assets/book/part3/K3-146.jpg',
+  );
+  final AssetGenImage k3147 = const AssetGenImage(
+    'assets/book/part3/K3-147.jpg',
+  );
+  final AssetGenImage k3148 = const AssetGenImage(
+    'assets/book/part3/K3-148.jpg',
+  );
+  final AssetGenImage k3149 = const AssetGenImage(
+    'assets/book/part3/K3-149.jpg',
+  );
+  final AssetGenImage k3150 = const AssetGenImage(
+    'assets/book/part3/K3-150.jpg',
+  );
+  final AssetGenImage k3151 = const AssetGenImage(
+    'assets/book/part3/K3-151.jpg',
+  );
+  final AssetGenImage k3152 = const AssetGenImage(
+    'assets/book/part3/K3-152.jpg',
+  );
+  final AssetGenImage k3153 = const AssetGenImage(
+    'assets/book/part3/K3-153.jpg',
+  );
+  final AssetGenImage k3154 = const AssetGenImage(
+    'assets/book/part3/K3-154.jpg',
+  );
+  final AssetGenImage k3155 = const AssetGenImage(
+    'assets/book/part3/K3-155.jpg',
+  );
+  final AssetGenImage k3156 = const AssetGenImage(
+    'assets/book/part3/K3-156.jpg',
+  );
+  final AssetGenImage k3157 = const AssetGenImage(
+    'assets/book/part3/K3-157.jpg',
+  );
+  final AssetGenImage k3158 = const AssetGenImage(
+    'assets/book/part3/K3-158.jpg',
+  );
+  final AssetGenImage k3159 = const AssetGenImage(
+    'assets/book/part3/K3-159.jpg',
+  );
+  final AssetGenImage k3160 = const AssetGenImage(
+    'assets/book/part3/K3-160.jpg',
+  );
+  final AssetGenImage k3161 = const AssetGenImage(
+    'assets/book/part3/K3-161.jpg',
+  );
+  final AssetGenImage k3162 = const AssetGenImage(
+    'assets/book/part3/K3-162.jpg',
+  );
+  final AssetGenImage k3163 = const AssetGenImage(
+    'assets/book/part3/K3-163.jpg',
+  );
+  final AssetGenImage k3164 = const AssetGenImage(
+    'assets/book/part3/K3-164.jpg',
+  );
+  final AssetGenImage k3165 = const AssetGenImage(
+    'assets/book/part3/K3-165.jpg',
+  );
+  final AssetGenImage k3166 = const AssetGenImage(
+    'assets/book/part3/K3-166.jpg',
+  );
+  final AssetGenImage k3167 = const AssetGenImage(
+    'assets/book/part3/K3-167.jpg',
+  );
+  final AssetGenImage k3168 = const AssetGenImage(
+    'assets/book/part3/K3-168.jpg',
+  );
+  final AssetGenImage k3169 = const AssetGenImage(
+    'assets/book/part3/K3-169.jpg',
+  );
+  final AssetGenImage k3170 = const AssetGenImage(
+    'assets/book/part3/K3-170.jpg',
+  );
+  final AssetGenImage k3171 = const AssetGenImage(
+    'assets/book/part3/K3-171.jpg',
+  );
+  final AssetGenImage k3172 = const AssetGenImage(
+    'assets/book/part3/K3-172.jpg',
+  );
+  final AssetGenImage k3173 = const AssetGenImage(
+    'assets/book/part3/K3-173.jpg',
+  );
+  final AssetGenImage k3174 = const AssetGenImage(
+    'assets/book/part3/K3-174.jpg',
+  );
+  final AssetGenImage k3175 = const AssetGenImage(
+    'assets/book/part3/K3-175.jpg',
+  );
+  final AssetGenImage k3176 = const AssetGenImage(
+    'assets/book/part3/K3-176.jpg',
+  );
+  final AssetGenImage k3177 = const AssetGenImage(
+    'assets/book/part3/K3-177.jpg',
+  );
+  final AssetGenImage k3178 = const AssetGenImage(
+    'assets/book/part3/K3-178.jpg',
+  );
+  final AssetGenImage k3179 = const AssetGenImage(
+    'assets/book/part3/K3-179.jpg',
+  );
+  final AssetGenImage k3180 = const AssetGenImage(
+    'assets/book/part3/K3-180.jpg',
+  );
+  final AssetGenImage k3181 = const AssetGenImage(
+    'assets/book/part3/K3-181.jpg',
+  );
+  final AssetGenImage k3182 = const AssetGenImage(
+    'assets/book/part3/K3-182.jpg',
+  );
+  final AssetGenImage k3183 = const AssetGenImage(
+    'assets/book/part3/K3-183.jpg',
+  );
+  final AssetGenImage k3184 = const AssetGenImage(
+    'assets/book/part3/K3-184.jpg',
+  );
+  final AssetGenImage k3185 = const AssetGenImage(
+    'assets/book/part3/K3-185.jpg',
+  );
+  final AssetGenImage k3186 = const AssetGenImage(
+    'assets/book/part3/K3-186.jpg',
+  );
+  final AssetGenImage k3187 = const AssetGenImage(
+    'assets/book/part3/K3-187.jpg',
+  );
+  final AssetGenImage k3188 = const AssetGenImage(
+    'assets/book/part3/K3-188.jpg',
+  );
+  final AssetGenImage k3189 = const AssetGenImage(
+    'assets/book/part3/K3-189.jpg',
+  );
+  final AssetGenImage k3190 = const AssetGenImage(
+    'assets/book/part3/K3-190.jpg',
+  );
+  final AssetGenImage k3191 = const AssetGenImage(
+    'assets/book/part3/K3-191.jpg',
+  );
+  final AssetGenImage k3192 = const AssetGenImage(
+    'assets/book/part3/K3-192.jpg',
+  );
+  final AssetGenImage k3193 = const AssetGenImage(
+    'assets/book/part3/K3-193.jpg',
+  );
+  final AssetGenImage k3194 = const AssetGenImage(
+    'assets/book/part3/K3-194.jpg',
+  );
+  final AssetGenImage k3195 = const AssetGenImage(
+    'assets/book/part3/K3-195.jpg',
+  );
+  final AssetGenImage k3196 = const AssetGenImage(
+    'assets/book/part3/K3-196.jpg',
+  );
+  final AssetGenImage k3197 = const AssetGenImage(
+    'assets/book/part3/K3-197.jpg',
+  );
+  final AssetGenImage k3198 = const AssetGenImage(
+    'assets/book/part3/K3-198.jpg',
+  );
+  final AssetGenImage k3199 = const AssetGenImage(
+    'assets/book/part3/K3-199.jpg',
+  );
+  final AssetGenImage k3200 = const AssetGenImage(
+    'assets/book/part3/K3-200.jpg',
+  );
+  final AssetGenImage k3201 = const AssetGenImage(
+    'assets/book/part3/K3-201.jpg',
+  );
+  final AssetGenImage k3202 = const AssetGenImage(
+    'assets/book/part3/K3-202.jpg',
+  );
+  final AssetGenImage k3203 = const AssetGenImage(
+    'assets/book/part3/K3-203.jpg',
+  );
+  final AssetGenImage k3204 = const AssetGenImage(
+    'assets/book/part3/K3-204.jpg',
+  );
+  final AssetGenImage k3205 = const AssetGenImage(
+    'assets/book/part3/K3-205.jpg',
+  );
+  final AssetGenImage k3206 = const AssetGenImage(
+    'assets/book/part3/K3-206.jpg',
+  );
+  final AssetGenImage k3207 = const AssetGenImage(
+    'assets/book/part3/K3-207.jpg',
+  );
+  final AssetGenImage k3208 = const AssetGenImage(
+    'assets/book/part3/K3-208.jpg',
+  );
+  final AssetGenImage k3209 = const AssetGenImage(
+    'assets/book/part3/K3-209.jpg',
+  );
+  final AssetGenImage k3210 = const AssetGenImage(
+    'assets/book/part3/K3-210.jpg',
+  );
+  final AssetGenImage k3211 = const AssetGenImage(
+    'assets/book/part3/K3-211.jpg',
+  );
+  final AssetGenImage k3212 = const AssetGenImage(
+    'assets/book/part3/K3-212.jpg',
+  );
+  final AssetGenImage k3213 = const AssetGenImage(
+    'assets/book/part3/K3-213.jpg',
+  );
+  final AssetGenImage k3214 = const AssetGenImage(
+    'assets/book/part3/K3-214.jpg',
+  );
+  final AssetGenImage k3215 = const AssetGenImage(
+    'assets/book/part3/K3-215.jpg',
+  );
+  final AssetGenImage k3216 = const AssetGenImage(
+    'assets/book/part3/K3-216.jpg',
+  );
+  final AssetGenImage k3217 = const AssetGenImage(
+    'assets/book/part3/K3-217.jpg',
+  );
+  final AssetGenImage k3218 = const AssetGenImage(
+    'assets/book/part3/K3-218.jpg',
+  );
+  final AssetGenImage k3219 = const AssetGenImage(
+    'assets/book/part3/K3-219.jpg',
+  );
+  final AssetGenImage k3220 = const AssetGenImage(
+    'assets/book/part3/K3-220.jpg',
+  );
+  final AssetGenImage k3221 = const AssetGenImage(
+    'assets/book/part3/K3-221.jpg',
+  );
+  final AssetGenImage k3222 = const AssetGenImage(
+    'assets/book/part3/K3-222.jpg',
+  );
+  final AssetGenImage k3223 = const AssetGenImage(
+    'assets/book/part3/K3-223.jpg',
+  );
+  final AssetGenImage k3224 = const AssetGenImage(
+    'assets/book/part3/K3-224.jpg',
+  );
+  final AssetGenImage k3225 = const AssetGenImage(
+    'assets/book/part3/K3-225.jpg',
+  );
+  final AssetGenImage k3226 = const AssetGenImage(
+    'assets/book/part3/K3-226.jpg',
+  );
+  final AssetGenImage k3227 = const AssetGenImage(
+    'assets/book/part3/K3-227.jpg',
+  );
+  final AssetGenImage k3228 = const AssetGenImage(
+    'assets/book/part3/K3-228.jpg',
+  );
+  final AssetGenImage k3229 = const AssetGenImage(
+    'assets/book/part3/K3-229.jpg',
+  );
+  final AssetGenImage k3230 = const AssetGenImage(
+    'assets/book/part3/K3-230.jpg',
+  );
+  final AssetGenImage k3231 = const AssetGenImage(
+    'assets/book/part3/K3-231.jpg',
+  );
+  final AssetGenImage k3232 = const AssetGenImage(
+    'assets/book/part3/K3-232.jpg',
+  );
+  final AssetGenImage k3233 = const AssetGenImage(
+    'assets/book/part3/K3-233.jpg',
+  );
+  final AssetGenImage k3234 = const AssetGenImage(
+    'assets/book/part3/K3-234.jpg',
+  );
+  final AssetGenImage k3235 = const AssetGenImage(
+    'assets/book/part3/K3-235.jpg',
+  );
+  final AssetGenImage k3236 = const AssetGenImage(
+    'assets/book/part3/K3-236.jpg',
+  );
+  final AssetGenImage k3237 = const AssetGenImage(
+    'assets/book/part3/K3-237.jpg',
+  );
+  final AssetGenImage k3238 = const AssetGenImage(
+    'assets/book/part3/K3-238.jpg',
+  );
+  final AssetGenImage k3239 = const AssetGenImage(
+    'assets/book/part3/K3-239.jpg',
+  );
+  final AssetGenImage k3240 = const AssetGenImage(
+    'assets/book/part3/K3-240.jpg',
+  );
+  final AssetGenImage k3241 = const AssetGenImage(
+    'assets/book/part3/K3-241.jpg',
+  );
+  final AssetGenImage k3242 = const AssetGenImage(
+    'assets/book/part3/K3-242.jpg',
+  );
+  final AssetGenImage k3243 = const AssetGenImage(
+    'assets/book/part3/K3-243.jpg',
+  );
+  final AssetGenImage k3244 = const AssetGenImage(
+    'assets/book/part3/K3-244.jpg',
+  );
+  final AssetGenImage k3245 = const AssetGenImage(
+    'assets/book/part3/K3-245.jpg',
+  );
+  final AssetGenImage k3246 = const AssetGenImage(
+    'assets/book/part3/K3-246.jpg',
+  );
+  final AssetGenImage k3247 = const AssetGenImage(
+    'assets/book/part3/K3-247.jpg',
+  );
+  final AssetGenImage k3248 = const AssetGenImage(
+    'assets/book/part3/K3-248.jpg',
+  );
+  final AssetGenImage k3249 = const AssetGenImage(
+    'assets/book/part3/K3-249.jpg',
+  );
+  final AssetGenImage k3250 = const AssetGenImage(
+    'assets/book/part3/K3-250.jpg',
+  );
+  final AssetGenImage k3251 = const AssetGenImage(
+    'assets/book/part3/K3-251.jpg',
+  );
+  final AssetGenImage k3252 = const AssetGenImage(
+    'assets/book/part3/K3-252.jpg',
+  );
+  final AssetGenImage k3253 = const AssetGenImage(
+    'assets/book/part3/K3-253.jpg',
+  );
+  final AssetGenImage k3254 = const AssetGenImage(
+    'assets/book/part3/K3-254.jpg',
+  );
+  final AssetGenImage k3255 = const AssetGenImage(
+    'assets/book/part3/K3-255.jpg',
+  );
+  final AssetGenImage k3256 = const AssetGenImage(
+    'assets/book/part3/K3-256.jpg',
+  );
+  final AssetGenImage k3257 = const AssetGenImage(
+    'assets/book/part3/K3-257.jpg',
+  );
+  final AssetGenImage k3258 = const AssetGenImage(
+    'assets/book/part3/K3-258.jpg',
+  );
+  final AssetGenImage k3259 = const AssetGenImage(
+    'assets/book/part3/K3-259.jpg',
+  );
+  final AssetGenImage k3260 = const AssetGenImage(
+    'assets/book/part3/K3-260.jpg',
+  );
+  final AssetGenImage k3261 = const AssetGenImage(
+    'assets/book/part3/K3-261.jpg',
+  );
+  final AssetGenImage k3262 = const AssetGenImage(
+    'assets/book/part3/K3-262.jpg',
+  );
+  final AssetGenImage k3263 = const AssetGenImage(
+    'assets/book/part3/K3-263.jpg',
+  );
+  final AssetGenImage k3264 = const AssetGenImage(
+    'assets/book/part3/K3-264.jpg',
+  );
+  final AssetGenImage k3265 = const AssetGenImage(
+    'assets/book/part3/K3-265.jpg',
+  );
+  final AssetGenImage k3266 = const AssetGenImage(
+    'assets/book/part3/K3-266.jpg',
+  );
+  final AssetGenImage k3267 = const AssetGenImage(
+    'assets/book/part3/K3-267.jpg',
+  );
+  final AssetGenImage k3268 = const AssetGenImage(
+    'assets/book/part3/K3-268.jpg',
+  );
+  final AssetGenImage k3269 = const AssetGenImage(
+    'assets/book/part3/K3-269.jpg',
+  );
+  final AssetGenImage k3270 = const AssetGenImage(
+    'assets/book/part3/K3-270.jpg',
+  );
+  final AssetGenImage k3271 = const AssetGenImage(
+    'assets/book/part3/K3-271.jpg',
+  );
+  final AssetGenImage k3272 = const AssetGenImage(
+    'assets/book/part3/K3-272.jpg',
+  );
+  final AssetGenImage k3273 = const AssetGenImage(
+    'assets/book/part3/K3-273.jpg',
+  );
+  final AssetGenImage k3274 = const AssetGenImage(
+    'assets/book/part3/K3-274.jpg',
+  );
+  final AssetGenImage k3275 = const AssetGenImage(
+    'assets/book/part3/K3-275.jpg',
+  );
+  final AssetGenImage k3276 = const AssetGenImage(
+    'assets/book/part3/K3-276.jpg',
+  );
+  final AssetGenImage k3277 = const AssetGenImage(
+    'assets/book/part3/K3-277.jpg',
+  );
+  final AssetGenImage k3278 = const AssetGenImage(
+    'assets/book/part3/K3-278.jpg',
+  );
+  final AssetGenImage k3279 = const AssetGenImage(
+    'assets/book/part3/K3-279.jpg',
+  );
+  final AssetGenImage k3280 = const AssetGenImage(
+    'assets/book/part3/K3-280.jpg',
+  );
+  final AssetGenImage k3281 = const AssetGenImage(
+    'assets/book/part3/K3-281.jpg',
+  );
+  final AssetGenImage k3282 = const AssetGenImage(
+    'assets/book/part3/K3-282.jpg',
+  );
+  final AssetGenImage k3283 = const AssetGenImage(
+    'assets/book/part3/K3-283.jpg',
+  );
+  final AssetGenImage k3284 = const AssetGenImage(
+    'assets/book/part3/K3-284.jpg',
+  );
+  final AssetGenImage k3285 = const AssetGenImage(
+    'assets/book/part3/K3-285.jpg',
+  );
+  final AssetGenImage k3286 = const AssetGenImage(
+    'assets/book/part3/K3-286.jpg',
+  );
+  final AssetGenImage k3287 = const AssetGenImage(
+    'assets/book/part3/K3-287.jpg',
+  );
+  final AssetGenImage k3288 = const AssetGenImage(
+    'assets/book/part3/K3-288.jpg',
+  );
+  final AssetGenImage k3289 = const AssetGenImage(
+    'assets/book/part3/K3-289.jpg',
+  );
+  final AssetGenImage k3290 = const AssetGenImage(
+    'assets/book/part3/K3-290.jpg',
+  );
+  final AssetGenImage k3291 = const AssetGenImage(
+    'assets/book/part3/K3-291.jpg',
+  );
+  final AssetGenImage k3292 = const AssetGenImage(
+    'assets/book/part3/K3-292.jpg',
+  );
+  final AssetGenImage k3293 = const AssetGenImage(
+    'assets/book/part3/K3-293.jpg',
+  );
+  final AssetGenImage k3294 = const AssetGenImage(
+    'assets/book/part3/K3-294.jpg',
+  );
+  final AssetGenImage k3295 = const AssetGenImage(
+    'assets/book/part3/K3-295.jpg',
+  );
+  final AssetGenImage k3296 = const AssetGenImage(
+    'assets/book/part3/K3-296.jpg',
+  );
+  final AssetGenImage k3297 = const AssetGenImage(
+    'assets/book/part3/K3-297.jpg',
+  );
+  final AssetGenImage k3298 = const AssetGenImage(
+    'assets/book/part3/K3-298.jpg',
+  );
+  final AssetGenImage k3299 = const AssetGenImage(
+    'assets/book/part3/K3-299.jpg',
+  );
+  final AssetGenImage k3300 = const AssetGenImage(
+    'assets/book/part3/K3-300.jpg',
+  );
+  final AssetGenImage k3301 = const AssetGenImage(
+    'assets/book/part3/K3-301.jpg',
+  );
+  final AssetGenImage k3302 = const AssetGenImage(
+    'assets/book/part3/K3-302.jpg',
+  );
+  final AssetGenImage k3303 = const AssetGenImage(
+    'assets/book/part3/K3-303.jpg',
+  );
+  final AssetGenImage k3304 = const AssetGenImage(
+    'assets/book/part3/K3-304.jpg',
+  );
+  final AssetGenImage k3305 = const AssetGenImage(
+    'assets/book/part3/K3-305.jpg',
+  );
+  final AssetGenImage k3306 = const AssetGenImage(
+    'assets/book/part3/K3-306.jpg',
+  );
+  final AssetGenImage k3307 = const AssetGenImage(
+    'assets/book/part3/K3-307.jpg',
+  );
+  final AssetGenImage k3308 = const AssetGenImage(
+    'assets/book/part3/K3-308.jpg',
+  );
+  final AssetGenImage k3309 = const AssetGenImage(
+    'assets/book/part3/K3-309.jpg',
+  );
+  final AssetGenImage k3310 = const AssetGenImage(
+    'assets/book/part3/K3-310.jpg',
+  );
+  final AssetGenImage k3311 = const AssetGenImage(
+    'assets/book/part3/K3-311.jpg',
+  );
+  final AssetGenImage k3312 = const AssetGenImage(
+    'assets/book/part3/K3-312.jpg',
+  );
+  final AssetGenImage k3313 = const AssetGenImage(
+    'assets/book/part3/K3-313.jpg',
+  );
+  final AssetGenImage k3314 = const AssetGenImage(
+    'assets/book/part3/K3-314.jpg',
+  );
+  final AssetGenImage k3315 = const AssetGenImage(
+    'assets/book/part3/K3-315.jpg',
+  );
+  final AssetGenImage k3316 = const AssetGenImage(
+    'assets/book/part3/K3-316.jpg',
+  );
+  final AssetGenImage k3317 = const AssetGenImage(
+    'assets/book/part3/K3-317.jpg',
+  );
+  final AssetGenImage k3318 = const AssetGenImage(
+    'assets/book/part3/K3-318.jpg',
+  );
+  final AssetGenImage k3319 = const AssetGenImage(
+    'assets/book/part3/K3-319.jpg',
+  );
+  final AssetGenImage k3320 = const AssetGenImage(
+    'assets/book/part3/K3-320.jpg',
+  );
+  final AssetGenImage k3321 = const AssetGenImage(
+    'assets/book/part3/K3-321.jpg',
+  );
+  final AssetGenImage k3322 = const AssetGenImage(
+    'assets/book/part3/K3-322.jpg',
+  );
+  final AssetGenImage k3323 = const AssetGenImage(
+    'assets/book/part3/K3-323.jpg',
+  );
+  final AssetGenImage k3324 = const AssetGenImage(
+    'assets/book/part3/K3-324.jpg',
+  );
+  final AssetGenImage k3325 = const AssetGenImage(
+    'assets/book/part3/K3-325.jpg',
+  );
+  final AssetGenImage k3326 = const AssetGenImage(
+    'assets/book/part3/K3-326.jpg',
+  );
+  final AssetGenImage k3327 = const AssetGenImage(
+    'assets/book/part3/K3-327.jpg',
+  );
+  final AssetGenImage k3328 = const AssetGenImage(
+    'assets/book/part3/K3-328.jpg',
+  );
+  final AssetGenImage k3329 = const AssetGenImage(
+    'assets/book/part3/K3-329.jpg',
+  );
+  final AssetGenImage k3330 = const AssetGenImage(
+    'assets/book/part3/K3-330.jpg',
+  );
+  final AssetGenImage k3331 = const AssetGenImage(
+    'assets/book/part3/K3-331.jpg',
+  );
+  final AssetGenImage k3332 = const AssetGenImage(
+    'assets/book/part3/K3-332.jpg',
+  );
+  final AssetGenImage k3333 = const AssetGenImage(
+    'assets/book/part3/K3-333.jpg',
+  );
+  final AssetGenImage k3334 = const AssetGenImage(
+    'assets/book/part3/K3-334.jpg',
+  );
+  final AssetGenImage k3335 = const AssetGenImage(
+    'assets/book/part3/K3-335.jpg',
+  );
+  final AssetGenImage k3336 = const AssetGenImage(
+    'assets/book/part3/K3-336.jpg',
+  );
+  final AssetGenImage k3337 = const AssetGenImage(
+    'assets/book/part3/K3-337.jpg',
+  );
+  final AssetGenImage k3338 = const AssetGenImage(
+    'assets/book/part3/K3-338.jpg',
+  );
+  final AssetGenImage k3339 = const AssetGenImage(
+    'assets/book/part3/K3-339.jpg',
+  );
+  final AssetGenImage k3340 = const AssetGenImage(
+    'assets/book/part3/K3-340.jpg',
+  );
+  final AssetGenImage k3341 = const AssetGenImage(
+    'assets/book/part3/K3-341.jpg',
+  );
+  final AssetGenImage k3342 = const AssetGenImage(
+    'assets/book/part3/K3-342.jpg',
+  );
+  final AssetGenImage k3343 = const AssetGenImage(
+    'assets/book/part3/K3-343.jpg',
+  );
+  final AssetGenImage k3344 = const AssetGenImage(
+    'assets/book/part3/K3-344.jpg',
+  );
+  final AssetGenImage k3345 = const AssetGenImage(
+    'assets/book/part3/K3-345.jpg',
+  );
+  final AssetGenImage k3346 = const AssetGenImage(
+    'assets/book/part3/K3-346.jpg',
+  );
+  final AssetGenImage k3347 = const AssetGenImage(
+    'assets/book/part3/K3-347.jpg',
+  );
+  final AssetGenImage k3348 = const AssetGenImage(
+    'assets/book/part3/K3-348.jpg',
+  );
+  final AssetGenImage k3349 = const AssetGenImage(
+    'assets/book/part3/K3-349.jpg',
+  );
+  final AssetGenImage k3350 = const AssetGenImage(
+    'assets/book/part3/K3-350.jpg',
+  );
+  final AssetGenImage k3351 = const AssetGenImage(
+    'assets/book/part3/K3-351.jpg',
+  );
+  final AssetGenImage k3352 = const AssetGenImage(
+    'assets/book/part3/K3-352.jpg',
+  );
+  final AssetGenImage k3353 = const AssetGenImage(
+    'assets/book/part3/K3-353.jpg',
+  );
+  final AssetGenImage k3354 = const AssetGenImage(
+    'assets/book/part3/K3-354.jpg',
+  );
+  final AssetGenImage k3355 = const AssetGenImage(
+    'assets/book/part3/K3-355.jpg',
+  );
+  final AssetGenImage k3356 = const AssetGenImage(
+    'assets/book/part3/K3-356.jpg',
+  );
+  final AssetGenImage k3357 = const AssetGenImage(
+    'assets/book/part3/K3-357.jpg',
+  );
+  final AssetGenImage k3358 = const AssetGenImage(
+    'assets/book/part3/K3-358.jpg',
+  );
+  final AssetGenImage k3359 = const AssetGenImage(
+    'assets/book/part3/K3-359.jpg',
+  );
+  final AssetGenImage k3360 = const AssetGenImage(
+    'assets/book/part3/K3-360.jpg',
+  );
+  final AssetGenImage k3361 = const AssetGenImage(
+    'assets/book/part3/K3-361.jpg',
+  );
+  final AssetGenImage k3362 = const AssetGenImage(
+    'assets/book/part3/K3-362.jpg',
+  );
+  final AssetGenImage k3363 = const AssetGenImage(
+    'assets/book/part3/K3-363.jpg',
+  );
+  final AssetGenImage k3364 = const AssetGenImage(
+    'assets/book/part3/K3-364.jpg',
+  );
+  final AssetGenImage k3365 = const AssetGenImage(
+    'assets/book/part3/K3-365.jpg',
+  );
+  final AssetGenImage k3366 = const AssetGenImage(
+    'assets/book/part3/K3-366.jpg',
+  );
+  final AssetGenImage k3367 = const AssetGenImage(
+    'assets/book/part3/K3-367.jpg',
+  );
+  final AssetGenImage k3368 = const AssetGenImage(
+    'assets/book/part3/K3-368.jpg',
+  );
+  final AssetGenImage k3369 = const AssetGenImage(
+    'assets/book/part3/K3-369.jpg',
+  );
+  final AssetGenImage k3370 = const AssetGenImage(
+    'assets/book/part3/K3-370.jpg',
+  );
+  final AssetGenImage k3371 = const AssetGenImage(
+    'assets/book/part3/K3-371.jpg',
+  );
+  final AssetGenImage k3372 = const AssetGenImage(
+    'assets/book/part3/K3-372.jpg',
+  );
+  final AssetGenImage k3373 = const AssetGenImage(
+    'assets/book/part3/K3-373.jpg',
+  );
+  final AssetGenImage k3374 = const AssetGenImage(
+    'assets/book/part3/K3-374.jpg',
+  );
+  final AssetGenImage k3375 = const AssetGenImage(
+    'assets/book/part3/K3-375.jpg',
+  );
+  final AssetGenImage k3376 = const AssetGenImage(
+    'assets/book/part3/K3-376.jpg',
+  );
+  final AssetGenImage k3377 = const AssetGenImage(
+    'assets/book/part3/K3-377.jpg',
+  );
+  final AssetGenImage k3378 = const AssetGenImage(
+    'assets/book/part3/K3-378.jpg',
+  );
+  final AssetGenImage k3379 = const AssetGenImage(
+    'assets/book/part3/K3-379.jpg',
+  );
+  final AssetGenImage k3380 = const AssetGenImage(
+    'assets/book/part3/K3-380.jpg',
+  );
+  final AssetGenImage k3381 = const AssetGenImage(
+    'assets/book/part3/K3-381.jpg',
+  );
+  final AssetGenImage k3382 = const AssetGenImage(
+    'assets/book/part3/K3-382.jpg',
+  );
+  final AssetGenImage k3383 = const AssetGenImage(
+    'assets/book/part3/K3-383.jpg',
+  );
+  final AssetGenImage k3384 = const AssetGenImage(
+    'assets/book/part3/K3-384.jpg',
+  );
+  final AssetGenImage k3385 = const AssetGenImage(
+    'assets/book/part3/K3-385.jpg',
+  );
+  final AssetGenImage k3386 = const AssetGenImage(
+    'assets/book/part3/K3-386.jpg',
+  );
+  final AssetGenImage k3387 = const AssetGenImage(
+    'assets/book/part3/K3-387.jpg',
+  );
+  final AssetGenImage k3388 = const AssetGenImage(
+    'assets/book/part3/K3-388.jpg',
+  );
+  final AssetGenImage k3389 = const AssetGenImage(
+    'assets/book/part3/K3-389.jpg',
+  );
+  final AssetGenImage k3390 = const AssetGenImage(
+    'assets/book/part3/K3-390.jpg',
+  );
+  final AssetGenImage k3391 = const AssetGenImage(
+    'assets/book/part3/K3-391.jpg',
+  );
+  final AssetGenImage k3392 = const AssetGenImage(
+    'assets/book/part3/K3-392.jpg',
+  );
+  final AssetGenImage k3393 = const AssetGenImage(
+    'assets/book/part3/K3-393.jpg',
+  );
+  final AssetGenImage k3394 = const AssetGenImage(
+    'assets/book/part3/K3-394.jpg',
+  );
+  final AssetGenImage k3395 = const AssetGenImage(
+    'assets/book/part3/K3-395.jpg',
+  );
+  final AssetGenImage k3396 = const AssetGenImage(
+    'assets/book/part3/K3-396.jpg',
+  );
+  final AssetGenImage k3397 = const AssetGenImage(
+    'assets/book/part3/K3-397.jpg',
+  );
+  final AssetGenImage k3398 = const AssetGenImage(
+    'assets/book/part3/K3-398.jpg',
+  );
+  final AssetGenImage k3399 = const AssetGenImage(
+    'assets/book/part3/K3-399.jpg',
+  );
+  final AssetGenImage k3400 = const AssetGenImage(
+    'assets/book/part3/K3-400.jpg',
+  );
+  final AssetGenImage k3401 = const AssetGenImage(
+    'assets/book/part3/K3-401.jpg',
+  );
+  final AssetGenImage k3402 = const AssetGenImage(
+    'assets/book/part3/K3-402.jpg',
+  );
+  final AssetGenImage k3403 = const AssetGenImage(
+    'assets/book/part3/K3-403.jpg',
+  );
+  final AssetGenImage k3404 = const AssetGenImage(
+    'assets/book/part3/K3-404.jpg',
+  );
+  final AssetGenImage k3405 = const AssetGenImage(
+    'assets/book/part3/K3-405.jpg',
+  );
+  final AssetGenImage k3406 = const AssetGenImage(
+    'assets/book/part3/K3-406.jpg',
+  );
+  final AssetGenImage k3407 = const AssetGenImage(
+    'assets/book/part3/K3-407.jpg',
+  );
+  final AssetGenImage k3408 = const AssetGenImage(
+    'assets/book/part3/K3-408.jpg',
+  );
+  final AssetGenImage k3409 = const AssetGenImage(
+    'assets/book/part3/K3-409.jpg',
+  );
+  final AssetGenImage k3410 = const AssetGenImage(
+    'assets/book/part3/K3-410.jpg',
+  );
+  final AssetGenImage k3411 = const AssetGenImage(
+    'assets/book/part3/K3-411.jpg',
+  );
+  final AssetGenImage k3412 = const AssetGenImage(
+    'assets/book/part3/K3-412.jpg',
+  );
+  final AssetGenImage k3413 = const AssetGenImage(
+    'assets/book/part3/K3-413.jpg',
+  );
+  final AssetGenImage k3414 = const AssetGenImage(
+    'assets/book/part3/K3-414.jpg',
+  );
+  final AssetGenImage k3415 = const AssetGenImage(
+    'assets/book/part3/K3-415.jpg',
+  );
+  final AssetGenImage k3416 = const AssetGenImage(
+    'assets/book/part3/K3-416.jpg',
+  );
+  final AssetGenImage k3417 = const AssetGenImage(
+    'assets/book/part3/K3-417.jpg',
+  );
+  final AssetGenImage k3418 = const AssetGenImage(
+    'assets/book/part3/K3-418.jpg',
+  );
+  final AssetGenImage k3419 = const AssetGenImage(
+    'assets/book/part3/K3-419.jpg',
+  );
+  final AssetGenImage k3420 = const AssetGenImage(
+    'assets/book/part3/K3-420.jpg',
+  );
+  final AssetGenImage k3421 = const AssetGenImage(
+    'assets/book/part3/K3-421.jpg',
+  );
+  final AssetGenImage k3422 = const AssetGenImage(
+    'assets/book/part3/K3-422.jpg',
+  );
+  final AssetGenImage k3423 = const AssetGenImage(
+    'assets/book/part3/K3-423.jpg',
+  );
+  final AssetGenImage k3424 = const AssetGenImage(
+    'assets/book/part3/K3-424.jpg',
+  );
+  final AssetGenImage k3425 = const AssetGenImage(
+    'assets/book/part3/K3-425.jpg',
+  );
+  final AssetGenImage k3426 = const AssetGenImage(
+    'assets/book/part3/K3-426.jpg',
+  );
+  final AssetGenImage k3427 = const AssetGenImage(
+    'assets/book/part3/K3-427.jpg',
+  );
+  final AssetGenImage k3428 = const AssetGenImage(
+    'assets/book/part3/K3-428.jpg',
+  );
+  final AssetGenImage k3429 = const AssetGenImage(
+    'assets/book/part3/K3-429.jpg',
+  );
+  final AssetGenImage k3430 = const AssetGenImage(
+    'assets/book/part3/K3-430.jpg',
+  );
+  final AssetGenImage k3431 = const AssetGenImage(
+    'assets/book/part3/K3-431.jpg',
+  );
+  final AssetGenImage k3432 = const AssetGenImage(
+    'assets/book/part3/K3-432.jpg',
+  );
+  final AssetGenImage k3433 = const AssetGenImage(
+    'assets/book/part3/K3-433.jpg',
+  );
+  final AssetGenImage k3434 = const AssetGenImage(
+    'assets/book/part3/K3-434.jpg',
+  );
+  final AssetGenImage k3435 = const AssetGenImage(
+    'assets/book/part3/K3-435.jpg',
+  );
+  final AssetGenImage k3436 = const AssetGenImage(
+    'assets/book/part3/K3-436.jpg',
+  );
+  final AssetGenImage k3437 = const AssetGenImage(
+    'assets/book/part3/K3-437.jpg',
+  );
+  final AssetGenImage k3438 = const AssetGenImage(
+    'assets/book/part3/K3-438.jpg',
+  );
+  final AssetGenImage k3439 = const AssetGenImage(
+    'assets/book/part3/K3-439.jpg',
+  );
+  final AssetGenImage k3440 = const AssetGenImage(
+    'assets/book/part3/K3-440.jpg',
+  );
+  final AssetGenImage k3441 = const AssetGenImage(
+    'assets/book/part3/K3-441.jpg',
+  );
+  final AssetGenImage k3442 = const AssetGenImage(
+    'assets/book/part3/K3-442.jpg',
+  );
+  final AssetGenImage k3443 = const AssetGenImage(
+    'assets/book/part3/K3-443.jpg',
+  );
+  final AssetGenImage k3444 = const AssetGenImage(
+    'assets/book/part3/K3-444.jpg',
+  );
+  final AssetGenImage k3445 = const AssetGenImage(
+    'assets/book/part3/K3-445.jpg',
+  );
+  final AssetGenImage k3446 = const AssetGenImage(
+    'assets/book/part3/K3-446.jpg',
+  );
+  final AssetGenImage k3447 = const AssetGenImage(
+    'assets/book/part3/K3-447.jpg',
+  );
+  final AssetGenImage k3448 = const AssetGenImage(
+    'assets/book/part3/K3-448.jpg',
+  );
+  final AssetGenImage k3449 = const AssetGenImage(
+    'assets/book/part3/K3-449.jpg',
+  );
+  final AssetGenImage k3450 = const AssetGenImage(
+    'assets/book/part3/K3-450.jpg',
+  );
+  final AssetGenImage k3451 = const AssetGenImage(
+    'assets/book/part3/K3-451.jpg',
+  );
+  final AssetGenImage k3452 = const AssetGenImage(
+    'assets/book/part3/K3-452.jpg',
+  );
+  final AssetGenImage k3453 = const AssetGenImage(
+    'assets/book/part3/K3-453.jpg',
+  );
+  final AssetGenImage k3454 = const AssetGenImage(
+    'assets/book/part3/K3-454.jpg',
+  );
+  final AssetGenImage k3455 = const AssetGenImage(
+    'assets/book/part3/K3-455.jpg',
+  );
+  final AssetGenImage k3456 = const AssetGenImage(
+    'assets/book/part3/K3-456.jpg',
+  );
+  final AssetGenImage k3457 = const AssetGenImage(
+    'assets/book/part3/K3-457.jpg',
+  );
+  final AssetGenImage k3458 = const AssetGenImage(
+    'assets/book/part3/K3-458.jpg',
+  );
+  final AssetGenImage k3459 = const AssetGenImage(
+    'assets/book/part3/K3-459.jpg',
+  );
+  final AssetGenImage k3460 = const AssetGenImage(
+    'assets/book/part3/K3-460.jpg',
+  );
+  final AssetGenImage k3461 = const AssetGenImage(
+    'assets/book/part3/K3-461.jpg',
+  );
+  final AssetGenImage k3462 = const AssetGenImage(
+    'assets/book/part3/K3-462.jpg',
+  );
+  final AssetGenImage k3463 = const AssetGenImage(
+    'assets/book/part3/K3-463.jpg',
+  );
+  final AssetGenImage k3464 = const AssetGenImage(
+    'assets/book/part3/K3-464.jpg',
+  );
+  final AssetGenImage k3465 = const AssetGenImage(
+    'assets/book/part3/K3-465.jpg',
+  );
+  final AssetGenImage k3466 = const AssetGenImage(
+    'assets/book/part3/K3-466.jpg',
+  );
+  final AssetGenImage k3467 = const AssetGenImage(
+    'assets/book/part3/K3-467.jpg',
+  );
+  final AssetGenImage k3468 = const AssetGenImage(
+    'assets/book/part3/K3-468.jpg',
+  );
+  final AssetGenImage k3469 = const AssetGenImage(
+    'assets/book/part3/K3-469.jpg',
+  );
+  final AssetGenImage k3470 = const AssetGenImage(
+    'assets/book/part3/K3-470.jpg',
+  );
+  final AssetGenImage k3471 = const AssetGenImage(
+    'assets/book/part3/K3-471.jpg',
+  );
+  final AssetGenImage k3472 = const AssetGenImage(
+    'assets/book/part3/K3-472.jpg',
+  );
+  final AssetGenImage k3473 = const AssetGenImage(
+    'assets/book/part3/K3-473.jpg',
+  );
+  final AssetGenImage k3474 = const AssetGenImage(
+    'assets/book/part3/K3-474.jpg',
+  );
+  final AssetGenImage k3475 = const AssetGenImage(
+    'assets/book/part3/K3-475.jpg',
+  );
+  final AssetGenImage k3476 = const AssetGenImage(
+    'assets/book/part3/K3-476.jpg',
+  );
+  final AssetGenImage k3477 = const AssetGenImage(
+    'assets/book/part3/K3-477.jpg',
+  );
+  final AssetGenImage k3478 = const AssetGenImage(
+    'assets/book/part3/K3-478.jpg',
+  );
+  final AssetGenImage k3479 = const AssetGenImage(
+    'assets/book/part3/K3-479.jpg',
+  );
+  final AssetGenImage k3480 = const AssetGenImage(
+    'assets/book/part3/K3-480.jpg',
+  );
+  final AssetGenImage k3481 = const AssetGenImage(
+    'assets/book/part3/K3-481.jpg',
+  );
+  final AssetGenImage k3482 = const AssetGenImage(
+    'assets/book/part3/K3-482.jpg',
+  );
+  final AssetGenImage k3483 = const AssetGenImage(
+    'assets/book/part3/K3-483.jpg',
+  );
+  final AssetGenImage k3484 = const AssetGenImage(
+    'assets/book/part3/K3-484.jpg',
+  );
+  final AssetGenImage k3485 = const AssetGenImage(
+    'assets/book/part3/K3-485.jpg',
+  );
+  final AssetGenImage k3486 = const AssetGenImage(
+    'assets/book/part3/K3-486.jpg',
+  );
+  final AssetGenImage k3487 = const AssetGenImage(
+    'assets/book/part3/K3-487.jpg',
+  );
+  final AssetGenImage k3488 = const AssetGenImage(
+    'assets/book/part3/K3-488.jpg',
+  );
+  final AssetGenImage k3489 = const AssetGenImage(
+    'assets/book/part3/K3-489.jpg',
+  );
+  final AssetGenImage k3490 = const AssetGenImage(
+    'assets/book/part3/K3-490.jpg',
+  );
+  final AssetGenImage k3491 = const AssetGenImage(
+    'assets/book/part3/K3-491.jpg',
+  );
+  final AssetGenImage k3492 = const AssetGenImage(
+    'assets/book/part3/K3-492.jpg',
+  );
+  final AssetGenImage k3493 = const AssetGenImage(
+    'assets/book/part3/K3-493.jpg',
+  );
+  final AssetGenImage k3494 = const AssetGenImage(
+    'assets/book/part3/K3-494.jpg',
+  );
+  final AssetGenImage k3495 = const AssetGenImage(
+    'assets/book/part3/K3-495.jpg',
+  );
+  final AssetGenImage k3496 = const AssetGenImage(
+    'assets/book/part3/K3-496.jpg',
+  );
+  final AssetGenImage k3497 = const AssetGenImage(
+    'assets/book/part3/K3-497.jpg',
+  );
+  final AssetGenImage k3498 = const AssetGenImage(
+    'assets/book/part3/K3-498.jpg',
+  );
+  final AssetGenImage k3499 = const AssetGenImage(
+    'assets/book/part3/K3-499.jpg',
+  );
+  final AssetGenImage k3500 = const AssetGenImage(
+    'assets/book/part3/K3-500.jpg',
+  );
+  final AssetGenImage k3501 = const AssetGenImage(
+    'assets/book/part3/K3-501.jpg',
+  );
+  final AssetGenImage k3502 = const AssetGenImage(
+    'assets/book/part3/K3-502.jpg',
+  );
+  final AssetGenImage k3503 = const AssetGenImage(
+    'assets/book/part3/K3-503.jpg',
+  );
+  final AssetGenImage k3504 = const AssetGenImage(
+    'assets/book/part3/K3-504.jpg',
+  );
+  final AssetGenImage k3505 = const AssetGenImage(
+    'assets/book/part3/K3-505.jpg',
+  );
+  final AssetGenImage k3506 = const AssetGenImage(
+    'assets/book/part3/K3-506.jpg',
+  );
+  final AssetGenImage k3507 = const AssetGenImage(
+    'assets/book/part3/K3-507.jpg',
+  );
+  final AssetGenImage k3508 = const AssetGenImage(
+    'assets/book/part3/K3-508.jpg',
+  );
+  final AssetGenImage k3509 = const AssetGenImage(
+    'assets/book/part3/K3-509.jpg',
+  );
+  final AssetGenImage k3510 = const AssetGenImage(
+    'assets/book/part3/K3-510.jpg',
+  );
+  final AssetGenImage k3511 = const AssetGenImage(
+    'assets/book/part3/K3-511.jpg',
+  );
+  final AssetGenImage k3512 = const AssetGenImage(
+    'assets/book/part3/K3-512.jpg',
+  );
+  final AssetGenImage k3513 = const AssetGenImage(
+    'assets/book/part3/K3-513.jpg',
+  );
+  final AssetGenImage k3514 = const AssetGenImage(
+    'assets/book/part3/K3-514.jpg',
+  );
+  final AssetGenImage k3515 = const AssetGenImage(
+    'assets/book/part3/K3-515.jpg',
+  );
+  final AssetGenImage k3516 = const AssetGenImage(
+    'assets/book/part3/K3-516.jpg',
+  );
+  final AssetGenImage k3517 = const AssetGenImage(
+    'assets/book/part3/K3-517.jpg',
+  );
+  final AssetGenImage k3518 = const AssetGenImage(
+    'assets/book/part3/K3-518.jpg',
+  );
+  final AssetGenImage k3519 = const AssetGenImage(
+    'assets/book/part3/K3-519.jpg',
+  );
+  final AssetGenImage k3520 = const AssetGenImage(
+    'assets/book/part3/K3-520.jpg',
+  );
+  final AssetGenImage k3521 = const AssetGenImage(
+    'assets/book/part3/K3-521.jpg',
+  );
+  final AssetGenImage k3522 = const AssetGenImage(
+    'assets/book/part3/K3-522.jpg',
+  );
+  final AssetGenImage k3523 = const AssetGenImage(
+    'assets/book/part3/K3-523.jpg',
+  );
+  final AssetGenImage k3524 = const AssetGenImage(
+    'assets/book/part3/K3-524.jpg',
+  );
+  final AssetGenImage k3525 = const AssetGenImage(
+    'assets/book/part3/K3-525.jpg',
+  );
+  final AssetGenImage k3526 = const AssetGenImage(
+    'assets/book/part3/K3-526.jpg',
+  );
+  final AssetGenImage k3527 = const AssetGenImage(
+    'assets/book/part3/K3-527.jpg',
+  );
+  final AssetGenImage k3528 = const AssetGenImage(
+    'assets/book/part3/K3-528.jpg',
+  );
+  final AssetGenImage k3529 = const AssetGenImage(
+    'assets/book/part3/K3-529.jpg',
+  );
+  final AssetGenImage k3530 = const AssetGenImage(
+    'assets/book/part3/K3-530.jpg',
+  );
+  final AssetGenImage k3531 = const AssetGenImage(
+    'assets/book/part3/K3-531.jpg',
+  );
+  final AssetGenImage k3532 = const AssetGenImage(
+    'assets/book/part3/K3-532.jpg',
+  );
+  final AssetGenImage k3533 = const AssetGenImage(
+    'assets/book/part3/K3-533.jpg',
+  );
+  final AssetGenImage k3534 = const AssetGenImage(
+    'assets/book/part3/K3-534.jpg',
+  );
+  final AssetGenImage k3535 = const AssetGenImage(
+    'assets/book/part3/K3-535.jpg',
+  );
+  final AssetGenImage k3536 = const AssetGenImage(
+    'assets/book/part3/K3-536.jpg',
+  );
+  final AssetGenImage k3537 = const AssetGenImage(
+    'assets/book/part3/K3-537.jpg',
+  );
+  final AssetGenImage k3538 = const AssetGenImage(
+    'assets/book/part3/K3-538.jpg',
+  );
+  final AssetGenImage k3539 = const AssetGenImage(
+    'assets/book/part3/K3-539.jpg',
+  );
+  final AssetGenImage k3540 = const AssetGenImage(
+    'assets/book/part3/K3-540.jpg',
+  );
+  final AssetGenImage k3541 = const AssetGenImage(
+    'assets/book/part3/K3-541.jpg',
+  );
+  final AssetGenImage k3542 = const AssetGenImage(
+    'assets/book/part3/K3-542.jpg',
+  );
+  final AssetGenImage k3543 = const AssetGenImage(
+    'assets/book/part3/K3-543.jpg',
+  );
+  final AssetGenImage k3544 = const AssetGenImage(
+    'assets/book/part3/K3-544.jpg',
+  );
+  final AssetGenImage k3545 = const AssetGenImage(
+    'assets/book/part3/K3-545.jpg',
+  );
+  final AssetGenImage k3546 = const AssetGenImage(
+    'assets/book/part3/K3-546.jpg',
+  );
+  final AssetGenImage k3547 = const AssetGenImage(
+    'assets/book/part3/K3-547.jpg',
+  );
+  final AssetGenImage k3548 = const AssetGenImage(
+    'assets/book/part3/K3-548.jpg',
+  );
+  final AssetGenImage k3549 = const AssetGenImage(
+    'assets/book/part3/K3-549.jpg',
+  );
+  final AssetGenImage k3550 = const AssetGenImage(
+    'assets/book/part3/K3-550.jpg',
+  );
+  final AssetGenImage k3551 = const AssetGenImage(
+    'assets/book/part3/K3-551.jpg',
+  );
+  final AssetGenImage k3552 = const AssetGenImage(
+    'assets/book/part3/K3-552.jpg',
+  );
+  final AssetGenImage k3553 = const AssetGenImage(
+    'assets/book/part3/K3-553.jpg',
+  );
+  final AssetGenImage k3554 = const AssetGenImage(
+    'assets/book/part3/K3-554.jpg',
+  );
+  final AssetGenImage k3555 = const AssetGenImage(
+    'assets/book/part3/K3-555.jpg',
+  );
+  final AssetGenImage k3556 = const AssetGenImage(
+    'assets/book/part3/K3-556.jpg',
+  );
+  final AssetGenImage k3557 = const AssetGenImage(
+    'assets/book/part3/K3-557.jpg',
+  );
+  final AssetGenImage k3558 = const AssetGenImage(
+    'assets/book/part3/K3-558.jpg',
+  );
+  final AssetGenImage k3559 = const AssetGenImage(
+    'assets/book/part3/K3-559.jpg',
+  );
+  final AssetGenImage k3560 = const AssetGenImage(
+    'assets/book/part3/K3-560.jpg',
+  );
+  final AssetGenImage k3561 = const AssetGenImage(
+    'assets/book/part3/K3-561.jpg',
+  );
+  final AssetGenImage k3562 = const AssetGenImage(
+    'assets/book/part3/K3-562.jpg',
+  );
+  final AssetGenImage k3563 = const AssetGenImage(
+    'assets/book/part3/K3-563.jpg',
+  );
+  final AssetGenImage k3564 = const AssetGenImage(
+    'assets/book/part3/K3-564.jpg',
+  );
+  final AssetGenImage k3565 = const AssetGenImage(
+    'assets/book/part3/K3-565.jpg',
+  );
+  final AssetGenImage k3566 = const AssetGenImage(
+    'assets/book/part3/K3-566.jpg',
+  );
+  final AssetGenImage k3567 = const AssetGenImage(
+    'assets/book/part3/K3-567.jpg',
+  );
+  final AssetGenImage k3568 = const AssetGenImage(
+    'assets/book/part3/K3-568.jpg',
+  );
+  final AssetGenImage k3569 = const AssetGenImage(
+    'assets/book/part3/K3-569.jpg',
+  );
+  final AssetGenImage k3570 = const AssetGenImage(
+    'assets/book/part3/K3-570.jpg',
+  );
+  final AssetGenImage k3571 = const AssetGenImage(
+    'assets/book/part3/K3-571.jpg',
+  );
+  final AssetGenImage k3572 = const AssetGenImage(
+    'assets/book/part3/K3-572.jpg',
+  );
+  final AssetGenImage k3573 = const AssetGenImage(
+    'assets/book/part3/K3-573.jpg',
+  );
+  final AssetGenImage k3574 = const AssetGenImage(
+    'assets/book/part3/K3-574.jpg',
+  );
+  final AssetGenImage k3575 = const AssetGenImage(
+    'assets/book/part3/K3-575.jpg',
+  );
+  final AssetGenImage k3576 = const AssetGenImage(
+    'assets/book/part3/K3-576.jpg',
+  );
+  final AssetGenImage k3577 = const AssetGenImage(
+    'assets/book/part3/K3-577.jpg',
+  );
+  final AssetGenImage k3578 = const AssetGenImage(
+    'assets/book/part3/K3-578.jpg',
+  );
+  final AssetGenImage k3579 = const AssetGenImage(
+    'assets/book/part3/K3-579.jpg',
+  );
+  final AssetGenImage k3580 = const AssetGenImage(
+    'assets/book/part3/K3-580.jpg',
+  );
+  final AssetGenImage k3581 = const AssetGenImage(
+    'assets/book/part3/K3-581.jpg',
+  );
+  final AssetGenImage k3582 = const AssetGenImage(
+    'assets/book/part3/K3-582.jpg',
+  );
+  final AssetGenImage k3583 = const AssetGenImage(
+    'assets/book/part3/K3-583.jpg',
+  );
+  final AssetGenImage k3584 = const AssetGenImage(
+    'assets/book/part3/K3-584.jpg',
+  );
+  final AssetGenImage k3585 = const AssetGenImage(
+    'assets/book/part3/K3-585.jpg',
+  );
+  final AssetGenImage k3586 = const AssetGenImage(
+    'assets/book/part3/K3-586.jpg',
+  );
+  final AssetGenImage k3587 = const AssetGenImage(
+    'assets/book/part3/K3-587.jpg',
+  );
+  final AssetGenImage k3588 = const AssetGenImage(
+    'assets/book/part3/K3-588.jpg',
+  );
+  final AssetGenImage k3589 = const AssetGenImage(
+    'assets/book/part3/K3-589.jpg',
+  );
+  final AssetGenImage k3590 = const AssetGenImage(
+    'assets/book/part3/K3-590.jpg',
+  );
+  final AssetGenImage k3591 = const AssetGenImage(
+    'assets/book/part3/K3-591.jpg',
+  );
+  final AssetGenImage k3592 = const AssetGenImage(
+    'assets/book/part3/K3-592.jpg',
+  );
+  final AssetGenImage k3593 = const AssetGenImage(
+    'assets/book/part3/K3-593.jpg',
+  );
+  final AssetGenImage k3594 = const AssetGenImage(
+    'assets/book/part3/K3-594.jpg',
+  );
+  final AssetGenImage k3595 = const AssetGenImage(
+    'assets/book/part3/K3-595.jpg',
+  );
+  final AssetGenImage k3596 = const AssetGenImage(
+    'assets/book/part3/K3-596.jpg',
+  );
+  final AssetGenImage k3597 = const AssetGenImage(
+    'assets/book/part3/K3-597.jpg',
+  );
+  final AssetGenImage k3598 = const AssetGenImage(
+    'assets/book/part3/K3-598.jpg',
+  );
+  final AssetGenImage k3599 = const AssetGenImage(
+    'assets/book/part3/K3-599.jpg',
+  );
+  final AssetGenImage k3600 = const AssetGenImage(
+    'assets/book/part3/K3-600.jpg',
+  );
+  final AssetGenImage k3601 = const AssetGenImage(
+    'assets/book/part3/K3-601.jpg',
+  );
+  final AssetGenImage k3602 = const AssetGenImage(
+    'assets/book/part3/K3-602.jpg',
+  );
+  final AssetGenImage k3603 = const AssetGenImage(
+    'assets/book/part3/K3-603.jpg',
+  );
+  final AssetGenImage k3604 = const AssetGenImage(
+    'assets/book/part3/K3-604.jpg',
+  );
+  final AssetGenImage k3605 = const AssetGenImage(
+    'assets/book/part3/K3-605.jpg',
+  );
+  final AssetGenImage k3606 = const AssetGenImage(
+    'assets/book/part3/K3-606.jpg',
+  );
+  final AssetGenImage k3607 = const AssetGenImage(
+    'assets/book/part3/K3-607.jpg',
+  );
+  final AssetGenImage k3608 = const AssetGenImage(
+    'assets/book/part3/K3-608.jpg',
+  );
+  final AssetGenImage k3609 = const AssetGenImage(
+    'assets/book/part3/K3-609.jpg',
+  );
+  final AssetGenImage k3610 = const AssetGenImage(
+    'assets/book/part3/K3-610.jpg',
+  );
+  final AssetGenImage k3611 = const AssetGenImage(
+    'assets/book/part3/K3-611.jpg',
+  );
+  final AssetGenImage k3612 = const AssetGenImage(
+    'assets/book/part3/K3-612.jpg',
+  );
+  final AssetGenImage k3613 = const AssetGenImage(
+    'assets/book/part3/K3-613.jpg',
+  );
+  final AssetGenImage k3614 = const AssetGenImage(
+    'assets/book/part3/K3-614.jpg',
+  );
+  final AssetGenImage k3615 = const AssetGenImage(
+    'assets/book/part3/K3-615.jpg',
+  );
+  final AssetGenImage k3616 = const AssetGenImage(
+    'assets/book/part3/K3-616.jpg',
+  );
+  final AssetGenImage k3617 = const AssetGenImage(
+    'assets/book/part3/K3-617.jpg',
+  );
+  final AssetGenImage k3618 = const AssetGenImage(
+    'assets/book/part3/K3-618.jpg',
+  );
+  final AssetGenImage k3619 = const AssetGenImage(
+    'assets/book/part3/K3-619.jpg',
+  );
+  final AssetGenImage k3620 = const AssetGenImage(
+    'assets/book/part3/K3-620.jpg',
+  );
+  final AssetGenImage k3621 = const AssetGenImage(
+    'assets/book/part3/K3-621.jpg',
+  );
+  final AssetGenImage k3622 = const AssetGenImage(
+    'assets/book/part3/K3-622.jpg',
+  );
+  final AssetGenImage k3623 = const AssetGenImage(
+    'assets/book/part3/K3-623.jpg',
+  );
+  final AssetGenImage k3624 = const AssetGenImage(
+    'assets/book/part3/K3-624.jpg',
+  );
+  final AssetGenImage k3625 = const AssetGenImage(
+    'assets/book/part3/K3-625.jpg',
+  );
+  final AssetGenImage k3626 = const AssetGenImage(
+    'assets/book/part3/K3-626.jpg',
+  );
+  final AssetGenImage k3627 = const AssetGenImage(
+    'assets/book/part3/K3-627.jpg',
+  );
+  final AssetGenImage k3628 = const AssetGenImage(
+    'assets/book/part3/K3-628.jpg',
+  );
+  final AssetGenImage k3629 = const AssetGenImage(
+    'assets/book/part3/K3-629.jpg',
+  );
+  final AssetGenImage k3630 = const AssetGenImage(
+    'assets/book/part3/K3-630.jpg',
+  );
+  final AssetGenImage k3631 = const AssetGenImage(
+    'assets/book/part3/K3-631.jpg',
+  );
+  final AssetGenImage k3632 = const AssetGenImage(
+    'assets/book/part3/K3-632.jpg',
+  );
+  final AssetGenImage k3633 = const AssetGenImage(
+    'assets/book/part3/K3-633.jpg',
+  );
+  final AssetGenImage k3634 = const AssetGenImage(
+    'assets/book/part3/K3-634.jpg',
+  );
+  final AssetGenImage k3635 = const AssetGenImage(
+    'assets/book/part3/K3-635.jpg',
+  );
+  final AssetGenImage k3636 = const AssetGenImage(
+    'assets/book/part3/K3-636.jpg',
+  );
+  final AssetGenImage k3637 = const AssetGenImage(
+    'assets/book/part3/K3-637.jpg',
+  );
+  final AssetGenImage k3638 = const AssetGenImage(
+    'assets/book/part3/K3-638.jpg',
+  );
+  final AssetGenImage k3639 = const AssetGenImage(
+    'assets/book/part3/K3-639.jpg',
+  );
+  final AssetGenImage k3640 = const AssetGenImage(
+    'assets/book/part3/K3-640.jpg',
+  );
+  final AssetGenImage k3641 = const AssetGenImage(
+    'assets/book/part3/K3-641.jpg',
+  );
+  final AssetGenImage k3642 = const AssetGenImage(
+    'assets/book/part3/K3-642.jpg',
+  );
+  final AssetGenImage k3643 = const AssetGenImage(
+    'assets/book/part3/K3-643.jpg',
+  );
+  final AssetGenImage k3644 = const AssetGenImage(
+    'assets/book/part3/K3-644.jpg',
+  );
+  final AssetGenImage k3645 = const AssetGenImage(
+    'assets/book/part3/K3-645.jpg',
+  );
+  final AssetGenImage k3646 = const AssetGenImage(
+    'assets/book/part3/K3-646.jpg',
+  );
+  final AssetGenImage k3647 = const AssetGenImage(
+    'assets/book/part3/K3-647.jpg',
+  );
+  final AssetGenImage k3648 = const AssetGenImage(
+    'assets/book/part3/K3-648.jpg',
+  );
+  final AssetGenImage k3649 = const AssetGenImage(
+    'assets/book/part3/K3-649.jpg',
+  );
+  final AssetGenImage k3650 = const AssetGenImage(
+    'assets/book/part3/K3-650.jpg',
+  );
+  final AssetGenImage k3651 = const AssetGenImage(
+    'assets/book/part3/K3-651.jpg',
+  );
+  final AssetGenImage k3652 = const AssetGenImage(
+    'assets/book/part3/K3-652.jpg',
+  );
+  final AssetGenImage k3653 = const AssetGenImage(
+    'assets/book/part3/K3-653.jpg',
+  );
+  final AssetGenImage k3654 = const AssetGenImage(
+    'assets/book/part3/K3-654.jpg',
+  );
+  final AssetGenImage k3655 = const AssetGenImage(
+    'assets/book/part3/K3-655.jpg',
+  );
+  final AssetGenImage k3656 = const AssetGenImage(
+    'assets/book/part3/K3-656.jpg',
+  );
+  final AssetGenImage k3657 = const AssetGenImage(
+    'assets/book/part3/K3-657.jpg',
+  );
+  final AssetGenImage k3658 = const AssetGenImage(
+    'assets/book/part3/K3-658.jpg',
+  );
+  final AssetGenImage k3659 = const AssetGenImage(
+    'assets/book/part3/K3-659.jpg',
+  );
+  final AssetGenImage k3660 = const AssetGenImage(
+    'assets/book/part3/K3-660.jpg',
+  );
+  final AssetGenImage k3661 = const AssetGenImage(
+    'assets/book/part3/K3-661.jpg',
+  );
+  final AssetGenImage k3662 = const AssetGenImage(
+    'assets/book/part3/K3-662.jpg',
+  );
+  final AssetGenImage k3663 = const AssetGenImage(
+    'assets/book/part3/K3-663.jpg',
+  );
+  final AssetGenImage k3664 = const AssetGenImage(
+    'assets/book/part3/K3-664.jpg',
+  );
+  final AssetGenImage k3665 = const AssetGenImage(
+    'assets/book/part3/K3-665.jpg',
+  );
+  final AssetGenImage k3666 = const AssetGenImage(
+    'assets/book/part3/K3-666.jpg',
+  );
+  final AssetGenImage k3667 = const AssetGenImage(
+    'assets/book/part3/K3-667.jpg',
+  );
+  final AssetGenImage k3668 = const AssetGenImage(
+    'assets/book/part3/K3-668.jpg',
+  );
+  final AssetGenImage k3669 = const AssetGenImage(
+    'assets/book/part3/K3-669.jpg',
+  );
+  final AssetGenImage k3670 = const AssetGenImage(
+    'assets/book/part3/K3-670.jpg',
+  );
+  final AssetGenImage k3671 = const AssetGenImage(
+    'assets/book/part3/K3-671.jpg',
+  );
+  final AssetGenImage k3672 = const AssetGenImage(
+    'assets/book/part3/K3-672.jpg',
+  );
+  final AssetGenImage k3673 = const AssetGenImage(
+    'assets/book/part3/K3-673.jpg',
+  );
+  final AssetGenImage k3674 = const AssetGenImage(
+    'assets/book/part3/K3-674.jpg',
+  );
+  final AssetGenImage k3675 = const AssetGenImage(
+    'assets/book/part3/K3-675.jpg',
+  );
+  final AssetGenImage k3676 = const AssetGenImage(
+    'assets/book/part3/K3-676.jpg',
+  );
+  final AssetGenImage k3677 = const AssetGenImage(
+    'assets/book/part3/K3-677.jpg',
+  );
+  final AssetGenImage k3678 = const AssetGenImage(
+    'assets/book/part3/K3-678.jpg',
+  );
+  final AssetGenImage k3679 = const AssetGenImage(
+    'assets/book/part3/K3-679.jpg',
+  );
+  final AssetGenImage k3680 = const AssetGenImage(
+    'assets/book/part3/K3-680.jpg',
+  );
+  final AssetGenImage k3681 = const AssetGenImage(
+    'assets/book/part3/K3-681.jpg',
+  );
+  final AssetGenImage k3682 = const AssetGenImage(
+    'assets/book/part3/K3-682.jpg',
+  );
+  final AssetGenImage k3683 = const AssetGenImage(
+    'assets/book/part3/K3-683.jpg',
+  );
+  final AssetGenImage k3684 = const AssetGenImage(
+    'assets/book/part3/K3-684.jpg',
+  );
+  final AssetGenImage k3685 = const AssetGenImage(
+    'assets/book/part3/K3-685.jpg',
+  );
+  final AssetGenImage k3686 = const AssetGenImage(
+    'assets/book/part3/K3-686.jpg',
+  );
+  final AssetGenImage k3687 = const AssetGenImage(
+    'assets/book/part3/K3-687.jpg',
+  );
+  final AssetGenImage k3688 = const AssetGenImage(
+    'assets/book/part3/K3-688.jpg',
+  );
+  final AssetGenImage k3689 = const AssetGenImage(
+    'assets/book/part3/K3-689.jpg',
+  );
+  final AssetGenImage k3690 = const AssetGenImage(
+    'assets/book/part3/K3-690.jpg',
+  );
+  final AssetGenImage k3691 = const AssetGenImage(
+    'assets/book/part3/K3-691.jpg',
+  );
+  final AssetGenImage k3692 = const AssetGenImage(
+    'assets/book/part3/K3-692.jpg',
+  );
+  final AssetGenImage k3693 = const AssetGenImage(
+    'assets/book/part3/K3-693.jpg',
+  );
+  final AssetGenImage k3694 = const AssetGenImage(
+    'assets/book/part3/K3-694.jpg',
+  );
+  final AssetGenImage k3695 = const AssetGenImage(
+    'assets/book/part3/K3-695.jpg',
+  );
+  final AssetGenImage k3696 = const AssetGenImage(
+    'assets/book/part3/K3-696.jpg',
+  );
+  final AssetGenImage k3697 = const AssetGenImage(
+    'assets/book/part3/K3-697.jpg',
+  );
+  final AssetGenImage k3698 = const AssetGenImage(
+    'assets/book/part3/K3-698.jpg',
+  );
+  final AssetGenImage k3699 = const AssetGenImage(
+    'assets/book/part3/K3-699.jpg',
+  );
+  final AssetGenImage k3700 = const AssetGenImage(
+    'assets/book/part3/K3-700.jpg',
+  );
+  final AssetGenImage k3701 = const AssetGenImage(
+    'assets/book/part3/K3-701.jpg',
+  );
+  final AssetGenImage k3702 = const AssetGenImage(
+    'assets/book/part3/K3-702.jpg',
+  );
+  final AssetGenImage k3703 = const AssetGenImage(
+    'assets/book/part3/K3-703.jpg',
+  );
+  final AssetGenImage k3704 = const AssetGenImage(
+    'assets/book/part3/K3-704.jpg',
+  );
+  final AssetGenImage k3705 = const AssetGenImage(
+    'assets/book/part3/K3-705.jpg',
+  );
+  final AssetGenImage k3706 = const AssetGenImage(
+    'assets/book/part3/K3-706.jpg',
+  );
+  final AssetGenImage k3707 = const AssetGenImage(
+    'assets/book/part3/K3-707.jpg',
+  );
+  final AssetGenImage k3708 = const AssetGenImage(
+    'assets/book/part3/K3-708.jpg',
+  );
+  final AssetGenImage k3709 = const AssetGenImage(
+    'assets/book/part3/K3-709.jpg',
+  );
+  final AssetGenImage k3710 = const AssetGenImage(
+    'assets/book/part3/K3-710.jpg',
+  );
+  final AssetGenImage k3711 = const AssetGenImage(
+    'assets/book/part3/K3-711.jpg',
+  );
+  final AssetGenImage k3712 = const AssetGenImage(
+    'assets/book/part3/K3-712.jpg',
+  );
+  final AssetGenImage k3713 = const AssetGenImage(
+    'assets/book/part3/K3-713.jpg',
+  );
+  final AssetGenImage k3714 = const AssetGenImage(
+    'assets/book/part3/K3-714.jpg',
+  );
+  final AssetGenImage k3715 = const AssetGenImage(
+    'assets/book/part3/K3-715.jpg',
+  );
+  final AssetGenImage k3716 = const AssetGenImage(
+    'assets/book/part3/K3-716.jpg',
+  );
+  final AssetGenImage k3717 = const AssetGenImage(
+    'assets/book/part3/K3-717.jpg',
+  );
+  final AssetGenImage k3718 = const AssetGenImage(
+    'assets/book/part3/K3-718.jpg',
+  );
+  final AssetGenImage k3719 = const AssetGenImage(
+    'assets/book/part3/K3-719.jpg',
+  );
+  final AssetGenImage k3720 = const AssetGenImage(
+    'assets/book/part3/K3-720.jpg',
+  );
+  final AssetGenImage k3721 = const AssetGenImage(
+    'assets/book/part3/K3-721.jpg',
+  );
+  final AssetGenImage k3722 = const AssetGenImage(
+    'assets/book/part3/K3-722.jpg',
+  );
+  final AssetGenImage k3723 = const AssetGenImage(
+    'assets/book/part3/K3-723.jpg',
+  );
+  final AssetGenImage k3724 = const AssetGenImage(
+    'assets/book/part3/K3-724.jpg',
+  );
+  final AssetGenImage k3725 = const AssetGenImage(
+    'assets/book/part3/K3-725.jpg',
+  );
+  final AssetGenImage k3726 = const AssetGenImage(
+    'assets/book/part3/K3-726.jpg',
+  );
+  final AssetGenImage k3727 = const AssetGenImage(
+    'assets/book/part3/K3-727.jpg',
+  );
+  final AssetGenImage k3728 = const AssetGenImage(
+    'assets/book/part3/K3-728.jpg',
+  );
+  final AssetGenImage k3729 = const AssetGenImage(
+    'assets/book/part3/K3-729.jpg',
+  );
+  final AssetGenImage k3730 = const AssetGenImage(
+    'assets/book/part3/K3-730.jpg',
+  );
+  final AssetGenImage k3731 = const AssetGenImage(
+    'assets/book/part3/K3-731.jpg',
+  );
+  final AssetGenImage k3732 = const AssetGenImage(
+    'assets/book/part3/K3-732.jpg',
+  );
+  final AssetGenImage k3733 = const AssetGenImage(
+    'assets/book/part3/K3-733.jpg',
+  );
+  final AssetGenImage k3734 = const AssetGenImage(
+    'assets/book/part3/K3-734.jpg',
+  );
+  final AssetGenImage k3735 = const AssetGenImage(
+    'assets/book/part3/K3-735.jpg',
+  );
+  final AssetGenImage k3736 = const AssetGenImage(
+    'assets/book/part3/K3-736.jpg',
+  );
+  final AssetGenImage k3737 = const AssetGenImage(
+    'assets/book/part3/K3-737.jpg',
+  );
+  final AssetGenImage k3738 = const AssetGenImage(
+    'assets/book/part3/K3-738.jpg',
+  );
+  final AssetGenImage k3739 = const AssetGenImage(
+    'assets/book/part3/K3-739.jpg',
+  );
+  final AssetGenImage k3740 = const AssetGenImage(
+    'assets/book/part3/K3-740.jpg',
+  );
+  final AssetGenImage k3741 = const AssetGenImage(
+    'assets/book/part3/K3-741.jpg',
+  );
+  final AssetGenImage k3742 = const AssetGenImage(
+    'assets/book/part3/K3-742.jpg',
+  );
+  final AssetGenImage k3743 = const AssetGenImage(
+    'assets/book/part3/K3-743.jpg',
+  );
+  final AssetGenImage k3744 = const AssetGenImage(
+    'assets/book/part3/K3-744.jpg',
+  );
+  final AssetGenImage k3745 = const AssetGenImage(
+    'assets/book/part3/K3-745.jpg',
+  );
+  final AssetGenImage k3746 = const AssetGenImage(
+    'assets/book/part3/K3-746.jpg',
+  );
+  final AssetGenImage k3747 = const AssetGenImage(
+    'assets/book/part3/K3-747.jpg',
+  );
+  final AssetGenImage k3748 = const AssetGenImage(
+    'assets/book/part3/K3-748.jpg',
+  );
+  final AssetGenImage k3749 = const AssetGenImage(
+    'assets/book/part3/K3-749.jpg',
+  );
+  final AssetGenImage k3750 = const AssetGenImage(
+    'assets/book/part3/K3-750.jpg',
+  );
+  final AssetGenImage k3751 = const AssetGenImage(
+    'assets/book/part3/K3-751.jpg',
+  );
+  final AssetGenImage k3752 = const AssetGenImage(
+    'assets/book/part3/K3-752.jpg',
+  );
+  final AssetGenImage k3753 = const AssetGenImage(
+    'assets/book/part3/K3-753.jpg',
+  );
+  final AssetGenImage k3754 = const AssetGenImage(
+    'assets/book/part3/K3-754.jpg',
+  );
+  final AssetGenImage k3755 = const AssetGenImage(
+    'assets/book/part3/K3-755.jpg',
+  );
+  final AssetGenImage k3756 = const AssetGenImage(
+    'assets/book/part3/K3-756.jpg',
+  );
+  final AssetGenImage k3757 = const AssetGenImage(
+    'assets/book/part3/K3-757.jpg',
+  );
+  final AssetGenImage k3758 = const AssetGenImage(
+    'assets/book/part3/K3-758.jpg',
+  );
+  final AssetGenImage k3759 = const AssetGenImage(
+    'assets/book/part3/K3-759.jpg',
+  );
+  final AssetGenImage k3760 = const AssetGenImage(
+    'assets/book/part3/K3-760.jpg',
+  );
+  final AssetGenImage k3761 = const AssetGenImage(
+    'assets/book/part3/K3-761.jpg',
+  );
+  final AssetGenImage k3762 = const AssetGenImage(
+    'assets/book/part3/K3-762.jpg',
+  );
+  final AssetGenImage k3763 = const AssetGenImage(
+    'assets/book/part3/K3-763.jpg',
+  );
+  final AssetGenImage k3764 = const AssetGenImage(
+    'assets/book/part3/K3-764.jpg',
+  );
+  final AssetGenImage k3765 = const AssetGenImage(
+    'assets/book/part3/K3-765.jpg',
+  );
+  final AssetGenImage k3766 = const AssetGenImage(
+    'assets/book/part3/K3-766.jpg',
+  );
+  final AssetGenImage k3767 = const AssetGenImage(
+    'assets/book/part3/K3-767.jpg',
+  );
+  final AssetGenImage k3768 = const AssetGenImage(
+    'assets/book/part3/K3-768.jpg',
+  );
+  final AssetGenImage k3769 = const AssetGenImage(
+    'assets/book/part3/K3-769.jpg',
+  );
+  final AssetGenImage k3770 = const AssetGenImage(
+    'assets/book/part3/K3-770.jpg',
+  );
+  final AssetGenImage k3771 = const AssetGenImage(
+    'assets/book/part3/K3-771.jpg',
+  );
+  final AssetGenImage k3772 = const AssetGenImage(
+    'assets/book/part3/K3-772.jpg',
+  );
+  final AssetGenImage k3773 = const AssetGenImage(
+    'assets/book/part3/K3-773.jpg',
+  );
+  final AssetGenImage k3774 = const AssetGenImage(
+    'assets/book/part3/K3-774.jpg',
+  );
+  final AssetGenImage k3775 = const AssetGenImage(
+    'assets/book/part3/K3-775.jpg',
+  );
+  final AssetGenImage k3776 = const AssetGenImage(
+    'assets/book/part3/K3-776.jpg',
+  );
+  final AssetGenImage k3777 = const AssetGenImage(
+    'assets/book/part3/K3-777.jpg',
+  );
+  final AssetGenImage k3778 = const AssetGenImage(
+    'assets/book/part3/K3-778.jpg',
+  );
+  final AssetGenImage k3779 = const AssetGenImage(
+    'assets/book/part3/K3-779.jpg',
+  );
+  final AssetGenImage k3780 = const AssetGenImage(
+    'assets/book/part3/K3-780.jpg',
+  );
+  final AssetGenImage k3781 = const AssetGenImage(
+    'assets/book/part3/K3-781.jpg',
+  );
+  final AssetGenImage k3782 = const AssetGenImage(
+    'assets/book/part3/K3-782.jpg',
+  );
+  final AssetGenImage k3783 = const AssetGenImage(
+    'assets/book/part3/K3-783.jpg',
+  );
+  final AssetGenImage k3784 = const AssetGenImage(
+    'assets/book/part3/K3-784.jpg',
+  );
+  final AssetGenImage k3785 = const AssetGenImage(
+    'assets/book/part3/K3-785.jpg',
+  );
+  final AssetGenImage k3786 = const AssetGenImage(
+    'assets/book/part3/K3-786.jpg',
+  );
+  final AssetGenImage k3787 = const AssetGenImage(
+    'assets/book/part3/K3-787.jpg',
+  );
+  final AssetGenImage k3788 = const AssetGenImage(
+    'assets/book/part3/K3-788.jpg',
+  );
+  final AssetGenImage k3789 = const AssetGenImage(
+    'assets/book/part3/K3-789.jpg',
+  );
+  final AssetGenImage k3790 = const AssetGenImage(
+    'assets/book/part3/K3-790.jpg',
+  );
+  final AssetGenImage k3791 = const AssetGenImage(
+    'assets/book/part3/K3-791.jpg',
+  );
+  final AssetGenImage k3792 = const AssetGenImage(
+    'assets/book/part3/K3-792.jpg',
+  );
+  final AssetGenImage k3793 = const AssetGenImage(
+    'assets/book/part3/K3-793.jpg',
+  );
+  final AssetGenImage k3794 = const AssetGenImage(
+    'assets/book/part3/K3-794.jpg',
+  );
+  final AssetGenImage k3795 = const AssetGenImage(
+    'assets/book/part3/K3-795.jpg',
+  );
+  final AssetGenImage k3796 = const AssetGenImage(
+    'assets/book/part3/K3-796.jpg',
+  );
+  final AssetGenImage k3797 = const AssetGenImage(
+    'assets/book/part3/K3-797.jpg',
+  );
+  final AssetGenImage k3798 = const AssetGenImage(
+    'assets/book/part3/K3-798.jpg',
+  );
+  final AssetGenImage k3799 = const AssetGenImage(
+    'assets/book/part3/K3-799.jpg',
+  );
+  final AssetGenImage k3800 = const AssetGenImage(
+    'assets/book/part3/K3-800.jpg',
+  );
+  final AssetGenImage k3801 = const AssetGenImage(
+    'assets/book/part3/K3-801.jpg',
+  );
+  final AssetGenImage k3802 = const AssetGenImage(
+    'assets/book/part3/K3-802.jpg',
+  );
+  final AssetGenImage k3803 = const AssetGenImage(
+    'assets/book/part3/K3-803.jpg',
+  );
+  final AssetGenImage k3804 = const AssetGenImage(
+    'assets/book/part3/K3-804.jpg',
+  );
+  final AssetGenImage k3805 = const AssetGenImage(
+    'assets/book/part3/K3-805.jpg',
+  );
+  final AssetGenImage k3806 = const AssetGenImage(
+    'assets/book/part3/K3-806.jpg',
+  );
+  final AssetGenImage k3807 = const AssetGenImage(
+    'assets/book/part3/K3-807.jpg',
+  );
+}
+
+class $AssetsPart4Gen {
+  const $AssetsPart4Gen();
+
+  final AssetGenImage k4001 = const AssetGenImage(
+    'assets/book/part4/K4-001.jpg',
+  );
+  final AssetGenImage k4002 = const AssetGenImage(
+    'assets/book/part4/K4-002.jpg',
+  );
+  final AssetGenImage k4003 = const AssetGenImage(
+    'assets/book/part4/K4-003.jpg',
+  );
+  final AssetGenImage k4004 = const AssetGenImage(
+    'assets/book/part4/K4-004.jpg',
+  );
+  final AssetGenImage k4005 = const AssetGenImage(
+    'assets/book/part4/K4-005.jpg',
+  );
+  final AssetGenImage k4006 = const AssetGenImage(
+    'assets/book/part4/K4-006.jpg',
+  );
+  final AssetGenImage k4007 = const AssetGenImage(
+    'assets/book/part4/K4-007.jpg',
+  );
+  final AssetGenImage k4008 = const AssetGenImage(
+    'assets/book/part4/K4-008.jpg',
+  );
+  final AssetGenImage k4009 = const AssetGenImage(
+    'assets/book/part4/K4-009.jpg',
+  );
+  final AssetGenImage k4010 = const AssetGenImage(
+    'assets/book/part4/K4-010.jpg',
+  );
+  final AssetGenImage k4011 = const AssetGenImage(
+    'assets/book/part4/K4-011.jpg',
+  );
+  final AssetGenImage k4012 = const AssetGenImage(
+    'assets/book/part4/K4-012.jpg',
+  );
+  final AssetGenImage k4013 = const AssetGenImage(
+    'assets/book/part4/K4-013.jpg',
+  );
+  final AssetGenImage k4014 = const AssetGenImage(
+    'assets/book/part4/K4-014.jpg',
+  );
+  final AssetGenImage k4015 = const AssetGenImage(
+    'assets/book/part4/K4-015.jpg',
+  );
+  final AssetGenImage k4016 = const AssetGenImage(
+    'assets/book/part4/K4-016.jpg',
+  );
+  final AssetGenImage k4017 = const AssetGenImage(
+    'assets/book/part4/K4-017.jpg',
+  );
+  final AssetGenImage k4018 = const AssetGenImage(
+    'assets/book/part4/K4-018.jpg',
+  );
+  final AssetGenImage k4019 = const AssetGenImage(
+    'assets/book/part4/K4-019.jpg',
+  );
+  final AssetGenImage k4020 = const AssetGenImage(
+    'assets/book/part4/K4-020.jpg',
+  );
+  final AssetGenImage k4021 = const AssetGenImage(
+    'assets/book/part4/K4-021.jpg',
+  );
+  final AssetGenImage k4022 = const AssetGenImage(
+    'assets/book/part4/K4-022.jpg',
+  );
+  final AssetGenImage k4023 = const AssetGenImage(
+    'assets/book/part4/K4-023.jpg',
+  );
+  final AssetGenImage k4024 = const AssetGenImage(
+    'assets/book/part4/K4-024.jpg',
+  );
+  final AssetGenImage k4025 = const AssetGenImage(
+    'assets/book/part4/K4-025.jpg',
+  );
+  final AssetGenImage k4026 = const AssetGenImage(
+    'assets/book/part4/K4-026.jpg',
+  );
+  final AssetGenImage k4027 = const AssetGenImage(
+    'assets/book/part4/K4-027.jpg',
+  );
+  final AssetGenImage k4028 = const AssetGenImage(
+    'assets/book/part4/K4-028.jpg',
+  );
+  final AssetGenImage k4029 = const AssetGenImage(
+    'assets/book/part4/K4-029.jpg',
+  );
+  final AssetGenImage k4030 = const AssetGenImage(
+    'assets/book/part4/K4-030.jpg',
+  );
+  final AssetGenImage k4031 = const AssetGenImage(
+    'assets/book/part4/K4-031.jpg',
+  );
+  final AssetGenImage k4032 = const AssetGenImage(
+    'assets/book/part4/K4-032.jpg',
+  );
+  final AssetGenImage k4033 = const AssetGenImage(
+    'assets/book/part4/K4-033.jpg',
+  );
+  final AssetGenImage k4034 = const AssetGenImage(
+    'assets/book/part4/K4-034.jpg',
+  );
+  final AssetGenImage k4035 = const AssetGenImage(
+    'assets/book/part4/K4-035.jpg',
+  );
+  final AssetGenImage k4036 = const AssetGenImage(
+    'assets/book/part4/K4-036.jpg',
+  );
+  final AssetGenImage k4037 = const AssetGenImage(
+    'assets/book/part4/K4-037.jpg',
+  );
+  final AssetGenImage k4038 = const AssetGenImage(
+    'assets/book/part4/K4-038.jpg',
+  );
+  final AssetGenImage k4039 = const AssetGenImage(
+    'assets/book/part4/K4-039.jpg',
+  );
+  final AssetGenImage k4040 = const AssetGenImage(
+    'assets/book/part4/K4-040.jpg',
+  );
+  final AssetGenImage k4041 = const AssetGenImage(
+    'assets/book/part4/K4-041.jpg',
+  );
+  final AssetGenImage k4042 = const AssetGenImage(
+    'assets/book/part4/K4-042.jpg',
+  );
+  final AssetGenImage k4043 = const AssetGenImage(
+    'assets/book/part4/K4-043.jpg',
+  );
+  final AssetGenImage k4044 = const AssetGenImage(
+    'assets/book/part4/K4-044.jpg',
+  );
+  final AssetGenImage k4045 = const AssetGenImage(
+    'assets/book/part4/K4-045.jpg',
+  );
+  final AssetGenImage k4046 = const AssetGenImage(
+    'assets/book/part4/K4-046.jpg',
+  );
+  final AssetGenImage k4047 = const AssetGenImage(
+    'assets/book/part4/K4-047.jpg',
+  );
+  final AssetGenImage k4048 = const AssetGenImage(
+    'assets/book/part4/K4-048.jpg',
+  );
+  final AssetGenImage k4049 = const AssetGenImage(
+    'assets/book/part4/K4-049.jpg',
+  );
+  final AssetGenImage k4050 = const AssetGenImage(
+    'assets/book/part4/K4-050.jpg',
+  );
+  final AssetGenImage k4051 = const AssetGenImage(
+    'assets/book/part4/K4-051.jpg',
+  );
+  final AssetGenImage k4052 = const AssetGenImage(
+    'assets/book/part4/K4-052.jpg',
+  );
+  final AssetGenImage k4053 = const AssetGenImage(
+    'assets/book/part4/K4-053.jpg',
+  );
+  final AssetGenImage k4054 = const AssetGenImage(
+    'assets/book/part4/K4-054.jpg',
+  );
+  final AssetGenImage k4055 = const AssetGenImage(
+    'assets/book/part4/K4-055.jpg',
+  );
+  final AssetGenImage k4056 = const AssetGenImage(
+    'assets/book/part4/K4-056.jpg',
+  );
+  final AssetGenImage k4057 = const AssetGenImage(
+    'assets/book/part4/K4-057.jpg',
+  );
+  final AssetGenImage k4058 = const AssetGenImage(
+    'assets/book/part4/K4-058.jpg',
+  );
+  final AssetGenImage k4059 = const AssetGenImage(
+    'assets/book/part4/K4-059.jpg',
+  );
+  final AssetGenImage k4060 = const AssetGenImage(
+    'assets/book/part4/K4-060.jpg',
+  );
+  final AssetGenImage k4061 = const AssetGenImage(
+    'assets/book/part4/K4-061.jpg',
+  );
+  final AssetGenImage k4062 = const AssetGenImage(
+    'assets/book/part4/K4-062.jpg',
+  );
+  final AssetGenImage k4063 = const AssetGenImage(
+    'assets/book/part4/K4-063.jpg',
+  );
+  final AssetGenImage k4064 = const AssetGenImage(
+    'assets/book/part4/K4-064.jpg',
+  );
+  final AssetGenImage k4065 = const AssetGenImage(
+    'assets/book/part4/K4-065.jpg',
+  );
+  final AssetGenImage k4066 = const AssetGenImage(
+    'assets/book/part4/K4-066.jpg',
+  );
+  final AssetGenImage k4067 = const AssetGenImage(
+    'assets/book/part4/K4-067.jpg',
+  );
+  final AssetGenImage k4068 = const AssetGenImage(
+    'assets/book/part4/K4-068.jpg',
+  );
+  final AssetGenImage k4069 = const AssetGenImage(
+    'assets/book/part4/K4-069.jpg',
+  );
+  final AssetGenImage k4070 = const AssetGenImage(
+    'assets/book/part4/K4-070.jpg',
+  );
+  final AssetGenImage k4071 = const AssetGenImage(
+    'assets/book/part4/K4-071.jpg',
+  );
+  final AssetGenImage k4072 = const AssetGenImage(
+    'assets/book/part4/K4-072.jpg',
+  );
+  final AssetGenImage k4073 = const AssetGenImage(
+    'assets/book/part4/K4-073.jpg',
+  );
+  final AssetGenImage k4074 = const AssetGenImage(
+    'assets/book/part4/K4-074.jpg',
+  );
+  final AssetGenImage k4075 = const AssetGenImage(
+    'assets/book/part4/K4-075.jpg',
+  );
+  final AssetGenImage k4076 = const AssetGenImage(
+    'assets/book/part4/K4-076.jpg',
+  );
+  final AssetGenImage k4077 = const AssetGenImage(
+    'assets/book/part4/K4-077.jpg',
+  );
+  final AssetGenImage k4078 = const AssetGenImage(
+    'assets/book/part4/K4-078.jpg',
+  );
+  final AssetGenImage k4079 = const AssetGenImage(
+    'assets/book/part4/K4-079.jpg',
+  );
+  final AssetGenImage k4080 = const AssetGenImage(
+    'assets/book/part4/K4-080.jpg',
+  );
+  final AssetGenImage k4081 = const AssetGenImage(
+    'assets/book/part4/K4-081.jpg',
+  );
+  final AssetGenImage k4082 = const AssetGenImage(
+    'assets/book/part4/K4-082.jpg',
+  );
+  final AssetGenImage k4083 = const AssetGenImage(
+    'assets/book/part4/K4-083.jpg',
+  );
+  final AssetGenImage k4084 = const AssetGenImage(
+    'assets/book/part4/K4-084.jpg',
+  );
+  final AssetGenImage k4085 = const AssetGenImage(
+    'assets/book/part4/K4-085.jpg',
+  );
+  final AssetGenImage k4086 = const AssetGenImage(
+    'assets/book/part4/K4-086.jpg',
+  );
+  final AssetGenImage k4087 = const AssetGenImage(
+    'assets/book/part4/K4-087.jpg',
+  );
+  final AssetGenImage k4088 = const AssetGenImage(
+    'assets/book/part4/K4-088.jpg',
+  );
+  final AssetGenImage k4089 = const AssetGenImage(
+    'assets/book/part4/K4-089.jpg',
+  );
+  final AssetGenImage k4090 = const AssetGenImage(
+    'assets/book/part4/K4-090.jpg',
+  );
+  final AssetGenImage k4091 = const AssetGenImage(
+    'assets/book/part4/K4-091.jpg',
+  );
+  final AssetGenImage k4092 = const AssetGenImage(
+    'assets/book/part4/K4-092.jpg',
+  );
+  final AssetGenImage k4093 = const AssetGenImage(
+    'assets/book/part4/K4-093.jpg',
+  );
+  final AssetGenImage k4094 = const AssetGenImage(
+    'assets/book/part4/K4-094.jpg',
+  );
+  final AssetGenImage k4095 = const AssetGenImage(
+    'assets/book/part4/K4-095.jpg',
+  );
+  final AssetGenImage k4096 = const AssetGenImage(
+    'assets/book/part4/K4-096.jpg',
+  );
+  final AssetGenImage k4097 = const AssetGenImage(
+    'assets/book/part4/K4-097.jpg',
+  );
+  final AssetGenImage k4098 = const AssetGenImage(
+    'assets/book/part4/K4-098.jpg',
+  );
+  final AssetGenImage k4099 = const AssetGenImage(
+    'assets/book/part4/K4-099.jpg',
+  );
+  final AssetGenImage k4100 = const AssetGenImage(
+    'assets/book/part4/K4-100.jpg',
+  );
+  final AssetGenImage k4101 = const AssetGenImage(
+    'assets/book/part4/K4-101.jpg',
+  );
+  final AssetGenImage k4102 = const AssetGenImage(
+    'assets/book/part4/K4-102.jpg',
+  );
+  final AssetGenImage k4103 = const AssetGenImage(
+    'assets/book/part4/K4-103.jpg',
+  );
+  final AssetGenImage k4104 = const AssetGenImage(
+    'assets/book/part4/K4-104.jpg',
+  );
+  final AssetGenImage k4105 = const AssetGenImage(
+    'assets/book/part4/K4-105.jpg',
+  );
+  final AssetGenImage k4106 = const AssetGenImage(
+    'assets/book/part4/K4-106.jpg',
+  );
+  final AssetGenImage k4107 = const AssetGenImage(
+    'assets/book/part4/K4-107.jpg',
+  );
+  final AssetGenImage k4108 = const AssetGenImage(
+    'assets/book/part4/K4-108.jpg',
+  );
+  final AssetGenImage k4109 = const AssetGenImage(
+    'assets/book/part4/K4-109.jpg',
+  );
+  final AssetGenImage k4110 = const AssetGenImage(
+    'assets/book/part4/K4-110.jpg',
+  );
+  final AssetGenImage k4111 = const AssetGenImage(
+    'assets/book/part4/K4-111.jpg',
+  );
+  final AssetGenImage k4112 = const AssetGenImage(
+    'assets/book/part4/K4-112.jpg',
+  );
+  final AssetGenImage k4113 = const AssetGenImage(
+    'assets/book/part4/K4-113.jpg',
+  );
+  final AssetGenImage k4114 = const AssetGenImage(
+    'assets/book/part4/K4-114.jpg',
+  );
+  final AssetGenImage k4115 = const AssetGenImage(
+    'assets/book/part4/K4-115.jpg',
+  );
+  final AssetGenImage k4116 = const AssetGenImage(
+    'assets/book/part4/K4-116.jpg',
+  );
+  final AssetGenImage k4117 = const AssetGenImage(
+    'assets/book/part4/K4-117.jpg',
+  );
+  final AssetGenImage k4118 = const AssetGenImage(
+    'assets/book/part4/K4-118.jpg',
+  );
+  final AssetGenImage k4119 = const AssetGenImage(
+    'assets/book/part4/K4-119.jpg',
+  );
+  final AssetGenImage k4120 = const AssetGenImage(
+    'assets/book/part4/K4-120.jpg',
+  );
+  final AssetGenImage k4121 = const AssetGenImage(
+    'assets/book/part4/K4-121.jpg',
+  );
+  final AssetGenImage k4122 = const AssetGenImage(
+    'assets/book/part4/K4-122.jpg',
+  );
+  final AssetGenImage k4123 = const AssetGenImage(
+    'assets/book/part4/K4-123.jpg',
+  );
+  final AssetGenImage k4124 = const AssetGenImage(
+    'assets/book/part4/K4-124.jpg',
+  );
+  final AssetGenImage k4125 = const AssetGenImage(
+    'assets/book/part4/K4-125.jpg',
+  );
+  final AssetGenImage k4126 = const AssetGenImage(
+    'assets/book/part4/K4-126.jpg',
+  );
+  final AssetGenImage k4127 = const AssetGenImage(
+    'assets/book/part4/K4-127.jpg',
+  );
+  final AssetGenImage k4128 = const AssetGenImage(
+    'assets/book/part4/K4-128.jpg',
+  );
+  final AssetGenImage k4129 = const AssetGenImage(
+    'assets/book/part4/K4-129.jpg',
+  );
+  final AssetGenImage k4130 = const AssetGenImage(
+    'assets/book/part4/K4-130.jpg',
+  );
+  final AssetGenImage k4131 = const AssetGenImage(
+    'assets/book/part4/K4-131.jpg',
+  );
+  final AssetGenImage k4132 = const AssetGenImage(
+    'assets/book/part4/K4-132.jpg',
+  );
+  final AssetGenImage k4133 = const AssetGenImage(
+    'assets/book/part4/K4-133.jpg',
+  );
+  final AssetGenImage k4134 = const AssetGenImage(
+    'assets/book/part4/K4-134.jpg',
+  );
+  final AssetGenImage k4135 = const AssetGenImage(
+    'assets/book/part4/K4-135.jpg',
+  );
+  final AssetGenImage k4136 = const AssetGenImage(
+    'assets/book/part4/K4-136.jpg',
+  );
+  final AssetGenImage k4137 = const AssetGenImage(
+    'assets/book/part4/K4-137.jpg',
+  );
+  final AssetGenImage k4138 = const AssetGenImage(
+    'assets/book/part4/K4-138.jpg',
+  );
+  final AssetGenImage k4139 = const AssetGenImage(
+    'assets/book/part4/K4-139.jpg',
+  );
+  final AssetGenImage k4140 = const AssetGenImage(
+    'assets/book/part4/K4-140.jpg',
+  );
+  final AssetGenImage k4141 = const AssetGenImage(
+    'assets/book/part4/K4-141.jpg',
+  );
+  final AssetGenImage k4142 = const AssetGenImage(
+    'assets/book/part4/K4-142.jpg',
+  );
+  final AssetGenImage k4143 = const AssetGenImage(
+    'assets/book/part4/K4-143.jpg',
+  );
+  final AssetGenImage k4144 = const AssetGenImage(
+    'assets/book/part4/K4-144.jpg',
+  );
+  final AssetGenImage k4145 = const AssetGenImage(
+    'assets/book/part4/K4-145.jpg',
+  );
+  final AssetGenImage k4146 = const AssetGenImage(
+    'assets/book/part4/K4-146.jpg',
+  );
+  final AssetGenImage k4147 = const AssetGenImage(
+    'assets/book/part4/K4-147.jpg',
+  );
+  final AssetGenImage k4148 = const AssetGenImage(
+    'assets/book/part4/K4-148.jpg',
+  );
+  final AssetGenImage k4149 = const AssetGenImage(
+    'assets/book/part4/K4-149.jpg',
+  );
+  final AssetGenImage k4150 = const AssetGenImage(
+    'assets/book/part4/K4-150.jpg',
+  );
+  final AssetGenImage k4151 = const AssetGenImage(
+    'assets/book/part4/K4-151.jpg',
+  );
+  final AssetGenImage k4152 = const AssetGenImage(
+    'assets/book/part4/K4-152.jpg',
+  );
+  final AssetGenImage k4153 = const AssetGenImage(
+    'assets/book/part4/K4-153.jpg',
+  );
+  final AssetGenImage k4154 = const AssetGenImage(
+    'assets/book/part4/K4-154.jpg',
+  );
+  final AssetGenImage k4155 = const AssetGenImage(
+    'assets/book/part4/K4-155.jpg',
+  );
+  final AssetGenImage k4156 = const AssetGenImage(
+    'assets/book/part4/K4-156.jpg',
+  );
+  final AssetGenImage k4157 = const AssetGenImage(
+    'assets/book/part4/K4-157.jpg',
+  );
+  final AssetGenImage k4158 = const AssetGenImage(
+    'assets/book/part4/K4-158.jpg',
+  );
+  final AssetGenImage k4159 = const AssetGenImage(
+    'assets/book/part4/K4-159.jpg',
+  );
+  final AssetGenImage k4160 = const AssetGenImage(
+    'assets/book/part4/K4-160.jpg',
+  );
+  final AssetGenImage k4161 = const AssetGenImage(
+    'assets/book/part4/K4-161.jpg',
+  );
+  final AssetGenImage k4162 = const AssetGenImage(
+    'assets/book/part4/K4-162.jpg',
+  );
+  final AssetGenImage k4163 = const AssetGenImage(
+    'assets/book/part4/K4-163.jpg',
+  );
+  final AssetGenImage k4164 = const AssetGenImage(
+    'assets/book/part4/K4-164.jpg',
+  );
+  final AssetGenImage k4165 = const AssetGenImage(
+    'assets/book/part4/K4-165.jpg',
+  );
+  final AssetGenImage k4166 = const AssetGenImage(
+    'assets/book/part4/K4-166.jpg',
+  );
+  final AssetGenImage k4167 = const AssetGenImage(
+    'assets/book/part4/K4-167.jpg',
+  );
+  final AssetGenImage k4168 = const AssetGenImage(
+    'assets/book/part4/K4-168.jpg',
+  );
+  final AssetGenImage k4169 = const AssetGenImage(
+    'assets/book/part4/K4-169.jpg',
+  );
+  final AssetGenImage k4170 = const AssetGenImage(
+    'assets/book/part4/K4-170.jpg',
+  );
+  final AssetGenImage k4171 = const AssetGenImage(
+    'assets/book/part4/K4-171.jpg',
+  );
+  final AssetGenImage k4172 = const AssetGenImage(
+    'assets/book/part4/K4-172.jpg',
+  );
+  final AssetGenImage k4173 = const AssetGenImage(
+    'assets/book/part4/K4-173.jpg',
+  );
+  final AssetGenImage k4174 = const AssetGenImage(
+    'assets/book/part4/K4-174.jpg',
+  );
+  final AssetGenImage k4175 = const AssetGenImage(
+    'assets/book/part4/K4-175.jpg',
+  );
+  final AssetGenImage k4176 = const AssetGenImage(
+    'assets/book/part4/K4-176.jpg',
+  );
+  final AssetGenImage k4177 = const AssetGenImage(
+    'assets/book/part4/K4-177.jpg',
+  );
+  final AssetGenImage k4178 = const AssetGenImage(
+    'assets/book/part4/K4-178.jpg',
+  );
+  final AssetGenImage k4179 = const AssetGenImage(
+    'assets/book/part4/K4-179.jpg',
+  );
+  final AssetGenImage k4180 = const AssetGenImage(
+    'assets/book/part4/K4-180.jpg',
+  );
+  final AssetGenImage k4181 = const AssetGenImage(
+    'assets/book/part4/K4-181.jpg',
+  );
+  final AssetGenImage k4182 = const AssetGenImage(
+    'assets/book/part4/K4-182.jpg',
+  );
+  final AssetGenImage k4183 = const AssetGenImage(
+    'assets/book/part4/K4-183.jpg',
+  );
+  final AssetGenImage k4184 = const AssetGenImage(
+    'assets/book/part4/K4-184.jpg',
+  );
+  final AssetGenImage k4185 = const AssetGenImage(
+    'assets/book/part4/K4-185.jpg',
+  );
+  final AssetGenImage k4186 = const AssetGenImage(
+    'assets/book/part4/K4-186.jpg',
+  );
+  final AssetGenImage k4187 = const AssetGenImage(
+    'assets/book/part4/K4-187.jpg',
+  );
+  final AssetGenImage k4188 = const AssetGenImage(
+    'assets/book/part4/K4-188.jpg',
+  );
+  final AssetGenImage k4189 = const AssetGenImage(
+    'assets/book/part4/K4-189.jpg',
+  );
+  final AssetGenImage k4190 = const AssetGenImage(
+    'assets/book/part4/K4-190.jpg',
+  );
+  final AssetGenImage k4191 = const AssetGenImage(
+    'assets/book/part4/K4-191.jpg',
+  );
+  final AssetGenImage k4192 = const AssetGenImage(
+    'assets/book/part4/K4-192.jpg',
+  );
+  final AssetGenImage k4193 = const AssetGenImage(
+    'assets/book/part4/K4-193.jpg',
+  );
+  final AssetGenImage k4194 = const AssetGenImage(
+    'assets/book/part4/K4-194.jpg',
+  );
+  final AssetGenImage k4195 = const AssetGenImage(
+    'assets/book/part4/K4-195.jpg',
+  );
+  final AssetGenImage k4196 = const AssetGenImage(
+    'assets/book/part4/K4-196.jpg',
+  );
+  final AssetGenImage k4197 = const AssetGenImage(
+    'assets/book/part4/K4-197.jpg',
+  );
+  final AssetGenImage k4198 = const AssetGenImage(
+    'assets/book/part4/K4-198.jpg',
+  );
+  final AssetGenImage k4199 = const AssetGenImage(
+    'assets/book/part4/K4-199.jpg',
+  );
+  final AssetGenImage k4200 = const AssetGenImage(
+    'assets/book/part4/K4-200.jpg',
+  );
+  final AssetGenImage k4201 = const AssetGenImage(
+    'assets/book/part4/K4-201.jpg',
+  );
+  final AssetGenImage k4202 = const AssetGenImage(
+    'assets/book/part4/K4-202.jpg',
+  );
+  final AssetGenImage k4203 = const AssetGenImage(
+    'assets/book/part4/K4-203.jpg',
+  );
+  final AssetGenImage k4204 = const AssetGenImage(
+    'assets/book/part4/K4-204.jpg',
+  );
+  final AssetGenImage k4205 = const AssetGenImage(
+    'assets/book/part4/K4-205.jpg',
+  );
+  final AssetGenImage k4206 = const AssetGenImage(
+    'assets/book/part4/K4-206.jpg',
+  );
+  final AssetGenImage k4207 = const AssetGenImage(
+    'assets/book/part4/K4-207.jpg',
+  );
+  final AssetGenImage k4208 = const AssetGenImage(
+    'assets/book/part4/K4-208.jpg',
+  );
+  final AssetGenImage k4209 = const AssetGenImage(
+    'assets/book/part4/K4-209.jpg',
+  );
+  final AssetGenImage k4210 = const AssetGenImage(
+    'assets/book/part4/K4-210.jpg',
+  );
+  final AssetGenImage k4211 = const AssetGenImage(
+    'assets/book/part4/K4-211.jpg',
+  );
+  final AssetGenImage k4212 = const AssetGenImage(
+    'assets/book/part4/K4-212.jpg',
+  );
+  final AssetGenImage k4213 = const AssetGenImage(
+    'assets/book/part4/K4-213.jpg',
+  );
+  final AssetGenImage k4214 = const AssetGenImage(
+    'assets/book/part4/K4-214.jpg',
+  );
+  final AssetGenImage k4215 = const AssetGenImage(
+    'assets/book/part4/K4-215.jpg',
+  );
+  final AssetGenImage k4216 = const AssetGenImage(
+    'assets/book/part4/K4-216.jpg',
+  );
+  final AssetGenImage k4217 = const AssetGenImage(
+    'assets/book/part4/K4-217.jpg',
+  );
+  final AssetGenImage k4218 = const AssetGenImage(
+    'assets/book/part4/K4-218.jpg',
+  );
+  final AssetGenImage k4219 = const AssetGenImage(
+    'assets/book/part4/K4-219.jpg',
+  );
+  final AssetGenImage k4220 = const AssetGenImage(
+    'assets/book/part4/K4-220.jpg',
+  );
+  final AssetGenImage k4221 = const AssetGenImage(
+    'assets/book/part4/K4-221.jpg',
+  );
+  final AssetGenImage k4222 = const AssetGenImage(
+    'assets/book/part4/K4-222.jpg',
+  );
+  final AssetGenImage k4223 = const AssetGenImage(
+    'assets/book/part4/K4-223.jpg',
+  );
+  final AssetGenImage k4224 = const AssetGenImage(
+    'assets/book/part4/K4-224.jpg',
+  );
+  final AssetGenImage k4225 = const AssetGenImage(
+    'assets/book/part4/K4-225.jpg',
+  );
+  final AssetGenImage k4226 = const AssetGenImage(
+    'assets/book/part4/K4-226.jpg',
+  );
+  final AssetGenImage k4227 = const AssetGenImage(
+    'assets/book/part4/K4-227.jpg',
+  );
+  final AssetGenImage k4228 = const AssetGenImage(
+    'assets/book/part4/K4-228.jpg',
+  );
+  final AssetGenImage k4229 = const AssetGenImage(
+    'assets/book/part4/K4-229.jpg',
+  );
+  final AssetGenImage k4230 = const AssetGenImage(
+    'assets/book/part4/K4-230.jpg',
+  );
+  final AssetGenImage k4231 = const AssetGenImage(
+    'assets/book/part4/K4-231.jpg',
+  );
+  final AssetGenImage k4232 = const AssetGenImage(
+    'assets/book/part4/K4-232.jpg',
+  );
+  final AssetGenImage k4233 = const AssetGenImage(
+    'assets/book/part4/K4-233.jpg',
+  );
+  final AssetGenImage k4234 = const AssetGenImage(
+    'assets/book/part4/K4-234.jpg',
+  );
+  final AssetGenImage k4235 = const AssetGenImage(
+    'assets/book/part4/K4-235.jpg',
+  );
+  final AssetGenImage k4236 = const AssetGenImage(
+    'assets/book/part4/K4-236.jpg',
+  );
+  final AssetGenImage k4237 = const AssetGenImage(
+    'assets/book/part4/K4-237.jpg',
+  );
+  final AssetGenImage k4238 = const AssetGenImage(
+    'assets/book/part4/K4-238.jpg',
+  );
+  final AssetGenImage k4239 = const AssetGenImage(
+    'assets/book/part4/K4-239.jpg',
+  );
+  final AssetGenImage k4240 = const AssetGenImage(
+    'assets/book/part4/K4-240.jpg',
+  );
+  final AssetGenImage k4241 = const AssetGenImage(
+    'assets/book/part4/K4-241.jpg',
+  );
+  final AssetGenImage k4242 = const AssetGenImage(
+    'assets/book/part4/K4-242.jpg',
+  );
+  final AssetGenImage k4243 = const AssetGenImage(
+    'assets/book/part4/K4-243.jpg',
+  );
+  final AssetGenImage k4244 = const AssetGenImage(
+    'assets/book/part4/K4-244.jpg',
+  );
+  final AssetGenImage k4245 = const AssetGenImage(
+    'assets/book/part4/K4-245.jpg',
+  );
+  final AssetGenImage k4246 = const AssetGenImage(
+    'assets/book/part4/K4-246.jpg',
+  );
+  final AssetGenImage k4247 = const AssetGenImage(
+    'assets/book/part4/K4-247.jpg',
+  );
+  final AssetGenImage k4248 = const AssetGenImage(
+    'assets/book/part4/K4-248.jpg',
+  );
+  final AssetGenImage k4249 = const AssetGenImage(
+    'assets/book/part4/K4-249.jpg',
+  );
+  final AssetGenImage k4250 = const AssetGenImage(
+    'assets/book/part4/K4-250.jpg',
+  );
+  final AssetGenImage k4251 = const AssetGenImage(
+    'assets/book/part4/K4-251.jpg',
+  );
+  final AssetGenImage k4252 = const AssetGenImage(
+    'assets/book/part4/K4-252.jpg',
+  );
+  final AssetGenImage k4253 = const AssetGenImage(
+    'assets/book/part4/K4-253.jpg',
+  );
+  final AssetGenImage k4254 = const AssetGenImage(
+    'assets/book/part4/K4-254.jpg',
+  );
+  final AssetGenImage k4255 = const AssetGenImage(
+    'assets/book/part4/K4-255.jpg',
+  );
+  final AssetGenImage k4256 = const AssetGenImage(
+    'assets/book/part4/K4-256.jpg',
+  );
+  final AssetGenImage k4257 = const AssetGenImage(
+    'assets/book/part4/K4-257.jpg',
+  );
+  final AssetGenImage k4258 = const AssetGenImage(
+    'assets/book/part4/K4-258.jpg',
+  );
+  final AssetGenImage k4259 = const AssetGenImage(
+    'assets/book/part4/K4-259.jpg',
+  );
+  final AssetGenImage k4260 = const AssetGenImage(
+    'assets/book/part4/K4-260.jpg',
+  );
+  final AssetGenImage k4261 = const AssetGenImage(
+    'assets/book/part4/K4-261.jpg',
+  );
+  final AssetGenImage k4262 = const AssetGenImage(
+    'assets/book/part4/K4-262.jpg',
+  );
+  final AssetGenImage k4263 = const AssetGenImage(
+    'assets/book/part4/K4-263.jpg',
+  );
+  final AssetGenImage k4264 = const AssetGenImage(
+    'assets/book/part4/K4-264.jpg',
+  );
+  final AssetGenImage k4265 = const AssetGenImage(
+    'assets/book/part4/K4-265.jpg',
+  );
+  final AssetGenImage k4266 = const AssetGenImage(
+    'assets/book/part4/K4-266.jpg',
+  );
+  final AssetGenImage k4267 = const AssetGenImage(
+    'assets/book/part4/K4-267.jpg',
+  );
+  final AssetGenImage k4268 = const AssetGenImage(
+    'assets/book/part4/K4-268.jpg',
+  );
+  final AssetGenImage k4269 = const AssetGenImage(
+    'assets/book/part4/K4-269.jpg',
+  );
+  final AssetGenImage k4270 = const AssetGenImage(
+    'assets/book/part4/K4-270.jpg',
+  );
+  final AssetGenImage k4271 = const AssetGenImage(
+    'assets/book/part4/K4-271.jpg',
+  );
+  final AssetGenImage k4272 = const AssetGenImage(
+    'assets/book/part4/K4-272.jpg',
+  );
+  final AssetGenImage k4273 = const AssetGenImage(
+    'assets/book/part4/K4-273.jpg',
+  );
+  final AssetGenImage k4274 = const AssetGenImage(
+    'assets/book/part4/K4-274.jpg',
+  );
+  final AssetGenImage k4275 = const AssetGenImage(
+    'assets/book/part4/K4-275.jpg',
+  );
+  final AssetGenImage k4276 = const AssetGenImage(
+    'assets/book/part4/K4-276.jpg',
+  );
+  final AssetGenImage k4277 = const AssetGenImage(
+    'assets/book/part4/K4-277.jpg',
+  );
+  final AssetGenImage k4278 = const AssetGenImage(
+    'assets/book/part4/K4-278.jpg',
+  );
+  final AssetGenImage k4279 = const AssetGenImage(
+    'assets/book/part4/K4-279.jpg',
+  );
+  final AssetGenImage k4280 = const AssetGenImage(
+    'assets/book/part4/K4-280.jpg',
+  );
+  final AssetGenImage k4281 = const AssetGenImage(
+    'assets/book/part4/K4-281.jpg',
+  );
+  final AssetGenImage k4282 = const AssetGenImage(
+    'assets/book/part4/K4-282.jpg',
+  );
+  final AssetGenImage k4283 = const AssetGenImage(
+    'assets/book/part4/K4-283.jpg',
+  );
+  final AssetGenImage k4284 = const AssetGenImage(
+    'assets/book/part4/K4-284.jpg',
+  );
+  final AssetGenImage k4285 = const AssetGenImage(
+    'assets/book/part4/K4-285.jpg',
+  );
+  final AssetGenImage k4286 = const AssetGenImage(
+    'assets/book/part4/K4-286.jpg',
+  );
+  final AssetGenImage k4287 = const AssetGenImage(
+    'assets/book/part4/K4-287.jpg',
+  );
+  final AssetGenImage k4288 = const AssetGenImage(
+    'assets/book/part4/K4-288.jpg',
+  );
+  final AssetGenImage k4289 = const AssetGenImage(
+    'assets/book/part4/K4-289.jpg',
+  );
+  final AssetGenImage k4290 = const AssetGenImage(
+    'assets/book/part4/K4-290.jpg',
+  );
+  final AssetGenImage k4291 = const AssetGenImage(
+    'assets/book/part4/K4-291.jpg',
+  );
+  final AssetGenImage k4292 = const AssetGenImage(
+    'assets/book/part4/K4-292.jpg',
+  );
+  final AssetGenImage k4293 = const AssetGenImage(
+    'assets/book/part4/K4-293.jpg',
+  );
+  final AssetGenImage k4294 = const AssetGenImage(
+    'assets/book/part4/K4-294.jpg',
+  );
+  final AssetGenImage k4295 = const AssetGenImage(
+    'assets/book/part4/K4-295.jpg',
+  );
+  final AssetGenImage k4296 = const AssetGenImage(
+    'assets/book/part4/K4-296.jpg',
+  );
+  final AssetGenImage k4297 = const AssetGenImage(
+    'assets/book/part4/K4-297.jpg',
+  );
+  final AssetGenImage k4298 = const AssetGenImage(
+    'assets/book/part4/K4-298.jpg',
+  );
+  final AssetGenImage k4299 = const AssetGenImage(
+    'assets/book/part4/K4-299.jpg',
+  );
+  final AssetGenImage k4300 = const AssetGenImage(
+    'assets/book/part4/K4-300.jpg',
+  );
+  final AssetGenImage k4301 = const AssetGenImage(
+    'assets/book/part4/K4-301.jpg',
+  );
+  final AssetGenImage k4302 = const AssetGenImage(
+    'assets/book/part4/K4-302.jpg',
+  );
+  final AssetGenImage k4303 = const AssetGenImage(
+    'assets/book/part4/K4-303.jpg',
+  );
+  final AssetGenImage k4304 = const AssetGenImage(
+    'assets/book/part4/K4-304.jpg',
+  );
+  final AssetGenImage k4305 = const AssetGenImage(
+    'assets/book/part4/K4-305.jpg',
+  );
+  final AssetGenImage k4306 = const AssetGenImage(
+    'assets/book/part4/K4-306.jpg',
+  );
+  final AssetGenImage k4307 = const AssetGenImage(
+    'assets/book/part4/K4-307.jpg',
+  );
+  final AssetGenImage k4308 = const AssetGenImage(
+    'assets/book/part4/K4-308.jpg',
+  );
+  final AssetGenImage k4309 = const AssetGenImage(
+    'assets/book/part4/K4-309.jpg',
+  );
+  final AssetGenImage k4310 = const AssetGenImage(
+    'assets/book/part4/K4-310.jpg',
+  );
+  final AssetGenImage k4311 = const AssetGenImage(
+    'assets/book/part4/K4-311.jpg',
+  );
+  final AssetGenImage k4312 = const AssetGenImage(
+    'assets/book/part4/K4-312.jpg',
+  );
+  final AssetGenImage k4313 = const AssetGenImage(
+    'assets/book/part4/K4-313.jpg',
+  );
+  final AssetGenImage k4314 = const AssetGenImage(
+    'assets/book/part4/K4-314.jpg',
+  );
+  final AssetGenImage k4315 = const AssetGenImage(
+    'assets/book/part4/K4-315.jpg',
+  );
+  final AssetGenImage k4316 = const AssetGenImage(
+    'assets/book/part4/K4-316.jpg',
+  );
+  final AssetGenImage k4317 = const AssetGenImage(
+    'assets/book/part4/K4-317.jpg',
+  );
+  final AssetGenImage k4318 = const AssetGenImage(
+    'assets/book/part4/K4-318.jpg',
+  );
+  final AssetGenImage k4319 = const AssetGenImage(
+    'assets/book/part4/K4-319.jpg',
+  );
+  final AssetGenImage k4320 = const AssetGenImage(
+    'assets/book/part4/K4-320.jpg',
+  );
+  final AssetGenImage k4321 = const AssetGenImage(
+    'assets/book/part4/K4-321.jpg',
+  );
+  final AssetGenImage k4322 = const AssetGenImage(
+    'assets/book/part4/K4-322.jpg',
+  );
+  final AssetGenImage k4323 = const AssetGenImage(
+    'assets/book/part4/K4-323.jpg',
+  );
+  final AssetGenImage k4324 = const AssetGenImage(
+    'assets/book/part4/K4-324.jpg',
+  );
+  final AssetGenImage k4325 = const AssetGenImage(
+    'assets/book/part4/K4-325.jpg',
+  );
+  final AssetGenImage k4326 = const AssetGenImage(
+    'assets/book/part4/K4-326.jpg',
+  );
+  final AssetGenImage k4327 = const AssetGenImage(
+    'assets/book/part4/K4-327.jpg',
+  );
+  final AssetGenImage k4328 = const AssetGenImage(
+    'assets/book/part4/K4-328.jpg',
+  );
+  final AssetGenImage k4329 = const AssetGenImage(
+    'assets/book/part4/K4-329.jpg',
+  );
+  final AssetGenImage k4330 = const AssetGenImage(
+    'assets/book/part4/K4-330.jpg',
+  );
+  final AssetGenImage k4331 = const AssetGenImage(
+    'assets/book/part4/K4-331.jpg',
+  );
+  final AssetGenImage k4332 = const AssetGenImage(
+    'assets/book/part4/K4-332.jpg',
+  );
+  final AssetGenImage k4333 = const AssetGenImage(
+    'assets/book/part4/K4-333.jpg',
+  );
+  final AssetGenImage k4334 = const AssetGenImage(
+    'assets/book/part4/K4-334.jpg',
+  );
+  final AssetGenImage k4335 = const AssetGenImage(
+    'assets/book/part4/K4-335.jpg',
+  );
+  final AssetGenImage k4336 = const AssetGenImage(
+    'assets/book/part4/K4-336.jpg',
+  );
+  final AssetGenImage k4337 = const AssetGenImage(
+    'assets/book/part4/K4-337.jpg',
+  );
+  final AssetGenImage k4338 = const AssetGenImage(
+    'assets/book/part4/K4-338.jpg',
+  );
+  final AssetGenImage k4339 = const AssetGenImage(
+    'assets/book/part4/K4-339.jpg',
+  );
+  final AssetGenImage k4340 = const AssetGenImage(
+    'assets/book/part4/K4-340.jpg',
+  );
+  final AssetGenImage k4341 = const AssetGenImage(
+    'assets/book/part4/K4-341.jpg',
+  );
+  final AssetGenImage k4342 = const AssetGenImage(
+    'assets/book/part4/K4-342.jpg',
+  );
+  final AssetGenImage k4343 = const AssetGenImage(
+    'assets/book/part4/K4-343.jpg',
+  );
+  final AssetGenImage k4344 = const AssetGenImage(
+    'assets/book/part4/K4-344.jpg',
+  );
+  final AssetGenImage k4345 = const AssetGenImage(
+    'assets/book/part4/K4-345.jpg',
+  );
+  final AssetGenImage k4346 = const AssetGenImage(
+    'assets/book/part4/K4-346.jpg',
+  );
+  final AssetGenImage k4347 = const AssetGenImage(
+    'assets/book/part4/K4-347.jpg',
+  );
+  final AssetGenImage k4348 = const AssetGenImage(
+    'assets/book/part4/K4-348.jpg',
+  );
+  final AssetGenImage k4349 = const AssetGenImage(
+    'assets/book/part4/K4-349.jpg',
+  );
+  final AssetGenImage k4350 = const AssetGenImage(
+    'assets/book/part4/K4-350.jpg',
+  );
+  final AssetGenImage k4351 = const AssetGenImage(
+    'assets/book/part4/K4-351.jpg',
+  );
+  final AssetGenImage k4352 = const AssetGenImage(
+    'assets/book/part4/K4-352.jpg',
+  );
+  final AssetGenImage k4353 = const AssetGenImage(
+    'assets/book/part4/K4-353.jpg',
+  );
+  final AssetGenImage k4354 = const AssetGenImage(
+    'assets/book/part4/K4-354.jpg',
+  );
+  final AssetGenImage k4355 = const AssetGenImage(
+    'assets/book/part4/K4-355.jpg',
+  );
+  final AssetGenImage k4356 = const AssetGenImage(
+    'assets/book/part4/K4-356.jpg',
+  );
+  final AssetGenImage k4357 = const AssetGenImage(
+    'assets/book/part4/K4-357.jpg',
+  );
+  final AssetGenImage k4358 = const AssetGenImage(
+    'assets/book/part4/K4-358.jpg',
+  );
+  final AssetGenImage k4359 = const AssetGenImage(
+    'assets/book/part4/K4-359.jpg',
+  );
+  final AssetGenImage k4360 = const AssetGenImage(
+    'assets/book/part4/K4-360.jpg',
+  );
+  final AssetGenImage k4361 = const AssetGenImage(
+    'assets/book/part4/K4-361.jpg',
+  );
+  final AssetGenImage k4362 = const AssetGenImage(
+    'assets/book/part4/K4-362.jpg',
+  );
+  final AssetGenImage k4363 = const AssetGenImage(
+    'assets/book/part4/K4-363.jpg',
+  );
+  final AssetGenImage k4364 = const AssetGenImage(
+    'assets/book/part4/K4-364.jpg',
+  );
+  final AssetGenImage k4365 = const AssetGenImage(
+    'assets/book/part4/K4-365.jpg',
+  );
+  final AssetGenImage k4366 = const AssetGenImage(
+    'assets/book/part4/K4-366.jpg',
+  );
+  final AssetGenImage k4367 = const AssetGenImage(
+    'assets/book/part4/K4-367.jpg',
+  );
+  final AssetGenImage k4368 = const AssetGenImage(
+    'assets/book/part4/K4-368.jpg',
+  );
+  final AssetGenImage k4369 = const AssetGenImage(
+    'assets/book/part4/K4-369.jpg',
+  );
+  final AssetGenImage k4370 = const AssetGenImage(
+    'assets/book/part4/K4-370.jpg',
+  );
+  final AssetGenImage k4371 = const AssetGenImage(
+    'assets/book/part4/K4-371.jpg',
+  );
+  final AssetGenImage k4372 = const AssetGenImage(
+    'assets/book/part4/K4-372.jpg',
+  );
+  final AssetGenImage k4373 = const AssetGenImage(
+    'assets/book/part4/K4-373.jpg',
+  );
+  final AssetGenImage k4374 = const AssetGenImage(
+    'assets/book/part4/K4-374.jpg',
+  );
+  final AssetGenImage k4375 = const AssetGenImage(
+    'assets/book/part4/K4-375.jpg',
+  );
+  final AssetGenImage k4376 = const AssetGenImage(
+    'assets/book/part4/K4-376.jpg',
+  );
+  final AssetGenImage k4377 = const AssetGenImage(
+    'assets/book/part4/K4-377.jpg',
+  );
+  final AssetGenImage k4378 = const AssetGenImage(
+    'assets/book/part4/K4-378.jpg',
+  );
+  final AssetGenImage k4379 = const AssetGenImage(
+    'assets/book/part4/K4-379.jpg',
+  );
+  final AssetGenImage k4380 = const AssetGenImage(
+    'assets/book/part4/K4-380.jpg',
+  );
+  final AssetGenImage k4381 = const AssetGenImage(
+    'assets/book/part4/K4-381.jpg',
+  );
+  final AssetGenImage k4382 = const AssetGenImage(
+    'assets/book/part4/K4-382.jpg',
+  );
+  final AssetGenImage k4383 = const AssetGenImage(
+    'assets/book/part4/K4-383.jpg',
+  );
+  final AssetGenImage k4384 = const AssetGenImage(
+    'assets/book/part4/K4-384.jpg',
+  );
+  final AssetGenImage k4385 = const AssetGenImage(
+    'assets/book/part4/K4-385.jpg',
+  );
+  final AssetGenImage k4386 = const AssetGenImage(
+    'assets/book/part4/K4-386.jpg',
+  );
+  final AssetGenImage k4387 = const AssetGenImage(
+    'assets/book/part4/K4-387.jpg',
+  );
+  final AssetGenImage k4388 = const AssetGenImage(
+    'assets/book/part4/K4-388.jpg',
+  );
+  final AssetGenImage k4389 = const AssetGenImage(
+    'assets/book/part4/K4-389.jpg',
+  );
+  final AssetGenImage k4390 = const AssetGenImage(
+    'assets/book/part4/K4-390.jpg',
+  );
+  final AssetGenImage k4391 = const AssetGenImage(
+    'assets/book/part4/K4-391.jpg',
+  );
+  final AssetGenImage k4392 = const AssetGenImage(
+    'assets/book/part4/K4-392.jpg',
+  );
+  final AssetGenImage k4393 = const AssetGenImage(
+    'assets/book/part4/K4-393.jpg',
+  );
+  final AssetGenImage k4394 = const AssetGenImage(
+    'assets/book/part4/K4-394.jpg',
+  );
+  final AssetGenImage k4395 = const AssetGenImage(
+    'assets/book/part4/K4-395.jpg',
+  );
+  final AssetGenImage k4396 = const AssetGenImage(
+    'assets/book/part4/K4-396.jpg',
+  );
+  final AssetGenImage k4397 = const AssetGenImage(
+    'assets/book/part4/K4-397.jpg',
+  );
+  final AssetGenImage k4398 = const AssetGenImage(
+    'assets/book/part4/K4-398.jpg',
+  );
+  final AssetGenImage k4399 = const AssetGenImage(
+    'assets/book/part4/K4-399.jpg',
+  );
+  final AssetGenImage k4400 = const AssetGenImage(
+    'assets/book/part4/K4-400.jpg',
+  );
+  final AssetGenImage k4401 = const AssetGenImage(
+    'assets/book/part4/K4-401.jpg',
+  );
+  final AssetGenImage k4402 = const AssetGenImage(
+    'assets/book/part4/K4-402.jpg',
+  );
+  final AssetGenImage k4403 = const AssetGenImage(
+    'assets/book/part4/K4-403.jpg',
+  );
+  final AssetGenImage k4404 = const AssetGenImage(
+    'assets/book/part4/K4-404.jpg',
+  );
+  final AssetGenImage k4405 = const AssetGenImage(
+    'assets/book/part4/K4-405.jpg',
+  );
+  final AssetGenImage k4406 = const AssetGenImage(
+    'assets/book/part4/K4-406.jpg',
+  );
+  final AssetGenImage k4407 = const AssetGenImage(
+    'assets/book/part4/K4-407.jpg',
+  );
+  final AssetGenImage k4408 = const AssetGenImage(
+    'assets/book/part4/K4-408.jpg',
+  );
+  final AssetGenImage k4409 = const AssetGenImage(
+    'assets/book/part4/K4-409.jpg',
+  );
+  final AssetGenImage k4410 = const AssetGenImage(
+    'assets/book/part4/K4-410.jpg',
+  );
+  final AssetGenImage k4411 = const AssetGenImage(
+    'assets/book/part4/K4-411.jpg',
+  );
+  final AssetGenImage k4412 = const AssetGenImage(
+    'assets/book/part4/K4-412.jpg',
+  );
+  final AssetGenImage k4413 = const AssetGenImage(
+    'assets/book/part4/K4-413.jpg',
+  );
+  final AssetGenImage k4414 = const AssetGenImage(
+    'assets/book/part4/K4-414.jpg',
+  );
+  final AssetGenImage k4415 = const AssetGenImage(
+    'assets/book/part4/K4-415.jpg',
+  );
+  final AssetGenImage k4416 = const AssetGenImage(
+    'assets/book/part4/K4-416.jpg',
+  );
+  final AssetGenImage k4417 = const AssetGenImage(
+    'assets/book/part4/K4-417.jpg',
+  );
+  final AssetGenImage k4418 = const AssetGenImage(
+    'assets/book/part4/K4-418.jpg',
+  );
+  final AssetGenImage k4419 = const AssetGenImage(
+    'assets/book/part4/K4-419.jpg',
+  );
+  final AssetGenImage k4420 = const AssetGenImage(
+    'assets/book/part4/K4-420.jpg',
+  );
+  final AssetGenImage k4421 = const AssetGenImage(
+    'assets/book/part4/K4-421.jpg',
+  );
+  final AssetGenImage k4422 = const AssetGenImage(
+    'assets/book/part4/K4-422.jpg',
+  );
+  final AssetGenImage k4423 = const AssetGenImage(
+    'assets/book/part4/K4-423.jpg',
+  );
+  final AssetGenImage k4424 = const AssetGenImage(
+    'assets/book/part4/K4-424.jpg',
+  );
+  final AssetGenImage k4425 = const AssetGenImage(
+    'assets/book/part4/K4-425.jpg',
+  );
+  final AssetGenImage k4426 = const AssetGenImage(
+    'assets/book/part4/K4-426.jpg',
+  );
+  final AssetGenImage k4427 = const AssetGenImage(
+    'assets/book/part4/K4-427.jpg',
+  );
+  final AssetGenImage k4428 = const AssetGenImage(
+    'assets/book/part4/K4-428.jpg',
+  );
+  final AssetGenImage k4429 = const AssetGenImage(
+    'assets/book/part4/K4-429.jpg',
+  );
+  final AssetGenImage k4430 = const AssetGenImage(
+    'assets/book/part4/K4-430.jpg',
+  );
+  final AssetGenImage k4431 = const AssetGenImage(
+    'assets/book/part4/K4-431.jpg',
+  );
+  final AssetGenImage k4432 = const AssetGenImage(
+    'assets/book/part4/K4-432.jpg',
+  );
+  final AssetGenImage k4433 = const AssetGenImage(
+    'assets/book/part4/K4-433.jpg',
+  );
+  final AssetGenImage k4434 = const AssetGenImage(
+    'assets/book/part4/K4-434.jpg',
+  );
+  final AssetGenImage k4435 = const AssetGenImage(
+    'assets/book/part4/K4-435.jpg',
+  );
+  final AssetGenImage k4436 = const AssetGenImage(
+    'assets/book/part4/K4-436.jpg',
+  );
+  final AssetGenImage k4437 = const AssetGenImage(
+    'assets/book/part4/K4-437.jpg',
+  );
+  final AssetGenImage k4438 = const AssetGenImage(
+    'assets/book/part4/K4-438.jpg',
+  );
+  final AssetGenImage k4439 = const AssetGenImage(
+    'assets/book/part4/K4-439.jpg',
+  );
+  final AssetGenImage k4440 = const AssetGenImage(
+    'assets/book/part4/K4-440.jpg',
+  );
+  final AssetGenImage k4441 = const AssetGenImage(
+    'assets/book/part4/K4-441.jpg',
+  );
+  final AssetGenImage k4442 = const AssetGenImage(
+    'assets/book/part4/K4-442.jpg',
+  );
+  final AssetGenImage k4443 = const AssetGenImage(
+    'assets/book/part4/K4-443.jpg',
+  );
+  final AssetGenImage k4444 = const AssetGenImage(
+    'assets/book/part4/K4-444.jpg',
+  );
+  final AssetGenImage k4445 = const AssetGenImage(
+    'assets/book/part4/K4-445.jpg',
+  );
+  final AssetGenImage k4446 = const AssetGenImage(
+    'assets/book/part4/K4-446.jpg',
+  );
+  final AssetGenImage k4447 = const AssetGenImage(
+    'assets/book/part4/K4-447.jpg',
+  );
+  final AssetGenImage k4448 = const AssetGenImage(
+    'assets/book/part4/K4-448.jpg',
+  );
+  final AssetGenImage k4449 = const AssetGenImage(
+    'assets/book/part4/K4-449.jpg',
+  );
+  final AssetGenImage k4450 = const AssetGenImage(
+    'assets/book/part4/K4-450.jpg',
+  );
+  final AssetGenImage k4451 = const AssetGenImage(
+    'assets/book/part4/K4-451.jpg',
+  );
+  final AssetGenImage k4452 = const AssetGenImage(
+    'assets/book/part4/K4-452.jpg',
+  );
+  final AssetGenImage k4453 = const AssetGenImage(
+    'assets/book/part4/K4-453.jpg',
+  );
+  final AssetGenImage k4454 = const AssetGenImage(
+    'assets/book/part4/K4-454.jpg',
+  );
+  final AssetGenImage k4455 = const AssetGenImage(
+    'assets/book/part4/K4-455.jpg',
+  );
+  final AssetGenImage k4456 = const AssetGenImage(
+    'assets/book/part4/K4-456.jpg',
+  );
+  final AssetGenImage k4457 = const AssetGenImage(
+    'assets/book/part4/K4-457.jpg',
+  );
+  final AssetGenImage k4458 = const AssetGenImage(
+    'assets/book/part4/K4-458.jpg',
+  );
+  final AssetGenImage k4459 = const AssetGenImage(
+    'assets/book/part4/K4-459.jpg',
+  );
+  final AssetGenImage k4460 = const AssetGenImage(
+    'assets/book/part4/K4-460.jpg',
+  );
+  final AssetGenImage k4461 = const AssetGenImage(
+    'assets/book/part4/K4-461.jpg',
+  );
+  final AssetGenImage k4462 = const AssetGenImage(
+    'assets/book/part4/K4-462.jpg',
+  );
+  final AssetGenImage k4463 = const AssetGenImage(
+    'assets/book/part4/K4-463.jpg',
+  );
+  final AssetGenImage k4464 = const AssetGenImage(
+    'assets/book/part4/K4-464.jpg',
+  );
+  final AssetGenImage k4465 = const AssetGenImage(
+    'assets/book/part4/K4-465.jpg',
+  );
+  final AssetGenImage k4466 = const AssetGenImage(
+    'assets/book/part4/K4-466.jpg',
+  );
+  final AssetGenImage k4467 = const AssetGenImage(
+    'assets/book/part4/K4-467.jpg',
+  );
+  final AssetGenImage k4468 = const AssetGenImage(
+    'assets/book/part4/K4-468.jpg',
+  );
+  final AssetGenImage k4469 = const AssetGenImage(
+    'assets/book/part4/K4-469.jpg',
+  );
+  final AssetGenImage k4470 = const AssetGenImage(
+    'assets/book/part4/K4-470.jpg',
+  );
+  final AssetGenImage k4471 = const AssetGenImage(
+    'assets/book/part4/K4-471.jpg',
+  );
+  final AssetGenImage k4472 = const AssetGenImage(
+    'assets/book/part4/K4-472.jpg',
+  );
+  final AssetGenImage k4473 = const AssetGenImage(
+    'assets/book/part4/K4-473.jpg',
+  );
+  final AssetGenImage k4474 = const AssetGenImage(
+    'assets/book/part4/K4-474.jpg',
+  );
+  final AssetGenImage k4475 = const AssetGenImage(
+    'assets/book/part4/K4-475.jpg',
+  );
+  final AssetGenImage k4476 = const AssetGenImage(
+    'assets/book/part4/K4-476.jpg',
+  );
+  final AssetGenImage k4477 = const AssetGenImage(
+    'assets/book/part4/K4-477.jpg',
+  );
+  final AssetGenImage k4478 = const AssetGenImage(
+    'assets/book/part4/K4-478.jpg',
+  );
+  final AssetGenImage k4479 = const AssetGenImage(
+    'assets/book/part4/K4-479.jpg',
+  );
+  final AssetGenImage k4480 = const AssetGenImage(
+    'assets/book/part4/K4-480.jpg',
+  );
+  final AssetGenImage k4481 = const AssetGenImage(
+    'assets/book/part4/K4-481.jpg',
+  );
+  final AssetGenImage k4482 = const AssetGenImage(
+    'assets/book/part4/K4-482.jpg',
+  );
+  final AssetGenImage k4483 = const AssetGenImage(
+    'assets/book/part4/K4-483.jpg',
+  );
+  final AssetGenImage k4484 = const AssetGenImage(
+    'assets/book/part4/K4-484.jpg',
+  );
+  final AssetGenImage k4485 = const AssetGenImage(
+    'assets/book/part4/K4-485.jpg',
+  );
+  final AssetGenImage k4486 = const AssetGenImage(
+    'assets/book/part4/K4-486.jpg',
+  );
+  final AssetGenImage k4487 = const AssetGenImage(
+    'assets/book/part4/K4-487.jpg',
+  );
+  final AssetGenImage k4488 = const AssetGenImage(
+    'assets/book/part4/K4-488.jpg',
+  );
+  final AssetGenImage k4489 = const AssetGenImage(
+    'assets/book/part4/K4-489.jpg',
+  );
+  final AssetGenImage k4490 = const AssetGenImage(
+    'assets/book/part4/K4-490.jpg',
+  );
+  final AssetGenImage k4491 = const AssetGenImage(
+    'assets/book/part4/K4-491.jpg',
+  );
+  final AssetGenImage k4492 = const AssetGenImage(
+    'assets/book/part4/K4-492.jpg',
+  );
+  final AssetGenImage k4493 = const AssetGenImage(
+    'assets/book/part4/K4-493.jpg',
+  );
+  final AssetGenImage k4494 = const AssetGenImage(
+    'assets/book/part4/K4-494.jpg',
+  );
+  final AssetGenImage k4495 = const AssetGenImage(
+    'assets/book/part4/K4-495.jpg',
+  );
+  final AssetGenImage k4496 = const AssetGenImage(
+    'assets/book/part4/K4-496.jpg',
+  );
+  final AssetGenImage k4497 = const AssetGenImage(
+    'assets/book/part4/K4-497.jpg',
+  );
+  final AssetGenImage k4498 = const AssetGenImage(
+    'assets/book/part4/K4-498.jpg',
+  );
+  final AssetGenImage k4499 = const AssetGenImage(
+    'assets/book/part4/K4-499.jpg',
+  );
+  final AssetGenImage k4500 = const AssetGenImage(
+    'assets/book/part4/K4-500.jpg',
+  );
+  final AssetGenImage k4501 = const AssetGenImage(
+    'assets/book/part4/K4-501.jpg',
+  );
+  final AssetGenImage k4502 = const AssetGenImage(
+    'assets/book/part4/K4-502.jpg',
+  );
+  final AssetGenImage k4503 = const AssetGenImage(
+    'assets/book/part4/K4-503.jpg',
+  );
+  final AssetGenImage k4504 = const AssetGenImage(
+    'assets/book/part4/K4-504.jpg',
+  );
+  final AssetGenImage k4505 = const AssetGenImage(
+    'assets/book/part4/K4-505.jpg',
+  );
+  final AssetGenImage k4506 = const AssetGenImage(
+    'assets/book/part4/K4-506.jpg',
+  );
+  final AssetGenImage k4507 = const AssetGenImage(
+    'assets/book/part4/K4-507.jpg',
+  );
+  final AssetGenImage k4508 = const AssetGenImage(
+    'assets/book/part4/K4-508.jpg',
+  );
+  final AssetGenImage k4509 = const AssetGenImage(
+    'assets/book/part4/K4-509.jpg',
+  );
+  final AssetGenImage k4510 = const AssetGenImage(
+    'assets/book/part4/K4-510.jpg',
+  );
+  final AssetGenImage k4511 = const AssetGenImage(
+    'assets/book/part4/K4-511.jpg',
+  );
+  final AssetGenImage k4512 = const AssetGenImage(
+    'assets/book/part4/K4-512.jpg',
+  );
+  final AssetGenImage k4513 = const AssetGenImage(
+    'assets/book/part4/K4-513.jpg',
+  );
+  final AssetGenImage k4514 = const AssetGenImage(
+    'assets/book/part4/K4-514.jpg',
+  );
+  final AssetGenImage k4515 = const AssetGenImage(
+    'assets/book/part4/K4-515.jpg',
+  );
+  final AssetGenImage k4516 = const AssetGenImage(
+    'assets/book/part4/K4-516.jpg',
+  );
+  final AssetGenImage k4517 = const AssetGenImage(
+    'assets/book/part4/K4-517.jpg',
+  );
+  final AssetGenImage k4518 = const AssetGenImage(
+    'assets/book/part4/K4-518.jpg',
+  );
+  final AssetGenImage k4519 = const AssetGenImage(
+    'assets/book/part4/K4-519.jpg',
+  );
+  final AssetGenImage k4520 = const AssetGenImage(
+    'assets/book/part4/K4-520.jpg',
+  );
+  final AssetGenImage k4521 = const AssetGenImage(
+    'assets/book/part4/K4-521.jpg',
+  );
+  final AssetGenImage k4522 = const AssetGenImage(
+    'assets/book/part4/K4-522.jpg',
+  );
+  final AssetGenImage k4523 = const AssetGenImage(
+    'assets/book/part4/K4-523.jpg',
+  );
+  final AssetGenImage k4524 = const AssetGenImage(
+    'assets/book/part4/K4-524.jpg',
+  );
+  final AssetGenImage k4525 = const AssetGenImage(
+    'assets/book/part4/K4-525.jpg',
+  );
+  final AssetGenImage k4526 = const AssetGenImage(
+    'assets/book/part4/K4-526.jpg',
+  );
+  final AssetGenImage k4527 = const AssetGenImage(
+    'assets/book/part4/K4-527.jpg',
+  );
+  final AssetGenImage k4528 = const AssetGenImage(
+    'assets/book/part4/K4-528.jpg',
+  );
+  final AssetGenImage k4529 = const AssetGenImage(
+    'assets/book/part4/K4-529.jpg',
+  );
+  final AssetGenImage k4530 = const AssetGenImage(
+    'assets/book/part4/K4-530.jpg',
+  );
+  final AssetGenImage k4531 = const AssetGenImage(
+    'assets/book/part4/K4-531.jpg',
+  );
+  final AssetGenImage k4532 = const AssetGenImage(
+    'assets/book/part4/K4-532.jpg',
+  );
+  final AssetGenImage k4533 = const AssetGenImage(
+    'assets/book/part4/K4-533.jpg',
+  );
+  final AssetGenImage k4534 = const AssetGenImage(
+    'assets/book/part4/K4-534.jpg',
+  );
+  final AssetGenImage k4535 = const AssetGenImage(
+    'assets/book/part4/K4-535.jpg',
+  );
+  final AssetGenImage k4536 = const AssetGenImage(
+    'assets/book/part4/K4-536.jpg',
+  );
+  final AssetGenImage k4537 = const AssetGenImage(
+    'assets/book/part4/K4-537.jpg',
+  );
+  final AssetGenImage k4538 = const AssetGenImage(
+    'assets/book/part4/K4-538.jpg',
+  );
+  final AssetGenImage k4539 = const AssetGenImage(
+    'assets/book/part4/K4-539.jpg',
+  );
+  final AssetGenImage k4540 = const AssetGenImage(
+    'assets/book/part4/K4-540.jpg',
+  );
+  final AssetGenImage k4541 = const AssetGenImage(
+    'assets/book/part4/K4-541.jpg',
+  );
+  final AssetGenImage k4542 = const AssetGenImage(
+    'assets/book/part4/K4-542.jpg',
+  );
+  final AssetGenImage k4543 = const AssetGenImage(
+    'assets/book/part4/K4-543.jpg',
+  );
+  final AssetGenImage k4544 = const AssetGenImage(
+    'assets/book/part4/K4-544.jpg',
+  );
+  final AssetGenImage k4545 = const AssetGenImage(
+    'assets/book/part4/K4-545.jpg',
+  );
+  final AssetGenImage k4546 = const AssetGenImage(
+    'assets/book/part4/K4-546.jpg',
+  );
+  final AssetGenImage k4547 = const AssetGenImage(
+    'assets/book/part4/K4-547.jpg',
+  );
+  final AssetGenImage k4548 = const AssetGenImage(
+    'assets/book/part4/K4-548.jpg',
+  );
+  final AssetGenImage k4549 = const AssetGenImage(
+    'assets/book/part4/K4-549.jpg',
+  );
+  final AssetGenImage k4550 = const AssetGenImage(
+    'assets/book/part4/K4-550.jpg',
+  );
+  final AssetGenImage k4551 = const AssetGenImage(
+    'assets/book/part4/K4-551.jpg',
+  );
+  final AssetGenImage k4552 = const AssetGenImage(
+    'assets/book/part4/K4-552.jpg',
+  );
+  final AssetGenImage k4553 = const AssetGenImage(
+    'assets/book/part4/K4-553.jpg',
+  );
+  final AssetGenImage k4554 = const AssetGenImage(
+    'assets/book/part4/K4-554.jpg',
+  );
+  final AssetGenImage k4555 = const AssetGenImage(
+    'assets/book/part4/K4-555.jpg',
+  );
+  final AssetGenImage k4556 = const AssetGenImage(
+    'assets/book/part4/K4-556.jpg',
+  );
+  final AssetGenImage k4557 = const AssetGenImage(
+    'assets/book/part4/K4-557.jpg',
+  );
+  final AssetGenImage k4558 = const AssetGenImage(
+    'assets/book/part4/K4-558.jpg',
+  );
+  final AssetGenImage k4559 = const AssetGenImage(
+    'assets/book/part4/K4-559.jpg',
+  );
+  final AssetGenImage k4560 = const AssetGenImage(
+    'assets/book/part4/K4-560.jpg',
+  );
+  final AssetGenImage k4561 = const AssetGenImage(
+    'assets/book/part4/K4-561.jpg',
+  );
+  final AssetGenImage k4562 = const AssetGenImage(
+    'assets/book/part4/K4-562.jpg',
+  );
+  final AssetGenImage k4563 = const AssetGenImage(
+    'assets/book/part4/K4-563.jpg',
+  );
+  final AssetGenImage k4564 = const AssetGenImage(
+    'assets/book/part4/K4-564.jpg',
+  );
+  final AssetGenImage k4565 = const AssetGenImage(
+    'assets/book/part4/K4-565.jpg',
+  );
+  final AssetGenImage k4566 = const AssetGenImage(
+    'assets/book/part4/K4-566.jpg',
+  );
+  final AssetGenImage k4567 = const AssetGenImage(
+    'assets/book/part4/K4-567.jpg',
+  );
+  final AssetGenImage k4568 = const AssetGenImage(
+    'assets/book/part4/K4-568.jpg',
+  );
+  final AssetGenImage k4569 = const AssetGenImage(
+    'assets/book/part4/K4-569.jpg',
+  );
+  final AssetGenImage k4570 = const AssetGenImage(
+    'assets/book/part4/K4-570.jpg',
+  );
+  final AssetGenImage k4571 = const AssetGenImage(
+    'assets/book/part4/K4-571.jpg',
+  );
+  final AssetGenImage k4572 = const AssetGenImage(
+    'assets/book/part4/K4-572.jpg',
+  );
+  final AssetGenImage k4573 = const AssetGenImage(
+    'assets/book/part4/K4-573.jpg',
+  );
+  final AssetGenImage k4574 = const AssetGenImage(
+    'assets/book/part4/K4-574.jpg',
+  );
+  final AssetGenImage k4575 = const AssetGenImage(
+    'assets/book/part4/K4-575.jpg',
+  );
+  final AssetGenImage k4576 = const AssetGenImage(
+    'assets/book/part4/K4-576.jpg',
+  );
+  final AssetGenImage k4577 = const AssetGenImage(
+    'assets/book/part4/K4-577.jpg',
+  );
+  final AssetGenImage k4578 = const AssetGenImage(
+    'assets/book/part4/K4-578.jpg',
+  );
+  final AssetGenImage k4579 = const AssetGenImage(
+    'assets/book/part4/K4-579.jpg',
+  );
+  final AssetGenImage k4580 = const AssetGenImage(
+    'assets/book/part4/K4-580.jpg',
+  );
+  final AssetGenImage k4581 = const AssetGenImage(
+    'assets/book/part4/K4-581.jpg',
+  );
+  final AssetGenImage k4582 = const AssetGenImage(
+    'assets/book/part4/K4-582.jpg',
+  );
+  final AssetGenImage k4583 = const AssetGenImage(
+    'assets/book/part4/K4-583.jpg',
+  );
+  final AssetGenImage k4584 = const AssetGenImage(
+    'assets/book/part4/K4-584.jpg',
+  );
+  final AssetGenImage k4585 = const AssetGenImage(
+    'assets/book/part4/K4-585.jpg',
+  );
+  final AssetGenImage k4586 = const AssetGenImage(
+    'assets/book/part4/K4-586.jpg',
+  );
+  final AssetGenImage k4587 = const AssetGenImage(
+    'assets/book/part4/K4-587.jpg',
+  );
+  final AssetGenImage k4588 = const AssetGenImage(
+    'assets/book/part4/K4-588.jpg',
+  );
+  final AssetGenImage k4589 = const AssetGenImage(
+    'assets/book/part4/K4-589.jpg',
+  );
+  final AssetGenImage k4590 = const AssetGenImage(
+    'assets/book/part4/K4-590.jpg',
+  );
+  final AssetGenImage k4591 = const AssetGenImage(
+    'assets/book/part4/K4-591.jpg',
+  );
+  final AssetGenImage k4592 = const AssetGenImage(
+    'assets/book/part4/K4-592.jpg',
+  );
+  final AssetGenImage k4593 = const AssetGenImage(
+    'assets/book/part4/K4-593.jpg',
+  );
+  final AssetGenImage k4594 = const AssetGenImage(
+    'assets/book/part4/K4-594.jpg',
+  );
+  final AssetGenImage k4595 = const AssetGenImage(
+    'assets/book/part4/K4-595.jpg',
+  );
+  final AssetGenImage k4596 = const AssetGenImage(
+    'assets/book/part4/K4-596.jpg',
+  );
+  final AssetGenImage k4597 = const AssetGenImage(
+    'assets/book/part4/K4-597.jpg',
+  );
+  final AssetGenImage k4598 = const AssetGenImage(
+    'assets/book/part4/K4-598.jpg',
+  );
+  final AssetGenImage k4599 = const AssetGenImage(
+    'assets/book/part4/K4-599.jpg',
+  );
+  final AssetGenImage k4600 = const AssetGenImage(
+    'assets/book/part4/K4-600.jpg',
+  );
+  final AssetGenImage k4601 = const AssetGenImage(
+    'assets/book/part4/K4-601.jpg',
+  );
+  final AssetGenImage k4602 = const AssetGenImage(
+    'assets/book/part4/K4-602.jpg',
+  );
+  final AssetGenImage k4603 = const AssetGenImage(
+    'assets/book/part4/K4-603.jpg',
+  );
+  final AssetGenImage k4604 = const AssetGenImage(
+    'assets/book/part4/K4-604.jpg',
+  );
+  final AssetGenImage k4605 = const AssetGenImage(
+    'assets/book/part4/K4-605.jpg',
+  );
+  final AssetGenImage k4606 = const AssetGenImage(
+    'assets/book/part4/K4-606.jpg',
+  );
+  final AssetGenImage k4607 = const AssetGenImage(
+    'assets/book/part4/K4-607.jpg',
+  );
+  final AssetGenImage k4608 = const AssetGenImage(
+    'assets/book/part4/K4-608.jpg',
+  );
+  final AssetGenImage k4609 = const AssetGenImage(
+    'assets/book/part4/K4-609.jpg',
+  );
+  final AssetGenImage k4610 = const AssetGenImage(
+    'assets/book/part4/K4-610.jpg',
+  );
+  final AssetGenImage k4611 = const AssetGenImage(
+    'assets/book/part4/K4-611.jpg',
+  );
+  final AssetGenImage k4612 = const AssetGenImage(
+    'assets/book/part4/K4-612.jpg',
+  );
+  final AssetGenImage k4613 = const AssetGenImage(
+    'assets/book/part4/K4-613.jpg',
+  );
+  final AssetGenImage k4614 = const AssetGenImage(
+    'assets/book/part4/K4-614.jpg',
+  );
+  final AssetGenImage k4615 = const AssetGenImage(
+    'assets/book/part4/K4-615.jpg',
+  );
+  final AssetGenImage k4616 = const AssetGenImage(
+    'assets/book/part4/K4-616.jpg',
+  );
+  final AssetGenImage k4617 = const AssetGenImage(
+    'assets/book/part4/K4-617.jpg',
+  );
+  final AssetGenImage k4618 = const AssetGenImage(
+    'assets/book/part4/K4-618.jpg',
+  );
+  final AssetGenImage k4619 = const AssetGenImage(
+    'assets/book/part4/K4-619.jpg',
+  );
+  final AssetGenImage k4620 = const AssetGenImage(
+    'assets/book/part4/K4-620.jpg',
+  );
+  final AssetGenImage k4621 = const AssetGenImage(
+    'assets/book/part4/K4-621.jpg',
+  );
+  final AssetGenImage k4622 = const AssetGenImage(
+    'assets/book/part4/K4-622.jpg',
+  );
+  final AssetGenImage k4623 = const AssetGenImage(
+    'assets/book/part4/K4-623.jpg',
+  );
+  final AssetGenImage k4624 = const AssetGenImage(
+    'assets/book/part4/K4-624.jpg',
+  );
+  final AssetGenImage k4625 = const AssetGenImage(
+    'assets/book/part4/K4-625.jpg',
+  );
+  final AssetGenImage k4626 = const AssetGenImage(
+    'assets/book/part4/K4-626.jpg',
+  );
+  final AssetGenImage k4627 = const AssetGenImage(
+    'assets/book/part4/K4-627.jpg',
+  );
+  final AssetGenImage k4628 = const AssetGenImage(
+    'assets/book/part4/K4-628.jpg',
+  );
+  final AssetGenImage k4629 = const AssetGenImage(
+    'assets/book/part4/K4-629.jpg',
+  );
+  final AssetGenImage k4630 = const AssetGenImage(
+    'assets/book/part4/K4-630.jpg',
+  );
+  final AssetGenImage k4631 = const AssetGenImage(
+    'assets/book/part4/K4-631.jpg',
+  );
+  final AssetGenImage k4632 = const AssetGenImage(
+    'assets/book/part4/K4-632.jpg',
+  );
+  final AssetGenImage k4633 = const AssetGenImage(
+    'assets/book/part4/K4-633.jpg',
+  );
+  final AssetGenImage k4634 = const AssetGenImage(
+    'assets/book/part4/K4-634.jpg',
+  );
+  final AssetGenImage k4635 = const AssetGenImage(
+    'assets/book/part4/K4-635.jpg',
+  );
+  final AssetGenImage k4636 = const AssetGenImage(
+    'assets/book/part4/K4-636.jpg',
+  );
+  final AssetGenImage k4637 = const AssetGenImage(
+    'assets/book/part4/K4-637.jpg',
+  );
+  final AssetGenImage k4638 = const AssetGenImage(
+    'assets/book/part4/K4-638.jpg',
+  );
+  final AssetGenImage k4639 = const AssetGenImage(
+    'assets/book/part4/K4-639.jpg',
+  );
+  final AssetGenImage k4640 = const AssetGenImage(
+    'assets/book/part4/K4-640.jpg',
+  );
+  final AssetGenImage k4641 = const AssetGenImage(
+    'assets/book/part4/K4-641.jpg',
+  );
+  final AssetGenImage k4642 = const AssetGenImage(
+    'assets/book/part4/K4-642.jpg',
+  );
+  final AssetGenImage k4643 = const AssetGenImage(
+    'assets/book/part4/K4-643.jpg',
+  );
+  final AssetGenImage k4644 = const AssetGenImage(
+    'assets/book/part4/K4-644.jpg',
+  );
+  final AssetGenImage k4645 = const AssetGenImage(
+    'assets/book/part4/K4-645.jpg',
+  );
+  final AssetGenImage k4646 = const AssetGenImage(
+    'assets/book/part4/K4-646.jpg',
+  );
+  final AssetGenImage k4647 = const AssetGenImage(
+    'assets/book/part4/K4-647.jpg',
+  );
+  final AssetGenImage k4648 = const AssetGenImage(
+    'assets/book/part4/K4-648.jpg',
+  );
+  final AssetGenImage k4649 = const AssetGenImage(
+    'assets/book/part4/K4-649.jpg',
+  );
+  final AssetGenImage k4650 = const AssetGenImage(
+    'assets/book/part4/K4-650.jpg',
+  );
+  final AssetGenImage k4651 = const AssetGenImage(
+    'assets/book/part4/K4-651.jpg',
+  );
+  final AssetGenImage k4652 = const AssetGenImage(
+    'assets/book/part4/K4-652.jpg',
+  );
+  final AssetGenImage k4653 = const AssetGenImage(
+    'assets/book/part4/K4-653.jpg',
+  );
+  final AssetGenImage k4654 = const AssetGenImage(
+    'assets/book/part4/K4-654.jpg',
+  );
+  final AssetGenImage k4655 = const AssetGenImage(
+    'assets/book/part4/K4-655.jpg',
+  );
+  final AssetGenImage k4656 = const AssetGenImage(
+    'assets/book/part4/K4-656.jpg',
+  );
+  final AssetGenImage k4657 = const AssetGenImage(
+    'assets/book/part4/K4-657.jpg',
+  );
+  final AssetGenImage k4658 = const AssetGenImage(
+    'assets/book/part4/K4-658.jpg',
+  );
+  final AssetGenImage k4659 = const AssetGenImage(
+    'assets/book/part4/K4-659.jpg',
+  );
+  final AssetGenImage k4660 = const AssetGenImage(
+    'assets/book/part4/K4-660.jpg',
+  );
+  final AssetGenImage k4661 = const AssetGenImage(
+    'assets/book/part4/K4-661.jpg',
+  );
+  final AssetGenImage k4662 = const AssetGenImage(
+    'assets/book/part4/K4-662.jpg',
+  );
+  final AssetGenImage k4663 = const AssetGenImage(
+    'assets/book/part4/K4-663.jpg',
+  );
+  final AssetGenImage k4664 = const AssetGenImage(
+    'assets/book/part4/K4-664.jpg',
+  );
+  final AssetGenImage k4665 = const AssetGenImage(
+    'assets/book/part4/K4-665.jpg',
+  );
+  final AssetGenImage k4666 = const AssetGenImage(
+    'assets/book/part4/K4-666.jpg',
+  );
+  final AssetGenImage k4667 = const AssetGenImage(
+    'assets/book/part4/K4-667.jpg',
+  );
+  final AssetGenImage k4668 = const AssetGenImage(
+    'assets/book/part4/K4-668.jpg',
+  );
+  final AssetGenImage k4669 = const AssetGenImage(
+    'assets/book/part4/K4-669.jpg',
+  );
+  final AssetGenImage k4670 = const AssetGenImage(
+    'assets/book/part4/K4-670.jpg',
+  );
+  final AssetGenImage k4671 = const AssetGenImage(
+    'assets/book/part4/K4-671.jpg',
+  );
+  final AssetGenImage k4672 = const AssetGenImage(
+    'assets/book/part4/K4-672.jpg',
+  );
+  final AssetGenImage k4673 = const AssetGenImage(
+    'assets/book/part4/K4-673.jpg',
+  );
+  final AssetGenImage k4674 = const AssetGenImage(
+    'assets/book/part4/K4-674.jpg',
+  );
+  final AssetGenImage k4675 = const AssetGenImage(
+    'assets/book/part4/K4-675.jpg',
+  );
+  final AssetGenImage k4676 = const AssetGenImage(
+    'assets/book/part4/K4-676.jpg',
+  );
+  final AssetGenImage k4677 = const AssetGenImage(
+    'assets/book/part4/K4-677.jpg',
+  );
+  final AssetGenImage k4678 = const AssetGenImage(
+    'assets/book/part4/K4-678.jpg',
+  );
+  final AssetGenImage k4679 = const AssetGenImage(
+    'assets/book/part4/K4-679.jpg',
+  );
+  final AssetGenImage k4680 = const AssetGenImage(
+    'assets/book/part4/K4-680.jpg',
+  );
+  final AssetGenImage k4681 = const AssetGenImage(
+    'assets/book/part4/K4-681.jpg',
+  );
+  final AssetGenImage k4682 = const AssetGenImage(
+    'assets/book/part4/K4-682.jpg',
+  );
+  final AssetGenImage k4683 = const AssetGenImage(
+    'assets/book/part4/K4-683.jpg',
+  );
+  final AssetGenImage k4684 = const AssetGenImage(
+    'assets/book/part4/K4-684.jpg',
+  );
+  final AssetGenImage k4685 = const AssetGenImage(
+    'assets/book/part4/K4-685.jpg',
+  );
+  final AssetGenImage k4686 = const AssetGenImage(
+    'assets/book/part4/K4-686.jpg',
+  );
+  final AssetGenImage k4687 = const AssetGenImage(
+    'assets/book/part4/K4-687.jpg',
+  );
+  final AssetGenImage k4688 = const AssetGenImage(
+    'assets/book/part4/K4-688.jpg',
+  );
+  final AssetGenImage k4689 = const AssetGenImage(
+    'assets/book/part4/K4-689.jpg',
+  );
+  final AssetGenImage k4690 = const AssetGenImage(
+    'assets/book/part4/K4-690.jpg',
+  );
+  final AssetGenImage k4691 = const AssetGenImage(
+    'assets/book/part4/K4-691.jpg',
+  );
+  final AssetGenImage k4692 = const AssetGenImage(
+    'assets/book/part4/K4-692.jpg',
+  );
+  final AssetGenImage k4693 = const AssetGenImage(
+    'assets/book/part4/K4-693.jpg',
+  );
+  final AssetGenImage k4694 = const AssetGenImage(
+    'assets/book/part4/K4-694.jpg',
+  );
+  final AssetGenImage k4695 = const AssetGenImage(
+    'assets/book/part4/K4-695.jpg',
+  );
+  final AssetGenImage k4696 = const AssetGenImage(
+    'assets/book/part4/K4-696.jpg',
+  );
+  final AssetGenImage k4697 = const AssetGenImage(
+    'assets/book/part4/K4-697.jpg',
+  );
+  final AssetGenImage k4698 = const AssetGenImage(
+    'assets/book/part4/K4-698.jpg',
+  );
+  final AssetGenImage k4699 = const AssetGenImage(
+    'assets/book/part4/K4-699.jpg',
+  );
+  final AssetGenImage k4700 = const AssetGenImage(
+    'assets/book/part4/K4-700.jpg',
+  );
+  final AssetGenImage k4701 = const AssetGenImage(
+    'assets/book/part4/K4-701.jpg',
+  );
+  final AssetGenImage k4702 = const AssetGenImage(
+    'assets/book/part4/K4-702.jpg',
+  );
+  final AssetGenImage k4703 = const AssetGenImage(
+    'assets/book/part4/K4-703.jpg',
+  );
+  final AssetGenImage k4704 = const AssetGenImage(
+    'assets/book/part4/K4-704.jpg',
+  );
+  final AssetGenImage k4705 = const AssetGenImage(
+    'assets/book/part4/K4-705.jpg',
+  );
+  final AssetGenImage k4706 = const AssetGenImage(
+    'assets/book/part4/K4-706.jpg',
+  );
+  final AssetGenImage k4707 = const AssetGenImage(
+    'assets/book/part4/K4-707.jpg',
+  );
+  final AssetGenImage k4708 = const AssetGenImage(
+    'assets/book/part4/K4-708.jpg',
+  );
+  final AssetGenImage k4709 = const AssetGenImage(
+    'assets/book/part4/K4-709.jpg',
+  );
+  final AssetGenImage k4710 = const AssetGenImage(
+    'assets/book/part4/K4-710.jpg',
+  );
+  final AssetGenImage k4711 = const AssetGenImage(
+    'assets/book/part4/K4-711.jpg',
+  );
+  final AssetGenImage k4712 = const AssetGenImage(
+    'assets/book/part4/K4-712.jpg',
+  );
+  final AssetGenImage k4713 = const AssetGenImage(
+    'assets/book/part4/K4-713.jpg',
+  );
+  final AssetGenImage k4714 = const AssetGenImage(
+    'assets/book/part4/K4-714.jpg',
+  );
+  final AssetGenImage k4715 = const AssetGenImage(
+    'assets/book/part4/K4-715.jpg',
+  );
+  final AssetGenImage k4716 = const AssetGenImage(
+    'assets/book/part4/K4-716.jpg',
+  );
+  final AssetGenImage k4717 = const AssetGenImage(
+    'assets/book/part4/K4-717.jpg',
+  );
+  final AssetGenImage k4718 = const AssetGenImage(
+    'assets/book/part4/K4-718.jpg',
+  );
+  final AssetGenImage k4719 = const AssetGenImage(
+    'assets/book/part4/K4-719.jpg',
+  );
+  final AssetGenImage k4720 = const AssetGenImage(
+    'assets/book/part4/K4-720.jpg',
+  );
+  final AssetGenImage k4721 = const AssetGenImage(
+    'assets/book/part4/K4-721.jpg',
+  );
+  final AssetGenImage k4722 = const AssetGenImage(
+    'assets/book/part4/K4-722.jpg',
+  );
+  final AssetGenImage k4723 = const AssetGenImage(
+    'assets/book/part4/K4-723.jpg',
+  );
+  final AssetGenImage k4724 = const AssetGenImage(
+    'assets/book/part4/K4-724.jpg',
+  );
+  final AssetGenImage k4725 = const AssetGenImage(
+    'assets/book/part4/K4-725.jpg',
+  );
+  final AssetGenImage k4726 = const AssetGenImage(
+    'assets/book/part4/K4-726.jpg',
+  );
+  final AssetGenImage k4727 = const AssetGenImage(
+    'assets/book/part4/K4-727.jpg',
+  );
+  final AssetGenImage k4728 = const AssetGenImage(
+    'assets/book/part4/K4-728.jpg',
+  );
+  final AssetGenImage k4729 = const AssetGenImage(
+    'assets/book/part4/K4-729.jpg',
+  );
+  final AssetGenImage k4730 = const AssetGenImage(
+    'assets/book/part4/K4-730.jpg',
+  );
+  final AssetGenImage k4731 = const AssetGenImage(
+    'assets/book/part4/K4-731.jpg',
+  );
+  final AssetGenImage k4732 = const AssetGenImage(
+    'assets/book/part4/K4-732.jpg',
+  );
+  final AssetGenImage k4733 = const AssetGenImage(
+    'assets/book/part4/K4-733.jpg',
+  );
+  final AssetGenImage k4734 = const AssetGenImage(
+    'assets/book/part4/K4-734.jpg',
+  );
+  final AssetGenImage k4735 = const AssetGenImage(
+    'assets/book/part4/K4-735.jpg',
+  );
+  final AssetGenImage k4736 = const AssetGenImage(
+    'assets/book/part4/K4-736.jpg',
+  );
+  final AssetGenImage k4737 = const AssetGenImage(
+    'assets/book/part4/K4-737.jpg',
+  );
+  final AssetGenImage k4738 = const AssetGenImage(
+    'assets/book/part4/K4-738.jpg',
+  );
+  final AssetGenImage k4739 = const AssetGenImage(
+    'assets/book/part4/K4-739.jpg',
+  );
+  final AssetGenImage k4740 = const AssetGenImage(
+    'assets/book/part4/K4-740.jpg',
+  );
+  final AssetGenImage k4741 = const AssetGenImage(
+    'assets/book/part4/K4-741.jpg',
+  );
+  final AssetGenImage k4742 = const AssetGenImage(
+    'assets/book/part4/K4-742.jpg',
+  );
+  final AssetGenImage k4743 = const AssetGenImage(
+    'assets/book/part4/K4-743.jpg',
+  );
+  final AssetGenImage k4744 = const AssetGenImage(
+    'assets/book/part4/K4-744.jpg',
+  );
+  final AssetGenImage k4745 = const AssetGenImage(
+    'assets/book/part4/K4-745.jpg',
+  );
+  final AssetGenImage k4746 = const AssetGenImage(
+    'assets/book/part4/K4-746.jpg',
+  );
+  final AssetGenImage k4747 = const AssetGenImage(
+    'assets/book/part4/K4-747.jpg',
+  );
+  final AssetGenImage k4748 = const AssetGenImage(
+    'assets/book/part4/K4-748.jpg',
+  );
+  final AssetGenImage k4749 = const AssetGenImage(
+    'assets/book/part4/K4-749.jpg',
+  );
+  final AssetGenImage k4750 = const AssetGenImage(
+    'assets/book/part4/K4-750.jpg',
+  );
+  final AssetGenImage k4751 = const AssetGenImage(
+    'assets/book/part4/K4-751.jpg',
+  );
+  final AssetGenImage k4752 = const AssetGenImage(
+    'assets/book/part4/K4-752.jpg',
+  );
+  final AssetGenImage k4753 = const AssetGenImage(
+    'assets/book/part4/K4-753.jpg',
+  );
+  final AssetGenImage k4754 = const AssetGenImage(
+    'assets/book/part4/K4-754.jpg',
+  );
+  final AssetGenImage k4755 = const AssetGenImage(
+    'assets/book/part4/K4-755.jpg',
+  );
+  final AssetGenImage k4756 = const AssetGenImage(
+    'assets/book/part4/K4-756.jpg',
+  );
+  final AssetGenImage k4757 = const AssetGenImage(
+    'assets/book/part4/K4-757.jpg',
+  );
+  final AssetGenImage k4758 = const AssetGenImage(
+    'assets/book/part4/K4-758.jpg',
+  );
+  final AssetGenImage k4759 = const AssetGenImage(
+    'assets/book/part4/K4-759.jpg',
+  );
+  final AssetGenImage k4760 = const AssetGenImage(
+    'assets/book/part4/K4-760.jpg',
+  );
+  final AssetGenImage k4761 = const AssetGenImage(
+    'assets/book/part4/K4-761.jpg',
+  );
+  final AssetGenImage k4762 = const AssetGenImage(
+    'assets/book/part4/K4-762.jpg',
+  );
+  final AssetGenImage k4763 = const AssetGenImage(
+    'assets/book/part4/K4-763.jpg',
+  );
+  final AssetGenImage k4764 = const AssetGenImage(
+    'assets/book/part4/K4-764.jpg',
+  );
+  final AssetGenImage k4765 = const AssetGenImage(
+    'assets/book/part4/K4-765.jpg',
+  );
+  final AssetGenImage k4766 = const AssetGenImage(
+    'assets/book/part4/K4-766.jpg',
+  );
+  final AssetGenImage k4767 = const AssetGenImage(
+    'assets/book/part4/K4-767.jpg',
+  );
+  final AssetGenImage k4768 = const AssetGenImage(
+    'assets/book/part4/K4-768.jpg',
+  );
+  final AssetGenImage k4769 = const AssetGenImage(
+    'assets/book/part4/K4-769.jpg',
+  );
+  final AssetGenImage k4770 = const AssetGenImage(
+    'assets/book/part4/K4-770.jpg',
+  );
 }
 
 class AssetGenImage {

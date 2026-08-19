@@ -17,6 +17,11 @@ class QuranHomePage extends StatefulWidget {
 class _QuranHomePageState extends State<QuranHomePage> {
   @override
   Widget build(BuildContext context) {
+    var page_height=MediaQuery.of(context).size.height;
+    var page_width=MediaQuery.of(context).size.width;
+    ScrollPhysics ph=ScrollPhysics();
+    print("page height=${page_height}");
+    print("page_width=${page_width}");
     return Scaffold(
     appBar: AppBar(
       leading: IconButton(
@@ -27,9 +32,10 @@ class _QuranHomePageState extends State<QuranHomePage> {
       body: PageviewQuran(
         initialPageNumber: widget.initialPageNumber ?? 5,
         theme: QcfThemeData(),
-        sp: 1.sp,
+        sp: 0.9.sp,
         ///h for responsiveness
         h: 0.9.h,
+        physics: ph,
         textColor: Colors.black,
         onTap: (surah, verse) {
 

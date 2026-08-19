@@ -15,11 +15,11 @@ class QuranApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ScreenUtilInit(
-      designSize: const Size(392.7, 801),
-      minTextAdapt: true,
-      splitScreenMode: true,
-      builder: (context, child) {
+    // return ScreenUtilInit(
+    //   designSize: const Size(392.7, 801),
+    //   minTextAdapt: true,
+    //   splitScreenMode: true,
+    //   builder: (context, child) {
         return MaterialApp(
           title: 'نور الإسلام \n فى جمع قراءات خير الكلام',
           debugShowCheckedModeBanner: false,
@@ -30,10 +30,10 @@ class QuranApp extends StatelessWidget {
             ),
             useMaterial3: true,
           ),
-          home: child,
+          home:const StartUpPage() ,
         );
-      },
-      child: const StartUpPage(),
-    );
+    //   },
+      // child: const StartUpPage(),
+    // );
   }
 }

@@ -1,7 +1,11 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:nour_alislam_offline/partAndPageSelector.dart';
+import 'package:nour_alislam_offline/screens_forqan/reading_page.dart';
+import 'package:nour_alislam_offline/screens_forqan/surah_forqan.dart';
 import 'package:nour_alislam_offline/searchByAyaPart.dart';
 import 'package:nour_alislam_offline/surah_index_page.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -17,6 +21,25 @@ class StartUpPage extends StatefulWidget {
 class _StartUpPageState extends State<StartUpPage> {
   bool _showPageInput = false;
   final _pageController = TextEditingController();
+  List<Surah> surahList = [];
+
+
+  @override
+  void initState() {
+
+    readJson();
+    super.initState();
+  }
+
+  Future<void> readJson() async {
+    final String response = await rootBundle.loadString('assets/surahdata/surah.json');
+    final data = await json.decode(response);
+    for (var item in data["chapters"]) {
+      surahList.add(Surah.fromMap(item));
+    }
+    debugPrint(surahList.length.toString());
+    setState(() {});
+  }
 
   @override
   void dispose() {
@@ -42,16 +65,17 @@ class _StartUpPageState extends State<StartUpPage> {
       context,
       MaterialPageRoute(
         builder: (context) =>
-            ScreenUtilInit(
-              designSize: const Size(392.72727272727275, 800.7272727272727),
-              minTextAdapt: true,
-              builder: (context, child) {
-                return   QuranHomePage(
-                  initialPageNumber: page,
-                );
-
-              },
-            )
+            // ScreenUtilInit(
+            //   designSize: const Size(392.72727272727275, 800.7272727272727),
+            //   minTextAdapt: true,
+            //   builder: (context, child) {
+            //     return   QuranHomePage(
+            //       initialPageNumber: page,
+            //     );
+            //
+            //   },
+            // )
+        SurahPage(surah: surahList[10],aya: 20)
         //     PngViewerPage(
         //   bookNumber: 1,
         //   pageNumber: page,
