@@ -56,6 +56,9 @@ class _PartAndPageSelectorState extends State<PartAndPageSelector> {
             TextFormField(
               controller: _pageController,
               keyboardType: TextInputType.number,
+              onFieldSubmitted: (typedData){
+                _partAndPageSelector();
+                print(typedData);},
               decoration: const InputDecoration(
                 labelText: 'رقم الصفحة',
                 border: OutlineInputBorder(),
@@ -63,26 +66,7 @@ class _PartAndPageSelectorState extends State<PartAndPageSelector> {
             ),
             const SizedBox(height: 16),
             ElevatedButton(
-              onPressed: () {
-                if (selectedPart != null && _pageController.text.isNotEmpty) {
-                  final int partNumber = partChoices.indexOf(selectedPart!) + 1;
-                  final int? pageInput = int.tryParse(_pageController.text);
-                  if (pageInput != null &&
-                      pageInput >= 1 &&
-                      pageInput <= booksLimit[partNumber - 1]) {
-                    final int pageNumber = pageInput + 5;
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => PngViewerPage(
-                          bookNumber: partNumber,
-                          pageNumber: pageNumber,
-                        ),
-                      ),
-                    );
-                  }
-                }
-              },
+              onPressed:_partAndPageSelector,
               child: const Text("افتح الصفحة"),
             ),
           ],
@@ -90,4 +74,30 @@ class _PartAndPageSelectorState extends State<PartAndPageSelector> {
       ),
     );
   }
+
+ void _partAndPageSelector(){
+
+     if (selectedPart != null && _pageController.text.isNotEmpty) {
+       final int partNumber = partChoices.indexOf(selectedPart!) + 1;
+       final int? pageInput = int.tryParse(_pageController.text);
+       if (pageInput != null &&
+           pageInput >= 1 &&
+           pageInput <= booksLimit[partNumber - 1]) {
+         final int pageNumber = pageInput + 5;
+         Navigator.push(
+           context,
+           MaterialPageRoute(
+             builder: (context) => PngViewerPage(
+               bookNumber: partNumber,
+               pageNumber: pageNumber,
+             ),
+           ),
+         );
+
+     }
+   }
+
+
+ }
+
 }
